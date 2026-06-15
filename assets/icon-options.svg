@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220">
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbfcf8"/>
+      <stop offset="1" stop-color="#e8eceb"/>
+    </linearGradient>
+    <linearGradient id="darkA" x1="26" x2="146" y1="28" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#13171d"/>
+      <stop offset="1" stop-color="#0b2522"/>
+    </linearGradient>
+    <linearGradient id="inkBlue" x1="210" x2="330" y1="28" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f1117"/>
+      <stop offset="1" stop-color="#102f44"/>
+    </linearGradient>
+    <linearGradient id="graphite" x1="394" x2="514" y1="28" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1d21"/>
+      <stop offset="1" stop-color="#2b2417"/>
+    </linearGradient>
+    <linearGradient id="ivory" x1="578" x2="698" y1="28" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7f3e7"/>
+      <stop offset="1" stop-color="#d8ece4"/>
+    </linearGradient>
+    <linearGradient id="nightRed" x1="762" x2="882" y1="28" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#151820"/>
+      <stop offset="0.55" stop-color="#111316"/>
+      <stop offset="1" stop-color="#301717"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="220" rx="24" fill="url(#panel)"/>
+  <path d="M0 178h920" stroke="#d5dad8"/>
+
+  <g transform="translate(24 24)">
+    <rect width="128" height="128" rx="28" fill="url(#darkA)"/>
+    <path d="M32 95 62 28l34 67" fill="none" stroke="#f7f8f4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 72h39" stroke="#39d4c0" stroke-width="8" stroke-linecap="round"/>
+    <path d="M96 35h18M100 52h14M15 95h24M22 78h17" stroke="#0f8b6d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="99" cy="94" r="7" fill="#e0362d" filter="url(#softGlow)"/>
+    <text x="64" y="172" text-anchor="middle" font-family="Aptos, Segoe UI, sans-serif" font-size="15" fill="#181b1f">01 Signal A</text>
+  </g>
+
+  <g transform="translate(208 24)">
+    <rect width="128" height="128" rx="28" fill="url(#inkBlue)"/>
+    <circle cx="64" cy="64" r="40" fill="none" stroke="#263846" stroke-width="5"/>
+    <circle cx="64" cy="64" r="24" fill="none" stroke="#263846" stroke-width="5"/>
+    <path d="M64 64 100 32" stroke="#39d4c0" stroke-width="8" stroke-linecap="round" filter="url(#softGlow)"/>
+    <path d="M64 22a42 42 0 0 1 39 28" fill="none" stroke="#0f8b6d" stroke-width="7" stroke-linecap="round"/>
+    <path d="M30 91a42 42 0 0 1-8-30" fill="none" stroke="#d7b407" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="64" cy="64" r="7" fill="#f7f8f4"/>
+    <circle cx="100" cy="32" r="8" fill="#e0362d" filter="url(#softGlow)"/>
+    <text x="64" y="172" text-anchor="middle" font-family="Aptos, Segoe UI, sans-serif" font-size="15" fill="#181b1f">02 Radar Cut</text>
+  </g>
+
+  <g transform="translate(392 24)">
+    <rect width="128" height="128" rx="28" fill="url(#graphite)"/>
+    <path d="M29 90 52 67l18 13 29-42" fill="none" stroke="#f7f8f4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31 35h66M31 105h66" stroke="#565c63" stroke-width="4" stroke-linecap="round"/>
+    <path d="M52 67 70 80 99 38" stroke="#d7b407" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29" cy="90" r="6" fill="#39d4c0"/>
+    <circle cx="52" cy="67" r="6" fill="#f7f8f4"/>
+    <circle cx="70" cy="80" r="6" fill="#0f8b6d"/>
+    <circle cx="99" cy="38" r="7" fill="#e0362d" filter="url(#softGlow)"/>
+    <text x="64" y="172" text-anchor="middle" font-family="Aptos, Segoe UI, sans-serif" font-size="15" fill="#181b1f">03 Alpha Line</text>
+  </g>
+
+  <g transform="translate(576 24)">
+    <rect width="128" height="128" rx="28" fill="url(#ivory)" stroke="#0d0f12" stroke-width="4"/>
+    <path d="M28 38h72v52H28z" fill="none" stroke="#0d0f12" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M43 38V22M64 38V22M85 38V22M43 106V90M64 106V90M85 106V90M28 54H13M28 75H13M115 54h-15M115 75h-15" stroke="#0d0f12" stroke-width="5" stroke-linecap="round"/>
+    <path d="M45 76 61 57l17 15 15-25" fill="none" stroke="#0f8b6d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="93" cy="47" r="7" fill="#e0362d"/>
+    <text x="64" y="172" text-anchor="middle" font-family="Aptos, Segoe UI, sans-serif" font-size="15" fill="#181b1f">04 Chip Ledger</text>
+  </g>
+
+  <g transform="translate(760 24)">
+    <rect width="128" height="128" rx="28" fill="url(#nightRed)"/>
+    <path d="M35 94V34l58 30-58 30Z" fill="none" stroke="#f7f8f4" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M48 64h37" stroke="#39d4c0" stroke-width="7" stroke-linecap="round"/>
+    <path d="M98 29c13 21 13 49 0 70" fill="none" stroke="#e0362d" stroke-width="6" stroke-linecap="round" filter="url(#softGlow)"/>
+    <path d="M22 30c-10 23-10 46 0 69" fill="none" stroke="#0f8b6d" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="65" cy="64" r="6" fill="#d7b407"/>
+    <text x="64" y="172" text-anchor="middle" font-family="Aptos, Segoe UI, sans-serif" font-size="15" fill="#181b1f">05 Signal Play</text>
+  </g>
+</svg>

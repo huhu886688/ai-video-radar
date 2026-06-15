@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Alpha Radar - AI 与加密视频情报</title>
+    <meta name="theme-color" content="#331019" />
+    <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+    <link rel="shortcut icon" href="./assets/favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="主导航">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true"></div>
+          <div>
+            <strong>Alpha Radar</strong>
+            <span>Video Intelligence</span>
+          </div>
+        </div>
+
+        <nav class="nav-list" aria-label="视图">
+          <button class="nav-item is-active" type="button" data-view="today">
+            <span aria-hidden="true">01</span>
+            科技专区
+          </button>
+          <button class="nav-item" type="button" data-view="investment">
+            <span aria-hidden="true">02</span>
+            投资专栏
+          </button>
+          <button class="nav-item" type="button" data-view="archive">
+            <span aria-hidden="true">03</span>
+            历史库
+          </button>
+          <button class="nav-item" type="button" data-view="sources">
+            <span aria-hidden="true">04</span>
+            数据源
+          </button>
+          <button class="nav-item" type="button" data-view="rules">
+            <span aria-hidden="true">05</span>
+            时间与评分
+          </button>
+        </nav>
+
+        <section class="side-panel" aria-labelledby="coverage-title">
+          <p id="coverage-title" class="panel-label">覆盖策略</p>
+          <div class="coverage-grid">
+            <span>P0</span>
+            <strong id="p0-count">0</strong>
+            <span>P1</span>
+            <strong id="p1-count">0</strong>
+            <span>回填</span>
+            <strong>10 年</strong>
+          </div>
+        </section>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">北京时间 · 每日 08:30 简报</p>
+            <h1>AI、加密与投资大师视频情报台</h1>
+          </div>
+          <div class="top-actions">
+            <label class="search-box">
+              <span aria-hidden="true">⌕</span>
+              <input id="search-input" type="search" placeholder="搜索人物、资产、主题" autocomplete="off" />
+            </label>
+            <button class="ghost-button" type="button" id="refresh-button">重算样例</button>
+            <span class="data-status" id="data-status">等待数据</span>
+          </div>
+        </header>
+
+        <section class="metric-strip" aria-label="关键指标">
+          <article class="metric-card">
+            <span>今日新增</span>
+            <strong id="metric-new">0</strong>
+            <small>按 published_at 归入今日</small>
+          </article>
+          <article class="metric-card">
+            <span>最高综合热度</span>
+            <strong id="metric-hot">0</strong>
+            <small>重要性 + 传播度 + 新鲜度</small>
+          </article>
+          <article class="metric-card">
+            <span>快速扩散</span>
+            <strong id="metric-rising">0</strong>
+            <small>6 小时播放增速超过基线</small>
+          </article>
+        </section>
+
+        <section class="view is-visible" id="view-today" aria-labelledby="today-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Tech Signal</p>
+              <h2 id="today-title">科技重点视频</h2>
+            </div>
+            <div class="segmented-control" role="tablist" aria-label="排序">
+              <button class="segment is-active" type="button" data-sort="hot">综合</button>
+              <button class="segment" type="button" data-sort="latest">最新</button>
+              <button class="segment" type="button" data-sort="importance">重要</button>
+              <button class="segment" type="button" data-sort="rising">暴涨</button>
+            </div>
+          </div>
+
+          <div class="content-grid">
+            <div class="feed-column">
+              <div class="filter-row" aria-label="过滤">
+                <button class="filter-chip is-active" type="button" data-domain="all">全部</button>
+                <button class="filter-chip" type="button" data-domain="AI">AI</button>
+                <button class="filter-chip" type="button" data-domain="Crypto">Crypto</button>
+              </div>
+              <div class="video-feed" id="video-feed"></div>
+            </div>
+
+            <aside class="insight-column" aria-label="今日洞察">
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">时间窗口</p>
+                  <strong id="window-label">00:00 - 23:59</strong>
+                </div>
+                <div class="timeline-band">
+                  <span>00:00</span>
+                  <span>08:30</span>
+                  <span>20:30</span>
+                  <span>23:59</span>
+                </div>
+                <div class="window-rule">
+                  <p>早报覆盖昨日完整窗口，并补入今日凌晨高优先级视频。</p>
+                </div>
+              </section>
+
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">主题热区</p>
+                  <strong>Top Topics</strong>
+                </div>
+                <div class="topic-stack" id="topic-stack"></div>
+              </section>
+
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">传播来源</p>
+                  <strong>Platform Mix</strong>
+                </div>
+                <div class="platform-bars" id="platform-bars"></div>
+              </section>
+            </aside>
+          </div>
+        </section>
+
+        <section class="view" id="view-investment" aria-labelledby="investment-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Investor Archive</p>
+              <h2 id="investment-title">投资大师10年公开分享库</h2>
+            </div>
+            <div class="segmented-control" role="tablist" aria-label="投资理念">
+              <button class="investment-segment is-active" type="button" data-investment-filter="all">全部</button>
+              <button class="investment-segment" type="button" data-investment-filter="价值投资派">价值投资</button>
+              <button class="investment-segment" type="button" data-investment-filter="优质成长派">优质成长</button>
+              <button class="investment-segment" type="button" data-investment-filter="全球宏观派">全球宏观</button>
+              <button class="investment-segment" type="button" data-investment-filter="量化投资">量化投资</button>
+              <button class="investment-segment" type="button" data-investment-filter="指数投资派">指数投资</button>
+              <button class="investment-segment" type="button" data-investment-filter="激进投资派">激进投资</button>
+              <button class="investment-segment" type="button" data-investment-filter="另类资产派">另类资产</button>
+              <button class="investment-segment" type="button" data-investment-filter="周期逆向派">周期逆向</button>
+            </div>
+          </div>
+
+          <div class="investment-layout">
+            <div class="investment-feed" id="investment-feed"></div>
+
+            <aside class="insight-column" aria-label="投资洞察">
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">高信心方向</p>
+                  <strong>Philosophy</strong>
+                </div>
+                <div class="conviction-stack" id="conviction-stack"></div>
+              </section>
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">关注名单</p>
+                  <strong>Top 20</strong>
+                </div>
+                <div class="watchlist-grid" id="investor-watchlist"></div>
+              </section>
+              <section class="insight-panel">
+                <div class="panel-heading">
+                  <p class="panel-label">使用提醒</p>
+                  <strong>Research Only</strong>
+                </div>
+                <p class="note-text">只有单条视频 URL 且已核验可播放，才会显示“看原视频”；其余内容只提供定位线索。</p>
+              </section>
+            </aside>
+          </div>
+        </section>
+
+        <section class="view" id="view-archive" aria-labelledby="archive-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Historical Memory</p>
+              <h2 id="archive-title">历史资讯库</h2>
+            </div>
+            <div class="archive-count" id="archive-count">0 条</div>
+          </div>
+          <div class="archive-table-wrap">
+            <table class="archive-table">
+              <thead>
+                <tr>
+                  <th>时间</th>
+                  <th>标题</th>
+                  <th>人物/来源</th>
+                  <th>主题</th>
+                  <th>综合</th>
+                  <th>传播</th>
+                </tr>
+              </thead>
+              <tbody id="archive-table-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="view" id="view-sources" aria-labelledby="sources-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Watchlist</p>
+              <h2 id="sources-title">数据源白名单</h2>
+            </div>
+            <button class="ghost-button" type="button" id="source-export">导出配置</button>
+          </div>
+          <div class="source-grid" id="source-grid"></div>
+        </section>
+
+        <section class="view" id="view-rules" aria-labelledby="rules-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Scoring Engine</p>
+              <h2 id="rules-title">时间规则与热度指标</h2>
+            </div>
+          </div>
+          <div class="rules-grid">
+            <article class="rule-block">
+              <p class="panel-label">时间字段</p>
+              <dl>
+                <div><dt>published_at</dt><dd>视频原始发布时间，决定今日归属。</dd></div>
+                <div><dt>discovered_at</dt><dd>系统首次发现时间，用来排查漏抓。</dd></div>
+                <div><dt>processed_at</dt><dd>摘要、标签、实体识别完成时间。</dd></div>
+                <div><dt>metrics_snapshot_at</dt><dd>每次采集播放、评论、X 互动的快照。</dd></div>
+              </dl>
+            </article>
+            <article class="rule-block">
+              <p class="panel-label">综合热度</p>
+              <div class="formula">
+                <span>Hot =</span>
+                <strong>40% 重要性</strong>
+                <strong>35% 传播度</strong>
+                <strong>20% 新鲜度</strong>
+                <strong>5% 编辑精选</strong>
+              </div>
+            </article>
+            <article class="rule-block">
+              <p class="panel-label">采集频率</p>
+              <ul class="rule-list">
+                <li><strong>P0</strong><span>每 30 分钟拉取新视频与指标。</span></li>
+                <li><strong>P1</strong><span>每 2 小时拉取，适合普通媒体和 X 发现层。</span></li>
+                <li><strong>0-6 小时视频</strong><span>每 30 分钟刷新热度快照。</span></li>
+                <li><strong>1-3 天视频</strong><span>每 6 小时刷新，捕捉延迟传播。</span></li>
+              </ul>
+            </article>
+            <article class="rule-block">
+              <p class="panel-label">下一步接 API</p>
+              <ul class="rule-list">
+                <li><strong>YouTube</strong><span>channels.list -> uploads playlist -> playlistItems.list -> videos.list。</span></li>
+                <li><strong>X</strong><span>Recent Search 追 7 天发现层，Filtered Stream 追核心账号。</span></li>
+                <li><strong>存储</strong><span>视频表、来源表、实体表、指标快照表分开。</span></li>
+              </ul>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="video-card-template">
+      <article class="video-card">
+        <div class="thumb-wrap">
+          <img alt="" loading="lazy" />
+          <span class="domain-pill"></span>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="time"></span>
+            <span class="source"></span>
+            <span class="duration"></span>
+          </div>
+          <h3></h3>
+          <p class="summary"></p>
+          <div class="tag-row"></div>
+          <div class="score-row">
+            <div><span>综合</span><strong class="hot-score"></strong></div>
+            <div><span>重要</span><strong class="importance-score"></strong></div>
+            <div><span>传播</span><strong class="spread-score"></strong></div>
+            <div><span>增速</span><strong class="velocity-score"></strong></div>
+          </div>
+          <a class="source-link" href="#" target="_blank" rel="noopener noreferrer">来源加载中</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="./data/generated-videos.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

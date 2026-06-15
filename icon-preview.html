@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Alpha Radar Icon Options</title>
+    <style>
+      :root {
+        --ink: #181b1f;
+        --muted: #66707a;
+        --paper: #f7f8f4;
+        --line: #d8dde3;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        padding: 32px;
+        background:
+          linear-gradient(90deg, rgba(13, 15, 18, 0.035) 1px, transparent 1px),
+          linear-gradient(180deg, rgba(13, 15, 18, 0.035) 1px, transparent 1px),
+          var(--paper);
+        background-size: 42px 42px;
+        color: var(--ink);
+        font-family: "Aptos", "Segoe UI", "Helvetica Neue", sans-serif;
+      }
+
+      main {
+        max-width: 1180px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-family: "Iowan Old Style", Georgia, serif;
+        font-size: 34px;
+        letter-spacing: 0;
+      }
+
+      p {
+        margin: 0 0 22px;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .preview {
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        background: #ffffff;
+        padding: 18px;
+        box-shadow: 0 18px 55px rgba(24, 27, 31, 0.10);
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Alpha Radar 图标候选</h1>
+      <p>先选编号，我再把正式 favicon 换掉。01 更品牌化，04 更像科技情报工具。</p>
+      <div class="preview">
+        <img src="./assets/icon-options.svg" alt="五个 Alpha Radar favicon 候选图案" />
+      </div>
+    </main>
+  </body>
+</html>
