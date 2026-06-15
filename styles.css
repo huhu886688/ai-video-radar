@@ -376,6 +376,47 @@ h2 {
   margin-bottom: 12px;
 }
 
+#view-investment .section-head {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: end;
+  gap: 18px;
+}
+
+#view-investment .section-head > div:first-child {
+  min-width: 0;
+}
+
+#investment-title {
+  max-width: none;
+  font-size: clamp(25px, 2.15vw, 34px);
+  line-height: 1.02;
+  white-space: nowrap;
+}
+
+#view-investment .segmented-control {
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  gap: 7px;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 2px;
+}
+
+#view-investment .segmented-control::-webkit-scrollbar {
+  display: none;
+}
+
+#view-investment .investment-segment {
+  flex: 0 0 auto;
+  min-height: 34px;
+  padding: 7px 12px;
+  font-size: 13px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
 .video-feed {
   display: grid;
   gap: 12px;
@@ -1366,6 +1407,16 @@ h2 {
 
   .investment-layout {
     grid-template-columns: 1fr;
+  }
+
+  #view-investment .section-head {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  #view-investment .segmented-control {
+    justify-content: flex-start;
+    max-width: 100%;
   }
 
   .insight-column {
