@@ -4,3 +4,4 @@ node_modules/
 .env.*
 *.log
 preview-home-*.png
+preview-mobile-*.png
