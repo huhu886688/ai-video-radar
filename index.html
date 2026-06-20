@@ -60,14 +60,14 @@
         <header class="topbar">
           <div>
             <p class="eyebrow">北京时间 · 每日 08:30 简报</p>
-            <h1>AI、加密与投资大师视频情报台</h1>
+            <h1>科技与投资大师视频情报站</h1>
           </div>
           <div class="top-actions">
             <label class="search-box">
               <span aria-hidden="true">⌕</span>
               <input id="search-input" type="search" placeholder="搜索人物、资产、主题" autocomplete="off" />
             </label>
-            <button class="ghost-button" type="button" id="refresh-button">重算样例</button>
+            <button class="ghost-button" type="button" id="refresh-button">重算</button>
             <span class="data-status" id="data-status">等待数据</span>
           </div>
         </header>
@@ -96,21 +96,23 @@
               <p class="eyebrow">Tech Signal</p>
               <h2 id="today-title">科技重点视频</h2>
             </div>
-            <div class="segmented-control" role="tablist" aria-label="排序">
-              <button class="segment is-active" type="button" data-sort="hot">综合</button>
-              <button class="segment" type="button" data-sort="latest">最新</button>
-              <button class="segment" type="button" data-sort="importance">重要</button>
-              <button class="segment" type="button" data-sort="rising">暴涨</button>
-            </div>
-          </div>
-
-          <div class="content-grid">
-            <div class="feed-column">
+            <div class="section-controls">
               <div class="filter-row" aria-label="过滤">
                 <button class="filter-chip is-active" type="button" data-domain="all">全部</button>
                 <button class="filter-chip" type="button" data-domain="AI">AI</button>
                 <button class="filter-chip" type="button" data-domain="Crypto">Crypto</button>
               </div>
+              <div class="segmented-control" role="tablist" aria-label="排序">
+                <button class="segment is-active" type="button" data-sort="hot">综合</button>
+                <button class="segment" type="button" data-sort="latest">最新</button>
+                <button class="segment" type="button" data-sort="importance">重要</button>
+                <button class="segment" type="button" data-sort="rising">暴涨</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="content-grid">
+            <div class="feed-column">
               <div class="video-feed" id="video-feed"></div>
             </div>
 
