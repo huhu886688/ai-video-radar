@@ -1604,7 +1604,7 @@ function renderDataStatus() {
   const node = document.querySelector("#data-status");
   if (!node) return;
   if (generatedVideos.length && liveData.generatedAt) {
-    node.textContent = `实时数据 ${generatedVideos.length} 条 · ${formatDateTime(liveData.generatedAt)}`;
+    node.textContent = `实时 ${generatedVideos.length}条 · ${formatDateTime(liveData.generatedAt)}`;
     return;
   }
   node.textContent = "当前为样例数据";
