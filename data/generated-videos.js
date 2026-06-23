@@ -1205,6 +1205,16 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "Dwarkesh Podcast: 404 Not Found",
     "Bankless: 404 Not Found",
     "a16z crypto: 404 Not Found",
-    "Altimeter Capital: 404 Not Found"
-  ]
+    "Altimeter Capital: 404 Not Found",
+    "OpenAI: 404 Not Found",
+    "Dwarkesh Podcast: 404 Not Found",
+    "NVIDIA: 404 Not Found",
+    "Ethereum Foundation: 500 Internal Server Error",
+    "Bankless: 404 Not Found",
+    "a16z crypto: 404 Not Found",
+    "ARK Invest: 404 Not Found",
+    "Altimeter Capital: 404 Not Found",
+    "Latest fetch returned no videos; kept previous data."
+  ],
+  "lastAttemptAt": "2026-06-23T04:40:46.868Z"
 };
