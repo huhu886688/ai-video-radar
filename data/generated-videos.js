@@ -1214,7 +1214,16 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "a16z crypto: 404 Not Found",
     "ARK Invest: 404 Not Found",
     "Altimeter Capital: 404 Not Found",
+    "Latest fetch returned no videos; kept previous data.",
+    "OpenAI: 404 Not Found",
+    "Dwarkesh Podcast: 404 Not Found",
+    "NVIDIA: 404 Not Found",
+    "Ethereum Foundation: 404 Not Found",
+    "Bankless: 404 Not Found",
+    "a16z crypto: 404 Not Found",
+    "ARK Invest: 404 Not Found",
+    "Altimeter Capital: 404 Not Found",
     "Latest fetch returned no videos; kept previous data."
   ],
-  "lastAttemptAt": "2026-06-23T04:40:46.868Z"
+  "lastAttemptAt": "2026-06-24T04:46:31.422Z"
 };
