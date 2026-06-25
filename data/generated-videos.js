@@ -1,5 +1,5 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-06-22T05:41:19.998Z",
+  "generatedAt": "2026-06-25T04:45:20.192Z",
   "sources": [
     {
       "id": "openai",
@@ -23,7 +23,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "trackedAssets": [
         "OpenAI"
-      ]
+      ],
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
     },
     {
       "id": "dwarkesh",
@@ -98,8 +99,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "trackedAssets": [
         "ETH"
-      ],
-      "channelId": "UCNOfzGXD_C9YMYmnefmPH0g"
+      ]
     },
     {
       "id": "bankless",
@@ -176,8 +176,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "TSLA",
         "NVDA",
         "COIN"
-      ],
-      "channelId": "UCK-zlnUfoDHzUwXcbddtnkg"
+      ]
     },
     {
       "id": "altimeter",
@@ -208,63 +207,49 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
-      "id": "ark-invest-t0j9oTDoZLU",
-      "title": "The Robotaxi Got A Ticket",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "nvidia-grS31HrIs7w",
+      "title": "EMPULSE | Early Access Launch Trailer",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/t0j9oTDoZLU",
+      "originalUrl": "https://www.youtube.com/watch?v=grS31HrIs7w",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-20T17:45:15+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-24T18:23:42+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i1.ytimg.com/vi/t0j9oTDoZLU/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：The Robotaxi Got A Ticket",
+      "contentType": "keynote",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i4.ytimg.com/vi/grS31HrIs7w/hqdefault.jpg",
+      "summary": "自动采集自 NVIDIA：EMPULSE | Early Access Launch Trailer",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics",
-        "AI Agents"
+        "GPU",
+        "Data Center",
+        "Robotics"
       ],
       "assets": [
-        "TSLA",
         "NVDA",
-        "COIN"
+        "Blackwell"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 77201,
-          "likes": 2022,
-          "comments": 227,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 161034,
+          "likes": 4218,
+          "comments": 473,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 124517,
-          "likes": 3486,
-          "comments": 436,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 259733,
+          "likes": 7273,
+          "comments": 909,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -273,62 +258,48 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "ark-invest-uPh02zk5EF4",
-      "title": "What If Your Cancer Drug Was Made Just For You?",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "openai-mVpCDzoNtxA",
+      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/uPh02zk5EF4",
+      "originalUrl": "https://www.youtube.com/shorts/mVpCDzoNtxA",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-19T13:45:11+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-23T18:45:29+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i2.ytimg.com/vi/uPh02zk5EF4/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：What If Your Cancer Drug Was Made Just For You?",
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
+        "OpenAI"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 58025,
-          "likes": 1520,
-          "comments": 171,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 597914,
+          "likes": 15662,
+          "comments": 1755,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 93589,
-          "likes": 2620,
-          "comments": 328,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 964378,
+          "likes": 27003,
+          "comments": 3375,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -337,62 +308,48 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "ark-invest-fRav7Mln28A",
-      "title": "SpaceX IPO, Anthropic Fable 5, And Roku | The Brainstorm EP 136",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "openai-qU5-komJ-GE",
+      "title": "How Omio is building the future of conversational travel",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=fRav7Mln28A",
+      "originalUrl": "https://www.youtube.com/watch?v=qU5-komJ-GE",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-18T22:00:12+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-23T11:30:20+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/fRav7Mln28A/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：SpaceX IPO, Anthropic Fable 5, And Roku | The Brainstorm EP 136",
+      "contentType": "founderInterview",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：How Omio is building the future of conversational travel",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
+        "OpenAI"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 95479,
-          "likes": 2501,
-          "comments": 280,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 458698,
+          "likes": 12015,
+          "comments": 1346,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 153999,
-          "likes": 4312,
-          "comments": 539,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 739835,
+          "likes": 20715,
+          "comments": 2589,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -401,62 +358,48 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "ark-invest-nCt0jy4vQIo",
-      "title": "Cathie Wood On The 2022 Rate Hike “Mistake”",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "openai-GhCP2eDrKHk",
+      "title": "Meet the ChatGPT Futures, Class of 2026",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/nCt0jy4vQIo",
+      "originalUrl": "https://www.youtube.com/shorts/GhCP2eDrKHk",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-18T17:31:07+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-22T21:06:32+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/nCt0jy4vQIo/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：Cathie Wood On The 2022 Rate Hike “Mistake”",
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i4.ytimg.com/vi/GhCP2eDrKHk/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Meet the ChatGPT Futures, Class of 2026",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
+        "OpenAI"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 92694,
-          "likes": 2428,
-          "comments": 272,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 538269,
+          "likes": 14099,
+          "comments": 1580,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 149507,
-          "likes": 4186,
-          "comments": 523,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 868176,
+          "likes": 24309,
+          "comments": 3039,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -465,62 +408,48 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "ark-invest-CZeQbypPrm8",
-      "title": "Betting On The Unconventional With Draper Associates’ Andy Tang",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "openai-27-GjDIWGo0",
+      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=CZeQbypPrm8",
+      "originalUrl": "https://www.youtube.com/watch?v=27-GjDIWGo0",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-18T12:00:19+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-22T17:45:36+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i4.ytimg.com/vi/CZeQbypPrm8/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：Betting On The Unconventional With Draper Associates’ Andy Tang",
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i3.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：How Zendesk CEO Tom Eggemeier goes from Idea to Action",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
+        "OpenAI"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 105251,
-          "likes": 2757,
-          "comments": 309,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 437726,
+          "likes": 11465,
+          "comments": 1285,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 169760,
-          "likes": 4753,
-          "comments": 594,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 706009,
+          "likes": 19768,
+          "comments": 2471,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -529,62 +458,98 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "ark-invest-SWKk0L2CpCY",
-      "title": "askARK Why Has Bitcoin Been Transitioning From Primarily Retail To Institutional Ownership?",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
+      "id": "openai-0JIbgZ544wU",
+      "title": "What Codex Unlocks for NTT Data",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/SWKk0L2CpCY",
+      "originalUrl": "https://www.youtube.com/watch?v=0JIbgZ544wU",
       "linkStatus": "verified",
-      "publishedAt": "2026-06-17T20:40:10+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "publishedAt": "2026-06-19T22:57:58+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i4.ytimg.com/vi/SWKk0L2CpCY/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：askARK Why Has Bitcoin Been Transitioning From Primarily Retail To Institutional Ownership?",
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i1.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：What Codex Unlocks for NTT Data",
       "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
+        "OpenAI"
       ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 90611,
-          "likes": 2373,
-          "comments": 266,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 727137,
+          "likes": 19046,
+          "comments": 2135,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 146147,
-          "likes": 4092,
-          "comments": 512,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 1172802,
+          "likes": 32838,
+          "comments": 4105,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-YPNOjXTDP9c",
+      "title": "Plan with ChatGPT",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-19T21:22:26+00:00",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Plan with ChatGPT",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 629865,
+          "likes": 16499,
+          "comments": 1849,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 1015912,
+          "likes": 28446,
+          "comments": 3556,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -603,8 +568,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/shorts/dymAF1U32IY",
       "linkStatus": "verified",
       "publishedAt": "2026-06-16T13:00:15+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -622,20 +587,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 435122,
-          "likes": 11398,
-          "comments": 1277,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 471891,
+          "likes": 12360,
+          "comments": 1385,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 701809,
-          "likes": 19651,
-          "comments": 2456,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 761114,
+          "likes": 21311,
+          "comments": 2664,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -654,8 +619,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=K0L3USu_5e8",
       "linkStatus": "verified",
       "publishedAt": "2026-06-12T13:00:21+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -673,20 +638,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 465796,
-          "likes": 12201,
-          "comments": 1367,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 488473,
+          "likes": 12795,
+          "comments": 1434,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 751284,
-          "likes": 21036,
-          "comments": 2629,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 787860,
+          "likes": 22060,
+          "comments": 2758,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -705,8 +670,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=haa9r1pe8Q8",
       "linkStatus": "verified",
       "publishedAt": "2026-06-09T17:25:03+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -724,20 +689,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 344607,
-          "likes": 9027,
-          "comments": 1011,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 347746,
+          "likes": 9109,
+          "comments": 1021,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 555818,
-          "likes": 15563,
-          "comments": 1945,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 560880,
+          "likes": 15705,
+          "comments": 1963,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -756,8 +721,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=9uSZI5yz7jc",
       "linkStatus": "verified",
       "publishedAt": "2026-06-09T13:00:08+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -775,20 +740,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 404471,
-          "likes": 10594,
-          "comments": 1187,
+          "at": "2026-06-24T22:45:24.306Z",
+          "views": 407117,
+          "likes": 10664,
+          "comments": 1195,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 652372,
-          "likes": 18266,
-          "comments": 2283,
+          "at": "2026-06-25T04:45:20.192Z",
+          "views": 656640,
+          "likes": 18386,
+          "comments": 2298,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -807,8 +772,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=YJmmY9l5GeQ",
       "linkStatus": "verified",
       "publishedAt": "2026-06-08T21:22:32+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
+      "discoveredAt": "2026-06-25T04:45:20.192Z",
+      "processedAt": "2026-06-25T04:45:20.192Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -826,7 +791,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-21T23:41:24.173Z",
+          "at": "2026-06-24T22:45:24.306Z",
           "views": 547063,
           "likes": 14329,
           "comments": 1606,
@@ -836,7 +801,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xImpressions": 0
         },
         {
-          "at": "2026-06-22T05:41:19.998Z",
+          "at": "2026-06-25T04:45:20.192Z",
           "views": 882360,
           "likes": 24706,
           "comments": 3088,
@@ -846,384 +811,14 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xImpressions": 0
         }
       ]
-    },
-    {
-      "id": "nvidia-y26m_mplxmw",
-      "title": "Zenless Zone Zero | Ray Tracing & DLSS Preview",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=y26m_mplxmw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-07T01:00:27+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/y26m_mplxmw/hqdefault.jpg",
-      "summary": "自动采集自 NVIDIA：Zenless Zone Zero | Ray Tracing & DLSS Preview",
-      "topics": [
-        "GPU",
-        "Data Center",
-        "Robotics"
-      ],
-      "assets": [
-        "NVDA",
-        "Blackwell"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 508896,
-          "likes": 13330,
-          "comments": 1494,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 820800,
-          "likes": 22982,
-          "comments": 2873,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-Big2gK-E5i8",
-      "title": "Devcon 8 Tickets Are Live | Mumbai 2026",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Big2gK-E5i8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-05-20T16:00:34+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i3.ytimg.com/vi/Big2gK-E5i8/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Devcon 8 Tickets Are Live | Mumbai 2026",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 178002,
-          "likes": 4663,
-          "comments": 523,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 287100,
-          "likes": 8039,
-          "comments": 1005,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-st_A7rRr9tk",
-      "title": "Devcon Mumbai - Coming Nov 3-6, 2026",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=st_A7rRr9tk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-03-11T16:23:01+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i4.ytimg.com/vi/st_A7rRr9tk/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Devcon Mumbai - Coming Nov 3-6, 2026",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 210366,
-          "likes": 5510,
-          "comments": 618,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 339300,
-          "likes": 9500,
-          "comments": 1188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-EWe-cjT9IQs",
-      "title": "Stani Kulechov on: saving six months for a computer, dropping out of high school, and building AAVE",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=EWe-cjT9IQs",
-      "linkStatus": "verified",
-      "publishedAt": "2026-02-27T16:48:52+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/EWe-cjT9IQs/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Stani Kulechov on: saving six months for a computer, dropping out of high school, and building AAVE",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability",
-        "Compute"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 150493,
-          "likes": 3942,
-          "comments": 442,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 242730,
-          "likes": 6796,
-          "comments": 850,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-GZPLTF5ds2A",
-      "title": "Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=GZPLTF5ds2A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-02-11T20:43:54+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i4.ytimg.com/vi/GZPLTF5ds2A/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 184475,
-          "likes": 4832,
-          "comments": 541,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 297540,
-          "likes": 8331,
-          "comments": 1041,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-ABB2B4FcsF0",
-      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ABB2B4FcsF0",
-      "linkStatus": "verified",
-      "publishedAt": "2025-12-05T00:40:33+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/ABB2B4FcsF0/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 137547,
-          "likes": 3603,
-          "comments": 404,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 221850,
-          "likes": 6212,
-          "comments": 776,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "eth-foundation-BzZbxKp1cDI",
-      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "eth-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=BzZbxKp1cDI",
-      "linkStatus": "verified",
-      "publishedAt": "2025-12-04T21:21:29+00:00",
-      "discoveredAt": "2026-06-22T05:41:19.998Z",
-      "processedAt": "2026-06-22T05:41:19.998Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i3.ytimg.com/vi/BzZbxKp1cDI/hqdefault.jpg",
-      "summary": "自动采集自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-21T23:41:24.173Z",
-          "views": 135929,
-          "likes": 3561,
-          "comments": 399,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-06-22T05:41:19.998Z",
-          "views": 219240,
-          "likes": 6139,
-          "comments": 767,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
     }
   ],
   "errors": [
-    "OpenAI: 404 Not Found",
     "Dwarkesh Podcast: 404 Not Found",
-    "Bankless: 404 Not Found",
-    "a16z crypto: 404 Not Found",
-    "Altimeter Capital: 404 Not Found",
-    "OpenAI: 404 Not Found",
-    "Dwarkesh Podcast: 404 Not Found",
-    "NVIDIA: 404 Not Found",
     "Ethereum Foundation: 500 Internal Server Error",
     "Bankless: 404 Not Found",
     "a16z crypto: 404 Not Found",
-    "ARK Invest: 404 Not Found",
-    "Altimeter Capital: 404 Not Found",
-    "Latest fetch returned no videos; kept previous data.",
-    "OpenAI: 404 Not Found",
-    "Dwarkesh Podcast: 404 Not Found",
-    "NVIDIA: 404 Not Found",
-    "Ethereum Foundation: 404 Not Found",
-    "Bankless: 404 Not Found",
-    "a16z crypto: 404 Not Found",
-    "ARK Invest: 404 Not Found",
-    "Altimeter Capital: 404 Not Found",
-    "Latest fetch returned no videos; kept previous data."
-  ],
-  "lastAttemptAt": "2026-06-24T04:46:31.422Z"
+    "ARK Invest: 500 Internal Server Error",
+    "Altimeter Capital: 404 Not Found"
+  ]
 };
