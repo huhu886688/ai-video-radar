@@ -1,5 +1,5 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-07-01T05:05:19.821Z",
+  "generatedAt": "2026-07-02T04:39:36.928Z",
   "sources": [
     {
       "id": "openai",
@@ -206,6 +206,156 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
+      "id": "openai-08hgAtg-P_8",
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=08hgAtg-P_8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-01T18:31:25+00:00",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i1.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-01T22:39:41.174Z",
+          "views": 350347,
+          "likes": 9177,
+          "comments": 1029,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 565076,
+          "likes": 15822,
+          "comments": 1978,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-IUGEvzfvUWU",
+      "title": "Setup with ChatGPT",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=IUGEvzfvUWU",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-01T14:30:32+00:00",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/IUGEvzfvUWU/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Setup with ChatGPT",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-01T22:39:41.175Z",
+          "views": 460393,
+          "likes": 12059,
+          "comments": 1351,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 742570,
+          "likes": 20792,
+          "comments": 2599,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-N3Hzsf2PuHA",
+      "title": "Grow With ChatGPT",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=N3Hzsf2PuHA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-01T14:28:59+00:00",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i3.ytimg.com/vi/N3Hzsf2PuHA/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Grow With ChatGPT",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-01T22:39:41.175Z",
+          "views": 463949,
+          "likes": 12153,
+          "comments": 1362,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 748305,
+          "likes": 20953,
+          "comments": 2619,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
       "id": "openai-f-HiB82Tl94",
       "title": "Advent Accelerates Deals with ChatGPT + Codex",
       "person": "Sam Altman",
@@ -216,8 +366,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=f-HiB82Tl94",
       "linkStatus": "verified",
       "publishedAt": "2026-06-29T14:30:09+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -235,20 +385,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 490488,
-          "likes": 12848,
-          "comments": 1440,
+          "at": "2026-07-01T22:39:41.175Z",
+          "views": 552777,
+          "likes": 14479,
+          "comments": 1623,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 791109,
-          "likes": 22151,
-          "comments": 2769,
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 891575,
+          "likes": 24964,
+          "comments": 3121,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -267,8 +417,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=SPC_yCe1cUw",
       "linkStatus": "verified",
       "publishedAt": "2026-06-26T19:40:00+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -285,20 +435,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 661596,
-          "likes": 17330,
-          "comments": 1942,
+          "at": "2026-07-01T22:39:41.175Z",
+          "views": 689955,
+          "likes": 18072,
+          "comments": 2025,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 1067090,
-          "likes": 29879,
-          "comments": 3735,
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 1112831,
+          "likes": 31159,
+          "comments": 3895,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -317,8 +467,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "originalUrl": "https://www.youtube.com/watch?v=mFwWax5pLTs",
       "linkStatus": "verified",
       "publishedAt": "2026-06-26T11:00:22+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
+      "discoveredAt": "2026-07-02T04:39:36.928Z",
+      "processedAt": "2026-07-02T04:39:36.928Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 82,
@@ -335,170 +485,20 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "metrics": [
         {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 638481,
-          "likes": 16724,
-          "comments": 1874,
+          "at": "2026-07-01T22:39:41.175Z",
+          "views": 663550,
+          "likes": 17381,
+          "comments": 1948,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 1029808,
-          "likes": 28835,
-          "comments": 3604,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "openai-q_diWy3xdrw",
-      "title": "What if plants could talk?",
-      "person": "Sam Altman",
-      "investor": "",
-      "sourceId": "openai",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=q_diWy3xdrw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-25T17:19:53+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg",
-      "summary": "自动采集自 OpenAI：What if plants could talk?",
-      "topics": [
-        "AI Agents",
-        "Inference",
-        "Compute"
-      ],
-      "assets": [
-        "OpenAI"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 745788,
-          "likes": 19535,
-          "comments": 2189,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 1202884,
-          "likes": 33681,
-          "comments": 4210,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "openai-mVpCDzoNtxA",
-      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
-      "person": "Sam Altman",
-      "investor": "",
-      "sourceId": "openai",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/mVpCDzoNtxA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-23T18:45:29+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg",
-      "summary": "自动采集自 OpenAI：ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
-      "topics": [
-        "AI Agents",
-        "Inference",
-        "Compute"
-      ],
-      "assets": [
-        "OpenAI"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 872700,
-          "likes": 22859,
-          "comments": 2562,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 1407581,
-          "likes": 39412,
-          "comments": 4927,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "openai-qU5-komJ-GE",
-      "title": "How Omio is building the future of conversational travel",
-      "person": "Sam Altman",
-      "investor": "",
-      "sourceId": "openai",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=qU5-komJ-GE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-23T11:30:20+00:00",
-      "discoveredAt": "2026-07-01T05:05:19.821Z",
-      "processedAt": "2026-07-01T05:05:19.821Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg",
-      "summary": "自动采集自 OpenAI：How Omio is building the future of conversational travel",
-      "topics": [
-        "AI Agents",
-        "Inference",
-        "Compute"
-      ],
-      "assets": [
-        "OpenAI"
-      ],
-      "metrics": [
-        {
-          "at": "2026-06-30T23:05:23.231Z",
-          "views": 640682,
-          "likes": 16782,
-          "comments": 1881,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-01T05:05:19.821Z",
-          "views": 1033358,
-          "likes": 28934,
-          "comments": 3617,
+          "at": "2026-07-02T04:39:36.928Z",
+          "views": 1070242,
+          "likes": 29967,
+          "comments": 3746,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -508,10 +508,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     }
   ],
   "errors": [
-    "Dwarkesh Podcast: 404 Not Found",
+    "Dwarkesh Podcast: 500 Internal Server Error",
     "NVIDIA: 500 Internal Server Error",
     "Ethereum Foundation: 404 Not Found",
-    "Bankless: 500 Internal Server Error",
+    "Bankless: 404 Not Found",
     "a16z crypto: 404 Not Found",
     "ARK Invest: 404 Not Found",
     "Altimeter Capital: 404 Not Found"
