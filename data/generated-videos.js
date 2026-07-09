@@ -1,5 +1,5 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-07-07T04:32:37.544Z",
+  "generatedAt": "2026-07-09T04:30:28.417Z",
   "sources": [
     {
       "id": "openai",
@@ -23,7 +23,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "trackedAssets": [
         "OpenAI"
-      ]
+      ],
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
     },
     {
       "id": "dwarkesh",
@@ -48,8 +49,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "trackedAssets": [
         "Anthropic",
         "Google"
-      ],
-      "channelId": "UCZa18YV7qayTh-MRIrBhDpA"
+      ]
     },
     {
       "id": "nvidia",
@@ -175,8 +175,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "TSLA",
         "NVDA",
         "COIN"
-      ],
-      "channelId": "UCK-zlnUfoDHzUwXcbddtnkg"
+      ]
     },
     {
       "id": "altimeter",
@@ -207,241 +206,248 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
-      "id": "ark-invest-JFV3hiSrwgs",
-      "title": "The SpaceX Lockup Detail You May Be Missing",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/JFV3hiSrwgs",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-06T21:47:25+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/JFV3hiSrwgs/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：The SpaceX Lockup Detail You May Be Missing",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 27018,
-          "likes": 708,
-          "comments": 80,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 43577,
-          "likes": 1220,
-          "comments": 153,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "ark-invest-5MB7xobFURY",
-      "title": "Autonomous Logistics 3 Takeaways | Big Ideas 2026",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/shorts/5MB7xobFURY",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-06T13:34:11+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i2.ytimg.com/vi/5MB7xobFURY/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：Autonomous Logistics 3 Takeaways | Big Ideas 2026",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 69151,
-          "likes": 1811,
-          "comments": 203,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 111534,
-          "likes": 3123,
-          "comments": 390,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "ark-invest-zQFD61TiiaE",
-      "title": "Big Ideas 2026: Autonomous Logistics",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=zQFD61TiiaE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-06T12:30:07+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/zQFD61TiiaE/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：Big Ideas 2026: Autonomous Logistics",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 48525,
-          "likes": 1271,
-          "comments": 142,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 78266,
-          "likes": 2191,
-          "comments": 274,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-0yv7W6bVpVM",
-      "title": "The Greatest Minds Are Often Good Communicators Too – Grant Sanderson @3blue1brown",
-      "person": "Frontier AI researcher",
+      "id": "openai-8xqQzrLf0co",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "person": "Sam Altman",
       "investor": "",
-      "sourceId": "dwarkesh",
+      "sourceId": "openai",
       "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0yv7W6bVpVM",
+      "originalUrl": "https://www.youtube.com/watch?v=8xqQzrLf0co",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-06T11:30:01+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
+      "publishedAt": "2026-07-08T22:51:23+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i1.ytimg.com/vi/8xqQzrLf0co/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：How Bain Capital Is Scaling AI with ChatGPT",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 241293,
+          "likes": 6320,
+          "comments": 708,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 389183,
+          "likes": 10897,
+          "comments": 1362,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-9f-Ew_lDtxc",
+      "title": "The next generation of ChatGPT Voice",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9f-Ew_lDtxc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-08T21:13:26+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/9f-Ew_lDtxc/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：The next generation of ChatGPT Voice",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 289557,
+          "likes": 7585,
+          "comments": 850,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 467027,
+          "likes": 13077,
+          "comments": 1635,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-KS4X-BPjxN8",
+      "title": "Image interaction with GPT-Live",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=KS4X-BPjxN8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-08T17:37:19+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i4.ytimg.com/vi/KS4X-BPjxN8/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Image interaction with GPT-Live",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 425228,
+          "likes": 11138,
+          "comments": 1248,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 685851,
+          "likes": 19204,
+          "comments": 2400,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-QUOwyLwoykU",
+      "title": "Discoverability widgets with GPT-Live",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=QUOwyLwoykU",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-08T17:36:34+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 82,
+      "editorBoost": 4,
+      "thumbnail": "https://i2.ytimg.com/vi/QUOwyLwoykU/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Discoverability widgets with GPT-Live",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI"
+      ],
+      "metrics": [
+        {
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 249890,
+          "likes": 6545,
+          "comments": 734,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        },
+        {
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 403048,
+          "likes": 11285,
+          "comments": 1411,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0
+        }
+      ]
+    },
+    {
+      "id": "openai-3bL6IpdgddQ",
+      "title": "Natural Conversations with GPT-Live",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=3bL6IpdgddQ",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-08T17:33:32+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 82,
       "editorBoost": 4,
-      "thumbnail": "https://i1.ytimg.com/vi/0yv7W6bVpVM/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：The Greatest Minds Are Often Good Communicators Too – Grant Sanderson @3blue1brown",
+      "thumbnail": "https://i4.ytimg.com/vi/3bL6IpdgddQ/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Natural Conversations with GPT-Live",
       "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "Anthropic",
-        "Google"
+        "OpenAI"
       ],
       "metrics": [
         {
-          "at": "2026-07-06T22:32:41.798Z",
-          "views": 134798,
-          "likes": 3531,
-          "comments": 396,
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 327797,
+          "likes": 8586,
+          "comments": 962,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 217416,
-          "likes": 6088,
-          "comments": 761,
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 528705,
+          "likes": 14804,
+          "comments": 1850,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -450,445 +456,48 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "dwarkesh-j45eJqAi-tw",
-      "title": "What If AI Proves the Riemann Hypothesis and No One Understands It? – @3blue1brown",
-      "person": "Frontier AI researcher",
+      "id": "openai-8vvWTz6N7Qg",
+      "title": "Temporal awareness with GPT-Live",
+      "person": "Sam Altman",
       "investor": "",
-      "sourceId": "dwarkesh",
+      "sourceId": "openai",
       "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=j45eJqAi-tw",
+      "originalUrl": "https://www.youtube.com/watch?v=8vvWTz6N7Qg",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-05T13:15:18+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
+      "publishedAt": "2026-07-08T17:33:31+00:00",
+      "discoveredAt": "2026-07-09T04:30:28.417Z",
+      "processedAt": "2026-07-09T04:30:28.417Z",
       "durationMin": 0,
-      "contentType": "founderInterview",
+      "contentType": "officialLaunch",
       "novelty": 82,
       "editorBoost": 4,
-      "thumbnail": "https://i3.ytimg.com/vi/j45eJqAi-tw/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：What If AI Proves the Riemann Hypothesis and No One Understands It? – @3blue1brown",
+      "thumbnail": "https://i1.ytimg.com/vi/8vvWTz6N7Qg/hqdefault.jpg",
+      "summary": "自动采集自 OpenAI：Temporal awareness with GPT-Live",
       "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
+        "AI Agents",
+        "Inference",
+        "Compute"
       ],
       "assets": [
-        "Anthropic",
-        "Google"
+        "OpenAI"
       ],
       "metrics": [
         {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 178851,
-          "likes": 4685,
-          "comments": 525,
+          "at": "2026-07-08T22:30:31.832Z",
+          "views": 309920,
+          "likes": 8118,
+          "comments": 910,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
           "xImpressions": 0
         },
         {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 288469,
-          "likes": 8077,
-          "comments": 1010,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-XAXUvnrEae8",
-      "title": "Why Are LLMs Bad at Writing (but Good at Code)? – Grant Sanderson (@3blue1brown )",
-      "person": "Frontier AI researcher",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=XAXUvnrEae8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-04T13:00:25+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i1.ytimg.com/vi/XAXUvnrEae8/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：Why Are LLMs Bad at Writing (but Good at Code)? – Grant Sanderson (@3blue1brown )",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google"
-      ],
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 207624,
-          "likes": 5439,
-          "comments": 609,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 334878,
-          "likes": 9377,
-          "comments": 1172,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-1KWGb0AmoFw",
-      "title": "Could an AI Win the Millennium Prize and not be AGI? – Grant Sanderson (@3blue1brown )",
-      "person": "Frontier AI researcher",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=1KWGb0AmoFw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-03T10:30:38+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i2.ytimg.com/vi/1KWGb0AmoFw/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：Could an AI Win the Millennium Prize and not be AGI? – Grant Sanderson (@3blue1brown )",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google"
-      ],
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 135828,
-          "likes": 3558,
-          "comments": 399,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 219077,
-          "likes": 6134,
-          "comments": 767,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "ark-invest-V5W2rJ2fi3A",
-      "title": "This Jobs Report Screams Recession. Why We Disagree | ITK With Cathie Wood",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=V5W2rJ2fi3A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-02T21:26:40+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/V5W2rJ2fi3A/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：This Jobs Report Screams Recession. Why We Disagree | ITK With Cathie Wood",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 106817,
-          "likes": 2798,
-          "comments": 314,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 172285,
-          "likes": 4824,
-          "comments": 603,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "ark-invest-DMkXwCiFH80",
-      "title": "Sneak Peek - In The Know With Cathie Wood",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=DMkXwCiFH80",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-02T16:46:11+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i1.ytimg.com/vi/DMkXwCiFH80/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：Sneak Peek - In The Know With Cathie Wood",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 87766,
-          "likes": 2299,
-          "comments": 257,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 141558,
-          "likes": 3964,
-          "comments": 495,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-35mQq0AmC_8",
-      "title": "Should You Still Study Math in the AI Era? – Grant Sanderson (@3blue1brown )",
-      "person": "Frontier AI researcher",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=35mQq0AmC_8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-02T16:04:10+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i4.ytimg.com/vi/35mQq0AmC_8/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：Should You Still Study Math in the AI Era? – Grant Sanderson (@3blue1brown )",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google"
-      ],
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 139698,
-          "likes": 3659,
-          "comments": 410,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 225320,
-          "likes": 6309,
-          "comments": 789,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "ark-invest-Bl6_uF9UstY",
-      "title": "SpaceX Starfall And Apple Price Hikes | The Brainstorm 138",
-      "person": "Cathie Wood",
-      "investor": "Cathie Wood",
-      "sourceId": "ark-invest",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Bl6_uF9UstY",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-01T20:31:29+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 74,
-      "editorBoost": 2,
-      "thumbnail": "https://i3.ytimg.com/vi/Bl6_uF9UstY/hqdefault.jpg",
-      "summary": "自动采集自 ARK Invest：SpaceX Starfall And Apple Price Hikes | The Brainstorm 138",
-      "topics": [
-        "AI 基建",
-        "应用层",
-        "Robotics"
-      ],
-      "assets": [
-        "TSLA",
-        "NVDA",
-        "COIN"
-      ],
-      "investment": {
-        "direction": "优质成长派",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 78,
-        "riskTone": "需结合原视频语境",
-        "thesis": [
-          "自动采集到的投资相关公开分享",
-          "需人工或摘要任务补全观点",
-          "适合作为今日新增素材入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 90094,
-          "likes": 2360,
-          "comments": 265,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 145313,
-          "likes": 4069,
-          "comments": 509,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-0VmIQeTanUk",
-      "title": "What Billionaires Bought Before Yachts and Private Jets – Ada Palmer",
-      "person": "Frontier AI researcher",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0VmIQeTanUk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-01T17:11:58+00:00",
-      "discoveredAt": "2026-07-07T04:32:37.544Z",
-      "processedAt": "2026-07-07T04:32:37.544Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 82,
-      "editorBoost": 4,
-      "thumbnail": "https://i1.ytimg.com/vi/0VmIQeTanUk/hqdefault.jpg",
-      "summary": "自动采集自 Dwarkesh Podcast：What Billionaires Bought Before Yachts and Private Jets – Ada Palmer",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google"
-      ],
-      "metrics": [
-        {
-          "at": "2026-07-06T22:32:41.799Z",
-          "views": 211885,
-          "likes": 5550,
-          "comments": 622,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0
-        },
-        {
-          "at": "2026-07-07T04:32:37.544Z",
-          "views": 341750,
-          "likes": 9569,
-          "comments": 1196,
+          "at": "2026-07-09T04:30:28.417Z",
+          "views": 499871,
+          "likes": 13996,
+          "comments": 1750,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -898,21 +507,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     }
   ],
   "errors": [
-    "OpenAI: 404 Not Found",
-    "NVIDIA: 404 Not Found",
-    "Ethereum Foundation: 404 Not Found",
-    "Bankless: 404 Not Found",
-    "a16z crypto: 404 Not Found",
-    "Altimeter Capital: 500 Internal Server Error",
-    "OpenAI: 404 Not Found",
     "Dwarkesh Podcast: 404 Not Found",
-    "NVIDIA: 404 Not Found",
-    "Ethereum Foundation: 404 Not Found",
+    "NVIDIA: 500 Internal Server Error",
+    "Ethereum Foundation: 500 Internal Server Error",
     "Bankless: 404 Not Found",
-    "a16z crypto: 404 Not Found",
-    "ARK Invest: 404 Not Found",
-    "Altimeter Capital: 404 Not Found",
-    "Latest fetch returned no videos; kept previous data."
-  ],
-  "lastAttemptAt": "2026-07-08T03:54:12.319Z"
+    "a16z crypto: 500 Internal Server Error",
+    "ARK Invest: 500 Internal Server Error",
+    "Altimeter Capital: 404 Not Found"
+  ]
 };
