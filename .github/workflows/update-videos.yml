@@ -2,11 +2,15 @@ name: Update video radar data
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "17 */2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-video-radar-data
+  cancel-in-progress: false
 
 jobs:
   update-videos:
@@ -23,7 +27,8 @@ jobs:
       - name: Fetch latest videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          MAX_PER_SOURCE: "6"
+          MAX_PER_SOURCE: "8"
+          SOURCE_CONCURRENCY: "8"
         run: node scripts/fetch-latest.mjs
 
       - name: Commit updated data

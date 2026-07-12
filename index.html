@@ -59,7 +59,7 @@
       <main class="workspace">
         <header class="topbar">
           <div>
-            <p class="eyebrow">北京时间 · 每日 08:30 简报</p>
+            <p class="eyebrow">北京时间 · 每 2 小时自动更新</p>
             <h1>科技与投资视频情报站</h1>
           </div>
           <div class="top-actions">
@@ -76,7 +76,7 @@
           <article class="metric-card">
             <span>今日新增</span>
             <strong id="metric-new">0</strong>
-            <small>按 published_at 归入今日</small>
+            <small>按视频原始发布时间归入今日</small>
           </article>
           <article class="metric-card">
             <span>最高综合热度</span>
@@ -86,7 +86,7 @@
           <article class="metric-card">
             <span>快速扩散</span>
             <strong id="metric-rising">0</strong>
-            <small>6 小时播放增速超过基线</small>
+            <small>最近快照播放增速超过基线</small>
           </article>
         </section>
 
@@ -266,18 +266,18 @@
             <article class="rule-block">
               <p class="panel-label">采集频率</p>
               <ul class="rule-list">
-                <li><strong>P0</strong><span>每 30 分钟拉取新视频与指标。</span></li>
-                <li><strong>P1</strong><span>每 2 小时拉取，适合普通媒体和 X 发现层。</span></li>
-                <li><strong>0-6 小时视频</strong><span>每 30 分钟刷新热度快照。</span></li>
-                <li><strong>1-3 天视频</strong><span>每 6 小时刷新，捕捉延迟传播。</span></li>
+                <li><strong>P0</strong><span>每 2 小时随自动任务拉取，优先进入首页排序。</span></li>
+                <li><strong>P1</strong><span>每 2 小时拉取，靠主题相关性过滤噪音。</span></li>
+                <li><strong>P2</strong><span>保留研究、机构和长尾来源，补覆盖面。</span></li>
+                <li><strong>指标质量</strong><span>配置 YouTube API 后切换为真实播放、点赞、评论。</span></li>
               </ul>
             </article>
             <article class="rule-block">
               <p class="panel-label">下一步接 API</p>
               <ul class="rule-list">
-                <li><strong>YouTube</strong><span>channels.list -> uploads playlist -> playlistItems.list -> videos.list。</span></li>
-                <li><strong>X</strong><span>Recent Search 追 7 天发现层，Filtered Stream 追核心账号。</span></li>
-                <li><strong>存储</strong><span>视频表、来源表、实体表、指标快照表分开。</span></li>
+                <li><strong>YouTube</strong><span>RSS 发现新视频；配置 API 后补齐真实指标和时长。</span></li>
+                <li><strong>过滤</strong><span>标题、人物、主题和资产多维相关性评分，剔除低价值视频。</span></li>
+                <li><strong>诊断</strong><span>数据文件记录成功源、过滤量、失败源和指标模式。</span></li>
               </ul>
             </article>
           </div>

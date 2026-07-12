@@ -928,6 +928,7 @@ const investmentMasterLibrary = [
 
 const liveData = window.__ALPHA_RADAR_LIVE_DATA__ || {};
 const generatedVideos = Array.isArray(liveData.videos) ? liveData.videos : [];
+const diagnostics = liveData.diagnostics || {};
 
 function mergeSourceProfiles(baseSources, generatedSources) {
   const byId = new Map(baseSources.map((source) => [source.id, source]));
@@ -1604,10 +1605,16 @@ function renderDataStatus() {
   const node = document.querySelector("#data-status");
   if (!node) return;
   if (generatedVideos.length && liveData.generatedAt) {
-    node.textContent = `实时 ${generatedVideos.length}条 · ${formatDateTime(liveData.generatedAt)}`;
+    const sourceCount = diagnostics.sourceCount || activeSourceProfiles.length;
+    const successfulSources = diagnostics.successfulSources || sourceCount;
+    const metricsLabel = diagnostics.youtubeApiEnabled ? "真实指标" : "估算热度";
+    const failedText = diagnostics.failedSources ? `，失败 ${diagnostics.failedSources} 源` : "";
+    node.textContent = `更新 ${generatedVideos.length}条 · ${successfulSources}/${sourceCount}源 · ${metricsLabel} · ${formatDateTime(liveData.generatedAt)}`;
+    node.title = `${diagnostics.qualityNote || "最近一次自动采集结果"}${failedText}`;
     return;
   }
   node.textContent = "当前为样例数据";
+  node.title = "没有读取到自动生成的数据文件";
 }
 
 function renderSourceCounts() {
@@ -1895,6 +1902,9 @@ function renderSources() {
   activeSourceProfiles.forEach((source) => {
     const card = document.createElement("article");
     card.className = "source-card";
+    const accepted = Number(source.acceptedCount || 0);
+    const filtered = Number(source.filteredCount || 0);
+    const quality = source.quality === "error" ? "失败" : source.quality === "ok" ? "正常" : "待检";
     card.innerHTML = `
       <div class="source-top">
         <div>
@@ -1908,11 +1918,14 @@ function renderSources() {
         <div><span>频率</span><strong>${source.cadence}</strong></div>
         <div><span>24h 基线</span><strong>${formatCompactNumber(source.median24h)}</strong></div>
         <div><span>权重</span><strong>${source.weight}</strong></div>
+        <div><span>状态</span><strong>${quality}</strong></div>
+        <div><span>保留/过滤</span><strong>${accepted}/${filtered}</strong></div>
       </div>
       <div class="tag-row">
-        ${source.trackedTopics.slice(0, 3).map((topic) => `<span class="tag">${topic}</span>`).join("")}
+        ${(source.trackedTopics || []).slice(0, 3).map((topic) => `<span class="tag">${topic}</span>`).join("")}
       </div>
     `;
+    if (source.error) card.title = source.error;
     container.append(card);
   });
 }
