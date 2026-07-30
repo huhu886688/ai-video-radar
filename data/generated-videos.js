@@ -1,21 +1,21 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-07-30T03:30:36.302Z",
+  "generatedAt": "2026-07-30T06:42:18.407Z",
   "diagnostics": {
     "version": "data-pipeline-v2",
-    "generatedAt": "2026-07-30T03:30:36.302Z",
+    "generatedAt": "2026-07-30T06:42:18.407Z",
     "schedule": "every_2_hours",
     "mode": "youtube_rss_with_estimated_metrics",
     "youtubeApiEnabled": false,
     "sourceCount": 40,
-    "successfulSources": 2,
-    "failedSources": 38,
-    "fetchedVideos": 30,
-    "acceptedVideos": 5,
-    "filteredVideos": 25,
-    "outputVideos": 5,
+    "successfulSources": 1,
+    "failedSources": 39,
+    "fetchedVideos": 15,
+    "acceptedVideos": 6,
+    "filteredVideos": 9,
+    "outputVideos": 6,
     "maxPerSource": 8,
     "apiStatsCount": 0,
-    "directLinks": 5,
+    "directLinks": 6,
     "qualityNote": "当前未配置 YOUTUBE_API_KEY，热度为频道基线估算；标题、发布时间、封面和原视频链接来自 YouTube RSS。"
   },
   "sources": [
@@ -110,7 +110,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "404 Not Found"
+      "error": "500 Internal Server Error"
     },
     {
       "platform": "YouTube",
@@ -136,13 +136,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "NVDA",
         "Blackwell"
       ],
-      "channelId": "UCL-g3eGJi1omSDSz48AML-g",
       "strict": true,
-      "quality": "ok",
-      "fetchedCount": 15,
+      "quality": "error",
+      "fetchedCount": 0,
       "acceptedCount": 0,
-      "filteredCount": 15,
-      "error": ""
+      "filteredCount": 0,
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -234,7 +233,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -451,7 +450,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -758,7 +757,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -910,13 +909,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "trackedAssets": [
         "Macro"
       ],
-      "channelId": "UCqvaXJ1K3HheTPNjH-KpwXQ",
       "strict": false,
-      "quality": "ok",
-      "fetchedCount": 15,
-      "acceptedCount": 5,
-      "filteredCount": 10,
-      "error": ""
+      "quality": "error",
+      "fetchedCount": 0,
+      "acceptedCount": 0,
+      "filteredCount": 0,
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -1226,12 +1224,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "AI",
         "Macro"
       ],
+      "channelId": "UCyz6-taovlaOkPsPtK4KNEg",
       "strict": true,
-      "quality": "error",
-      "fetchedCount": 0,
-      "acceptedCount": 0,
-      "filteredCount": 0,
-      "error": "404 Not Found"
+      "quality": "ok",
+      "fetchedCount": 15,
+      "acceptedCount": 6,
+      "filteredCount": 9,
+      "error": ""
     },
     {
       "platform": "YouTube",
@@ -1266,34 +1265,107 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
-      "id": "principles-dalio-eD0wZL27O4c",
-      "title": "Ray Dalio Explains Debt Cycles",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
+      "id": "goldman-sachs-MlwvbWyJJd0",
+      "title": "How Earnings, Volatility, and AI Capex Are Affecting US Markets",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=eD0wZL27O4c",
+      "originalUrl": "https://www.youtube.com/watch?v=MlwvbWyJJd0",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-22T20:05:46+00:00",
-      "discoveredAt": "2026-07-29T10:48:52.776Z",
-      "processedAt": "2026-07-30T03:30:36.302Z",
+      "publishedAt": "2026-07-17T10:00:11+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
       "durationMin": 0,
       "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/eD0wZL27O4c/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio Explains Debt Cycles",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/MlwvbWyJJd0/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：How Earnings, Volatility, and AI Capex Are Affecting US Markets",
       "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk",
+        "Markets",
+        "AI Trade",
+        "Macro"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 102794,
+          "likes": 2233,
+          "comments": 248,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 142770,
+          "likes": 3284,
+          "comments": 400,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-vH16LrVAoBc",
+      "title": "Can Markets Withstand AI Risks, Fed Hikes, and Oil Shocks?",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=vH16LrVAoBc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-25T10:20:10+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/vH16LrVAoBc/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Can Markets Withstand AI Risks, Fed Hikes, and Oil Shocks?",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro",
         "全球宏观"
       ],
       "assets": [
+        "AI",
         "Macro"
       ],
-      "relevance": 92,
+      "relevance": 76,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -1314,10 +1386,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-07-29T04:48:55.291Z",
-          "views": 148869,
-          "likes": 3234,
-          "comments": 359,
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 57326,
+          "likes": 1245,
+          "comments": 138,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1325,76 +1397,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-07-29T10:48:52.776Z",
-          "views": 206763,
-          "likes": 4756,
-          "comments": 579,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T14:32:53.393Z",
-          "views": 207704,
-          "likes": 4777,
-          "comments": 582,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T17:39:12.463Z",
-          "views": 208471,
-          "likes": 4795,
-          "comments": 584,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T19:44:47.166Z",
-          "views": 208980,
-          "likes": 4807,
-          "comments": 585,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T21:13:09.757Z",
-          "views": 209335,
-          "likes": 4815,
-          "comments": 586,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T23:14:56.875Z",
-          "views": 209818,
-          "likes": 4826,
-          "comments": 587,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-30T03:30:36.302Z",
-          "views": 210814,
-          "likes": 4849,
-          "comments": 590,
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 79620,
+          "likes": 1831,
+          "comments": 223,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1404,171 +1410,34 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "principles-dalio-8QnS0gNxOnE",
-      "title": "Ray Dalio's Advice To The New Fed Chair",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
+      "id": "goldman-sachs-GXaYmZAlbwQ",
+      "title": "Are Hedge Funds Still Bullish on AI Stocks?",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8QnS0gNxOnE",
+      "originalUrl": "https://www.youtube.com/watch?v=GXaYmZAlbwQ",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-15T13:51:23+00:00",
-      "discoveredAt": "2026-07-29T10:48:52.776Z",
-      "processedAt": "2026-07-30T03:30:36.302Z",
+      "publishedAt": "2026-07-24T10:40:29+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
       "durationMin": 0,
       "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/8QnS0gNxOnE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio's Advice To The New Fed Chair",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i4.ytimg.com/vi/GXaYmZAlbwQ/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Are Hedge Funds Still Bullish on AI Stocks?",
       "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk",
-        "全球宏观"
-      ],
-      "assets": [
+        "Markets",
+        "AI Trade",
         "Macro"
       ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-07-29T04:48:55.291Z",
-          "views": 128262,
-          "likes": 2786,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T10:48:52.776Z",
-          "views": 178141,
-          "likes": 4097,
-          "comments": 499,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T14:32:53.393Z",
-          "views": 178482,
-          "likes": 4105,
-          "comments": 500,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T17:39:12.463Z",
-          "views": 178762,
-          "likes": 4112,
-          "comments": 501,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T19:44:47.166Z",
-          "views": 178950,
-          "likes": 4116,
-          "comments": 501,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T21:13:09.757Z",
-          "views": 179082,
-          "likes": 4119,
-          "comments": 501,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T23:14:56.875Z",
-          "views": 179262,
-          "likes": 4123,
-          "comments": 502,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-30T03:30:36.302Z",
-          "views": 179637,
-          "likes": 4132,
-          "comments": 503,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "principles-dalio-wniw-4AUCsk",
-      "title": "The Changing World Order: Ray Dalio",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=wniw-4AUCsk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-30T20:50:01+00:00",
-      "discoveredAt": "2026-07-29T10:48:52.776Z",
-      "processedAt": "2026-07-30T03:30:36.302Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/wniw-4AUCsk/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：The Changing World Order: Ray Dalio",
-      "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk"
-      ],
       "assets": [
+        "AI",
         "Macro"
       ],
-      "relevance": 92,
+      "relevance": 76,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -1589,10 +1458,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-07-29T04:48:55.291Z",
-          "views": 234511,
-          "likes": 5094,
-          "comments": 565,
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 57713,
+          "likes": 1254,
+          "comments": 139,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1600,76 +1469,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-07-29T10:48:52.776Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T14:32:53.393Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T17:39:12.463Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T19:44:47.166Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T21:13:09.757Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T23:14:56.875Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-30T03:30:36.302Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 80157,
+          "likes": 1844,
+          "comments": 224,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1679,33 +1482,34 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "principles-dalio-ZvkGENCJml4",
-      "title": "Hogyan működik a gazdaság?",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
+      "id": "goldman-sachs-1oCWfiBcpDo",
+      "title": "Emerging-Market Stocks May Climb Higher Amid Boost from AI",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ZvkGENCJml4",
+      "originalUrl": "https://www.youtube.com/watch?v=1oCWfiBcpDo",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-02T14:44:28+00:00",
-      "discoveredAt": "2026-07-29T10:48:52.776Z",
-      "processedAt": "2026-07-30T03:30:36.302Z",
+      "publishedAt": "2026-07-20T15:03:33+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
       "durationMin": 0,
       "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/ZvkGENCJml4/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：Hogyan működik a gazdaság?",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/1oCWfiBcpDo/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Emerging-Market Stocks May Climb Higher Amid Boost from AI",
       "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk"
-      ],
-      "assets": [
+        "Markets",
+        "AI Trade",
         "Macro"
       ],
-      "relevance": 28,
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 76,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -1716,7 +1520,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "direction": "科技成长",
         "stance": "公开观点",
         "horizon": "长期跟踪",
-        "conviction": 62,
+        "conviction": 96,
         "riskTone": "热度为估算，需接 YouTube API 校准",
         "thesis": [
           "已通过主题相关性过滤",
@@ -1726,10 +1530,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-07-29T04:48:55.291Z",
-          "views": 217879,
-          "likes": 4733,
-          "comments": 525,
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 95660,
+          "likes": 2078,
+          "comments": 231,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1737,76 +1541,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-07-29T10:48:52.776Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T14:32:53.393Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T17:39:12.463Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T19:44:47.166Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T21:13:09.757Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T23:14:56.875Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-30T03:30:36.302Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 132861,
+          "likes": 3056,
+          "comments": 372,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1816,33 +1554,34 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "principles-dalio-Egj2E4zFNy8",
-      "title": "The Tribute System: The new World Order",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
+      "id": "goldman-sachs-hX1Qk84gUgI",
+      "title": "Is the Surge in US IPOs a Warning Sign for Investors?",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Egj2E4zFNy8",
+      "originalUrl": "https://www.youtube.com/watch?v=hX1Qk84gUgI",
       "linkStatus": "verified",
-      "publishedAt": "2026-07-01T22:27:15+00:00",
-      "discoveredAt": "2026-07-29T10:48:52.776Z",
-      "processedAt": "2026-07-30T03:30:36.302Z",
+      "publishedAt": "2026-07-28T15:55:09+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
       "durationMin": 0,
       "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/Egj2E4zFNy8/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：The Tribute System: The new World Order",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i1.ytimg.com/vi/hX1Qk84gUgI/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Is the Surge in US IPOs a Warning Sign for Investors?",
       "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk"
-      ],
-      "assets": [
+        "Markets",
+        "AI Trade",
         "Macro"
       ],
-      "relevance": 28,
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 62,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -1853,7 +1592,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "direction": "科技成长",
         "stance": "公开观点",
         "horizon": "长期跟踪",
-        "conviction": 62,
+        "conviction": 87,
         "riskTone": "热度为估算，需接 YouTube API 校准",
         "thesis": [
           "已通过主题相关性过滤",
@@ -1863,10 +1602,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-07-29T04:48:55.291Z",
-          "views": 189605,
-          "likes": 4119,
-          "comments": 457,
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 33008,
+          "likes": 717,
+          "comments": 79,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1874,10 +1613,71 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-07-29T10:48:52.776Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 45845,
+          "likes": 1054,
+          "comments": 128,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-sJYeJbqCTEk",
+      "title": "David Solomon Joins CNBC to Discuss 2Q Earnings, the Deal-Making Environment, and AI",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=sJYeJbqCTEk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-15T22:29:00+00:00",
+      "discoveredAt": "2026-07-30T06:42:18.407Z",
+      "processedAt": "2026-07-30T06:42:18.407Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i4.ytimg.com/vi/sJYeJbqCTEk/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：David Solomon Joins CNBC to Discuss 2Q Earnings, the Deal-Making Environment, and AI",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 87,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-07-30T00:42:21.627Z",
+          "views": 85370,
+          "likes": 1854,
+          "comments": 206,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1885,65 +1685,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-07-29T14:32:53.393Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T17:39:12.463Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T19:44:47.166Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T21:13:09.757Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-29T23:14:56.875Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-07-30T03:30:36.302Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
+          "at": "2026-07-30T06:42:18.407Z",
+          "views": 118570,
+          "likes": 2727,
+          "comments": 332,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1956,17 +1701,18 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   "errors": [
     "openai: 404 Not Found",
     "anthropic: 404 Not Found",
-    "google-deepmind: 404 Not Found",
+    "google-deepmind: 500 Internal Server Error",
+    "nvidia: 404 Not Found",
     "nvidia-developer: 404 Not Found",
     "microsoft-developer: 404 Not Found",
-    "google-cloud-tech: 500 Internal Server Error",
+    "google-cloud-tech: 404 Not Found",
     "meta-developers: 404 Not Found",
     "dwarkesh: 404 Not Found",
     "lex-fridman: 404 Not Found",
     "latent-space: 404 Not Found",
     "a16z: 404 Not Found",
     "sequoia-capital: 404 Not Found",
-    "y-combinator: 500 Internal Server Error",
+    "y-combinator: 404 Not Found",
     "mit-csail: 404 Not Found",
     "ethereum-foundation: 404 Not Found",
     "ethglobal: 404 Not Found",
@@ -1976,11 +1722,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "chainlink: 404 Not Found",
     "solana: 404 Not Found",
     "bitcoin-magazine: 404 Not Found",
-    "coindesk: 500 Internal Server Error",
+    "coindesk: 404 Not Found",
     "messari: 404 Not Found",
     "uniswap: 404 Not Found",
     "ark-invest: 404 Not Found",
     "altimeter: 404 Not Found",
+    "principles-dalio: 404 Not Found",
     "bridgewater: 404 Not Found",
     "yahoo-finance: 404 Not Found",
     "bloomberg: 404 Not Found",
@@ -1990,7 +1737,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "investor-podcast: 404 Not Found",
     "value-investing-legends: 404 Not Found",
     "milken: 404 Not Found",
-    "goldman-sachs: 404 Not Found",
     "vanguard: 404 Not Found"
   ]
 };
