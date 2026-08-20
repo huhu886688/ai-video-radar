@@ -1,21 +1,21 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-08-20T03:10:43.631Z",
+  "generatedAt": "2026-08-20T04:54:22.233Z",
   "diagnostics": {
     "version": "data-pipeline-v2",
-    "generatedAt": "2026-08-20T03:10:43.631Z",
+    "generatedAt": "2026-08-20T04:54:22.233Z",
     "schedule": "every_2_hours",
     "mode": "youtube_rss_with_estimated_metrics",
     "youtubeApiEnabled": false,
     "sourceCount": 40,
-    "successfulSources": 4,
-    "failedSources": 36,
+    "successfulSources": 3,
+    "failedSources": 37,
     "fetchedVideos": 30,
-    "acceptedVideos": 11,
-    "filteredVideos": 19,
-    "outputVideos": 11,
+    "acceptedVideos": 7,
+    "filteredVideos": 23,
+    "outputVideos": 7,
     "maxPerSource": 8,
     "apiStatsCount": 0,
-    "directLinks": 11,
+    "directLinks": 7,
     "qualityNote": "当前未配置 YOUTUBE_API_KEY，热度为频道基线估算；标题、发布时间、封面和原视频链接来自 YouTube RSS。"
   },
   "sources": [
@@ -202,7 +202,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -322,13 +322,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "OpenAI",
         "Tesla"
       ],
-      "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
       "strict": true,
-      "quality": "ok",
-      "fetchedCount": 15,
-      "acceptedCount": 5,
-      "filteredCount": 10,
-      "error": ""
+      "quality": "error",
+      "fetchedCount": 0,
+      "acceptedCount": 0,
+      "filteredCount": 0,
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -421,7 +420,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -631,12 +630,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "BTC",
         "ETH"
       ],
+      "channelId": "UCofTOFX4QuhT8OY-3-fFRFw",
       "strict": true,
-      "quality": "error",
-      "fetchedCount": 0,
-      "acceptedCount": 0,
-      "filteredCount": 0,
-      "error": "404 Not Found"
+      "quality": "ok",
+      "fetchedCount": 15,
+      "acceptedCount": 2,
+      "filteredCount": 13,
+      "error": ""
     },
     {
       "platform": "YouTube",
@@ -666,7 +666,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "404 Not Found"
+      "error": "500 Internal Server Error"
     },
     {
       "platform": "YouTube",
@@ -691,13 +691,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "trackedAssets": [
         "SOL"
       ],
-      "channelId": "UCr6ZZ2qD4ZPM-15mdTPI6PA",
       "strict": false,
-      "quality": "ok",
+      "quality": "error",
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": ""
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -759,7 +758,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -855,7 +854,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -887,7 +886,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "404 Not Found"
+      "error": "500 Internal Server Error"
     },
     {
       "platform": "YouTube",
@@ -917,7 +916,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "fetchedCount": 0,
       "acceptedCount": 0,
       "filteredCount": 0,
-      "error": "404 Not Found"
+      "error": "500 Internal Server Error"
     },
     {
       "platform": "YouTube",
@@ -976,12 +975,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "TSLA",
         "BRK"
       ],
+      "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
       "strict": true,
-      "quality": "error",
-      "fetchedCount": 0,
-      "acceptedCount": 0,
-      "filteredCount": 0,
-      "error": "404 Not Found"
+      "quality": "ok",
+      "fetchedCount": 15,
+      "acceptedCount": 5,
+      "filteredCount": 10,
+      "error": ""
     },
     {
       "platform": "YouTube",
@@ -1008,13 +1008,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "MSFT",
         "BTC"
       ],
-      "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "strict": true,
-      "quality": "ok",
-      "fetchedCount": 15,
-      "acceptedCount": 6,
-      "filteredCount": 9,
-      "error": ""
+      "quality": "error",
+      "fetchedCount": 0,
+      "acceptedCount": 0,
+      "filteredCount": 0,
+      "error": "404 Not Found"
     },
     {
       "platform": "YouTube",
@@ -1268,24 +1267,146 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
-      "id": "bloomberg-LFjCsz7fqyw",
-      "title": "Markets Rebound as Treasury Moves to Rein In Yields | The Close 8/19/2026",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
+      "id": "coinbase-zv4icJOfB-w",
+      "title": "Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
+      "person": "Brian Armstrong",
+      "investor": "",
+      "sourceId": "coinbase",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=zv4icJOfB-w",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T21:33:13+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/zv4icJOfB-w/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
+      "topics": [
+        "Exchange",
+        "Regulation",
+        "Wallets"
+      ],
+      "assets": [
+        "COIN",
+        "BTC",
+        "ETH"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 148560,
+          "likes": 3227,
+          "comments": 358,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 206334,
+          "likes": 4746,
+          "comments": 578,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coinbase-FxfFgjmTYW4",
+      "title": "Coinbase Q2 2026 Earnings Presentation",
+      "person": "Brian Armstrong",
+      "investor": "",
+      "sourceId": "coinbase",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=FxfFgjmTYW4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T20:05:53+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/FxfFgjmTYW4/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings Presentation",
+      "topics": [
+        "Exchange",
+        "Regulation",
+        "Wallets"
+      ],
+      "assets": [
+        "COIN",
+        "BTC",
+        "ETH"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 144464,
+          "likes": 3138,
+          "comments": 348,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 200645,
+          "likes": 4615,
+          "comments": 562,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "yahoo-finance-Wr8bs5qvVzs",
+      "title": "The phase 2 AI trade is here",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=LFjCsz7fqyw",
+      "originalUrl": "https://www.youtube.com/watch?v=Wr8bs5qvVzs",
       "linkStatus": "verified",
-      "publishedAt": "2026-08-19T22:13:33+00:00",
-      "discoveredAt": "2026-08-19T22:42:39.347Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
+      "publishedAt": "2026-08-19T12:00:03+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/LFjCsz7fqyw/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Markets Rebound as Treasury Moves to Rein In Yields | The Close 8/19/2026",
+      "thumbnail": "https://i4.ytimg.com/vi/Wr8bs5qvVzs/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：The phase 2 AI trade is here",
       "topics": [
         "Markets",
         "Technology Investing",
@@ -1293,573 +1414,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "assets": [
         "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T16:42:42.183Z",
-          "views": 35082,
-          "likes": 762,
-          "comments": 84,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 48725,
-          "likes": 1121,
-          "comments": 136,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 107957,
-          "likes": 2483,
-          "comments": 302,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 125411,
-          "likes": 2884,
-          "comments": 351,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-9dARJI3qu0c",
-      "title": "Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=9dARJI3qu0c",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T20:00:27+00:00",
-      "discoveredAt": "2026-08-19T20:46:15.419Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/9dARJI3qu0c/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T14:46:18.282Z",
-          "views": 55666,
-          "likes": 1209,
-          "comments": 134,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 77314,
-          "likes": 1778,
-          "comments": 216,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 146060,
-          "likes": 3359,
-          "comments": 409,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 214848,
-          "likes": 4942,
-          "comments": 602,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 234320,
-          "likes": 5389,
-          "comments": 656,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-EKPjOBThO2k",
-      "title": "Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=EKPjOBThO2k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T12:00:48+00:00",
-      "discoveredAt": "2026-08-19T13:09:28.922Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/EKPjOBThO2k/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T13:09:28.922Z",
-          "views": 89347,
-          "likes": 2055,
-          "comments": 250,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T14:53:20.191Z",
-          "views": 158596,
-          "likes": 3648,
-          "comments": 444,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T16:47:09.633Z",
-          "views": 205218,
-          "likes": 4720,
-          "comments": 575,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T18:53:49.286Z",
-          "views": 241695,
-          "likes": 5559,
-          "comments": 677,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 266653,
-          "likes": 6133,
-          "comments": 747,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 287877,
-          "likes": 6621,
-          "comments": 806,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 315857,
-          "likes": 7265,
-          "comments": 884,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 325741,
-          "likes": 7492,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-lIvobGWbk6M",
-      "title": "Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=lIvobGWbk6M",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T04:00:43+00:00",
-      "discoveredAt": "2026-08-19T07:06:10.760Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/lIvobGWbk6M/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T13:09:28.922Z",
-          "views": 325466,
-          "likes": 7486,
-          "comments": 911,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T14:53:20.191Z",
-          "views": 347592,
-          "likes": 7995,
-          "comments": 973,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T16:47:09.633Z",
-          "views": 368401,
-          "likes": 8473,
-          "comments": 1032,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T18:53:49.286Z",
-          "views": 388430,
-          "likes": 8934,
-          "comments": 1088,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 404092,
-          "likes": 9294,
-          "comments": 1131,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 418653,
-          "likes": 9629,
-          "comments": 1172,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 439543,
-          "likes": 10109,
-          "comments": 1231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 447365,
-          "likes": 10289,
-          "comments": 1253,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-4ZHKcnKH5uk",
-      "title": "Khabib training with Sadulaev (Olympic champion) | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=4ZHKcnKH5uk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T04:00:23+00:00",
-      "discoveredAt": "2026-08-19T07:06:10.760Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/4ZHKcnKH5uk/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib training with Sadulaev (Olympic champion) | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T13:09:28.922Z",
-          "views": 340349,
-          "likes": 7828,
-          "comments": 953,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T14:53:20.191Z",
-          "views": 345115,
-          "likes": 7938,
-          "comments": 966,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T16:47:09.633Z",
-          "views": 350081,
-          "likes": 8052,
-          "comments": 980,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T18:53:49.286Z",
-          "views": 355322,
-          "likes": 8172,
-          "comments": 995,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 359747,
-          "likes": 8274,
-          "comments": 1007,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 364123,
-          "likes": 8375,
-          "comments": 1020,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 370850,
-          "likes": 8530,
-          "comments": 1038,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 373506,
-          "likes": 8591,
-          "comments": 1046,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-ZE265IfPPAc",
-      "title": "Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ZE265IfPPAc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T16:00:30+00:00",
-      "discoveredAt": "2026-08-19T16:47:09.633Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/ZE265IfPPAc/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
+        "TSLA",
+        "BRK"
       ],
       "relevance": 58,
       "quality": {
@@ -1868,128 +1424,11 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "summary": "title_based",
         "sourceVerified": true
       },
-      "metrics": [
-        {
-          "at": "2026-08-19T10:47:12.190Z",
-          "views": 92777,
-          "likes": 2016,
-          "comments": 224,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T16:47:09.633Z",
-          "views": 128857,
-          "likes": 2964,
-          "comments": 361,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T18:53:49.286Z",
-          "views": 252508,
-          "likes": 5808,
-          "comments": 707,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 325612,
-          "likes": 7489,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 379548,
-          "likes": 8730,
-          "comments": 1063,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 443433,
-          "likes": 10199,
-          "comments": 1242,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 464586,
-          "likes": 10685,
-          "comments": 1301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-atpy7HGGOog",
-      "title": "Fed Minutes Released as Yields Continue Climb | Bloomberg Businessweek Daily 8/19/2026",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=atpy7HGGOog",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T22:43:26+00:00",
-      "discoveredAt": "2026-08-20T01:52:11.224Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/atpy7HGGOog/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Fed Minutes Released as Yields Continue Climb | Bloomberg Businessweek Daily 8/19/2026",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "全球宏观"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
       "investment": {
-        "direction": "全球宏观",
+        "direction": "科技成长",
         "stance": "公开观点",
         "horizon": "长期跟踪",
-        "conviction": 63,
+        "conviction": 85,
         "riskTone": "热度为估算，需接 YouTube API 校准",
         "thesis": [
           "已通过主题相关性过滤",
@@ -1999,10 +1438,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-19T19:52:14.638Z",
-          "views": 37606,
-          "likes": 817,
-          "comments": 91,
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 138260,
+          "likes": 3004,
+          "comments": 334,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2010,21 +1449,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 52230,
-          "likes": 1201,
-          "comments": 146,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 62305,
-          "likes": 1433,
-          "comments": 174,
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 192028,
+          "likes": 4417,
+          "comments": 538,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2034,24 +1462,24 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "bloomberg-OOIoNswXVL0",
-      "title": "Trump Hosts Crypto Leaders at White House (Remarks)",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
+      "id": "yahoo-finance-KfudWBRcayM",
+      "title": "Yahoo Finance Live: Daily Market Coverage - August 19, 2026 3PM - 5PM (ET)",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=OOIoNswXVL0",
+      "originalUrl": "https://www.youtube.com/watch?v=KfudWBRcayM",
       "linkStatus": "verified",
-      "publishedAt": "2026-08-19T20:39:42+00:00",
-      "discoveredAt": "2026-08-19T20:46:15.419Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
+      "publishedAt": "2026-08-19T21:10:01+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/OOIoNswXVL0/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Trump Hosts Crypto Leaders at White House (Remarks)",
+      "thumbnail": "https://i4.ytimg.com/vi/KfudWBRcayM/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Yahoo Finance Live: Daily Market Coverage - August 19, 2026 3PM - 5PM (ET)",
       "topics": [
         "Markets",
         "Technology Investing",
@@ -2059,10 +1487,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "assets": [
         "NVDA",
-        "MSFT",
-        "BTC"
+        "TSLA",
+        "BRK"
       ],
-      "relevance": 36,
+      "relevance": 50,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -2073,7 +1501,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "direction": "科技成长",
         "stance": "公开观点",
         "horizon": "长期跟踪",
-        "conviction": 63,
+        "conviction": 77,
         "riskTone": "热度为估算，需接 YouTube API 校准",
         "thesis": [
           "已通过主题相关性过滤",
@@ -2083,10 +1511,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-19T14:46:18.285Z",
-          "views": 36653,
-          "likes": 796,
-          "comments": 89,
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 83829,
+          "likes": 1821,
+          "comments": 202,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2094,43 +1522,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 50907,
-          "likes": 1171,
-          "comments": 143,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 81900,
-          "likes": 1884,
-          "comments": 229,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 134107,
-          "likes": 3084,
-          "comments": 375,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 148157,
-          "likes": 3408,
-          "comments": 415,
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 116429,
+          "likes": 2678,
+          "comments": 326,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2140,249 +1535,24 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ]
     },
     {
-      "id": "bloomberg-Y74d7O8QaTQ",
-      "title": "SpaceX Attempted to Buy AI Coding Startup Cognition",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
+      "id": "yahoo-finance-kwfrHcz6cQs",
+      "title": "Yahoo Finance Live: Daily Market Coverage - August 19, 2026 9AM-11AM (ET)",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Y74d7O8QaTQ",
+      "originalUrl": "https://www.youtube.com/watch?v=kwfrHcz6cQs",
       "linkStatus": "verified",
-      "publishedAt": "2026-08-19T20:11:17+00:00",
-      "discoveredAt": "2026-08-19T20:46:15.419Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
+      "publishedAt": "2026-08-19T15:05:48+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/Y74d7O8QaTQ/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：SpaceX Attempted to Buy AI Coding Startup Cognition",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "创业与科技"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T14:46:18.285Z",
-          "views": 18065,
-          "likes": 392,
-          "comments": 43,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 25090,
-          "likes": 577,
-          "comments": 70,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 45590,
-          "likes": 1049,
-          "comments": 128,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 68756,
-          "likes": 1581,
-          "comments": 193,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 75232,
-          "likes": 1730,
-          "comments": 211,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-CPd9PB6ki-k",
-      "title": "Fed Minutes Show Many Officials Wanted a Rate Hike",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=CPd9PB6ki-k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T18:32:00+00:00",
-      "discoveredAt": "2026-08-19T18:53:49.286Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/CPd9PB6ki-k/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Fed Minutes Show Many Officials Wanted a Rate Hike",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "全球宏观"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-19T12:53:52.276Z",
-          "views": 35082,
-          "likes": 762,
-          "comments": 84,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T18:53:49.286Z",
-          "views": 48725,
-          "likes": 1121,
-          "comments": 136,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 82603,
-          "likes": 1900,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 115600,
-          "likes": 2659,
-          "comments": 324,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 149078,
-          "likes": 3429,
-          "comments": 417,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 159330,
-          "likes": 3665,
-          "comments": 446,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-inSCLwwz9x4",
-      "title": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=inSCLwwz9x4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T20:25:41+00:00",
-      "discoveredAt": "2026-08-19T20:46:15.419Z",
-      "processedAt": "2026-08-20T03:10:43.631Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/inSCLwwz9x4/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
+      "thumbnail": "https://i4.ytimg.com/vi/kwfrHcz6cQs/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Yahoo Finance Live: Daily Market Coverage - August 19, 2026 9AM-11AM (ET)",
       "topics": [
         "Markets",
         "Technology Investing",
@@ -2390,10 +1560,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       ],
       "assets": [
         "NVDA",
-        "MSFT",
-        "BTC"
+        "TSLA",
+        "BRK"
       ],
-      "relevance": 30,
+      "relevance": 50,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -2404,7 +1574,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "direction": "科技成长",
         "stance": "公开观点",
         "horizon": "长期跟踪",
-        "conviction": 62,
+        "conviction": 77,
         "riskTone": "热度为估算，需接 YouTube API 校准",
         "thesis": [
           "已通过主题相关性过滤",
@@ -2414,10 +1584,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-19T14:46:18.285Z",
-          "views": 37176,
-          "likes": 808,
-          "comments": 90,
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 74826,
+          "likes": 1625,
+          "comments": 180,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2425,10 +1595,72 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-19T20:46:15.419Z",
-          "views": 51634,
-          "likes": 1188,
-          "comments": 145,
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 103925,
+          "likes": 2390,
+          "comments": 291,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "yahoo-finance-nIgKnCuvLNE",
+      "title": "Yahoo Finance Live: Daily Market Coverage - August 18, 2026 3PM - 5PM (ET)",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=nIgKnCuvLNE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T21:05:31+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/nIgKnCuvLNE/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Yahoo Finance Live: Daily Market Coverage - August 18, 2026 3PM - 5PM (ET)",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "TSLA",
+        "BRK"
+      ],
+      "relevance": 50,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 77,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 106142,
+          "likes": 2306,
+          "comments": 256,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2436,10 +1668,73 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-19T22:42:39.347Z",
-          "views": 88568,
-          "likes": 2037,
-          "comments": 248,
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 147419,
+          "likes": 3391,
+          "comments": 413,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "yahoo-finance-8Qd-KM96kDg",
+      "title": "Is Nvidia stock too cheap right now?",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8Qd-KM96kDg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T19:45:07+00:00",
+      "discoveredAt": "2026-08-20T04:54:22.233Z",
+      "processedAt": "2026-08-20T04:54:22.233Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/8Qd-KM96kDg/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Is Nvidia stock too cheap right now?",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro",
+        "Compute"
+      ],
+      "assets": [
+        "NVDA",
+        "TSLA",
+        "BRK"
+      ],
+      "relevance": 36,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 63,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-19T22:54:25.705Z",
+          "views": 74309,
+          "likes": 1614,
+          "comments": 179,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2447,21 +1742,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-20T01:52:11.224Z",
-          "views": 138774,
-          "likes": 3192,
-          "comments": 389,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-20T03:10:43.631Z",
-          "views": 152553,
-          "likes": 3509,
-          "comments": 427,
+          "at": "2026-08-20T04:54:22.233Z",
+          "views": 103207,
+          "likes": 2374,
+          "comments": 289,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2477,29 +1761,30 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "google-deepmind: 404 Not Found",
     "nvidia: 404 Not Found",
     "nvidia-developer: 404 Not Found",
-    "microsoft-developer: 500 Internal Server Error",
+    "microsoft-developer: 404 Not Found",
     "google-cloud-tech: 404 Not Found",
     "meta-developers: 404 Not Found",
     "dwarkesh: 404 Not Found",
+    "lex-fridman: 404 Not Found",
     "latent-space: 404 Not Found",
     "a16z: 404 Not Found",
-    "sequoia-capital: 500 Internal Server Error",
+    "sequoia-capital: 404 Not Found",
     "y-combinator: 404 Not Found",
     "mit-csail: 404 Not Found",
     "ethereum-foundation: 404 Not Found",
     "ethglobal: 404 Not Found",
     "bankless: 404 Not Found",
     "a16z-crypto: 404 Not Found",
-    "coinbase: 404 Not Found",
-    "chainlink: 404 Not Found",
+    "chainlink: 500 Internal Server Error",
+    "solana: 404 Not Found",
     "bitcoin-magazine: 404 Not Found",
-    "coindesk: 500 Internal Server Error",
+    "coindesk: 404 Not Found",
     "messari: 404 Not Found",
-    "ark-invest: 500 Internal Server Error",
-    "altimeter: 404 Not Found",
-    "principles-dalio: 404 Not Found",
+    "ark-invest: 404 Not Found",
+    "altimeter: 500 Internal Server Error",
+    "principles-dalio: 500 Internal Server Error",
     "bridgewater: 404 Not Found",
-    "yahoo-finance: 404 Not Found",
+    "bloomberg: 404 Not Found",
     "cnbc: 404 Not Found",
     "acquired: 404 Not Found",
     "invest-like-best: 404 Not Found",
