@@ -1,8 +1,8 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-08-24T13:13:39.010Z",
+  "generatedAt": "2026-08-24T15:01:18.506Z",
   "diagnostics": {
     "version": "data-pipeline-v2",
-    "generatedAt": "2026-08-24T13:13:39.010Z",
+    "generatedAt": "2026-08-24T15:01:18.506Z",
     "schedule": "every_2_hours",
     "mode": "youtube_rss_with_estimated_metrics",
     "youtubeApiEnabled": false,
@@ -10,12 +10,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     "successfulSources": 34,
     "failedSources": 6,
     "fetchedVideos": 480,
-    "acceptedVideos": 187,
-    "filteredVideos": 293,
-    "outputVideos": 187,
+    "acceptedVideos": 185,
+    "filteredVideos": 295,
+    "outputVideos": 185,
     "maxPerSource": 8,
     "apiStatsCount": 0,
-    "directLinks": 187,
+    "directLinks": 185,
     "qualityNote": "当前未配置 YOUTUBE_API_KEY，热度为频道基线估算；标题、发布时间、封面和原视频链接来自 YouTube RSS。"
   },
   "sources": [
@@ -1004,8 +1004,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 3,
-      "filteredCount": 12,
+      "acceptedCount": 2,
+      "filteredCount": 13,
       "error": ""
     },
     {
@@ -1037,8 +1037,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 7,
-      "filteredCount": 8,
+      "acceptedCount": 6,
+      "filteredCount": 9,
       "error": ""
     },
     {
@@ -1309,7 +1309,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-19T21:38:39+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -1332,17 +1332,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 99278,
-          "likes": 2283,
-          "comments": 278,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 99998,
@@ -1419,6 +1408,77 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 102622,
+          "likes": 2360,
+          "comments": 287,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "openai-ceBruD6v5Bk",
+      "title": "You Can Just Use Your Voice | ChatGPT Work",
+      "person": "Sam Altman",
+      "investor": "",
+      "sourceId": "openai",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ceBruD6v5Bk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:55:45+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/ceBruD6v5Bk/hqdefault.jpg",
+      "summary": "科技信号，来自 OpenAI：You Can Just Use Your Voice | ChatGPT Work",
+      "topics": [
+        "AI Agents",
+        "Inference",
+        "Compute"
+      ],
+      "assets": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.516Z",
+          "views": 74613,
+          "likes": 1620,
+          "comments": 180,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 103629,
+          "likes": 2383,
+          "comments": 290,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1434,7 +1494,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-20T20:00:55+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1457,17 +1517,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 64904,
-          "likes": 1493,
-          "comments": 182,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 65547,
@@ -1544,6 +1593,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 67843,
+          "likes": 1560,
+          "comments": 190,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1559,7 +1619,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T19:05:08+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1583,17 +1643,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 1010216,
-          "likes": 23235,
-          "comments": 2829,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 1015711,
@@ -1670,6 +1719,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 1036063,
+          "likes": 23829,
+          "comments": 2901,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1685,7 +1745,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T19:02:05+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1709,17 +1769,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 1226094,
-          "likes": 28200,
-          "comments": 3433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 1232760,
@@ -1796,6 +1845,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 1257450,
+          "likes": 28921,
+          "comments": 3521,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1811,7 +1871,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T18:58:56+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1835,17 +1895,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 1020199,
-          "likes": 23465,
-          "comments": 2857,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 1025743,
@@ -1922,6 +1971,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 1046277,
+          "likes": 24064,
+          "comments": 2930,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1937,7 +1997,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T14:30:20+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1960,17 +2020,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 95211,
-          "likes": 2190,
-          "comments": 267,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 95707,
@@ -2047,13278 +2096,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-rEoC2ZCqXjM",
-      "title": "Hedera: Claude Code - AI Skills for Hackathon Builders | Luke Forrest at ETHOnline 2026",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=rEoC2ZCqXjM",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T14:04:18+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/rEoC2ZCqXjM/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Hedera: Claude Code - AI Skills for Hackathon Builders | Luke Forrest at ETHOnline 2026",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol",
-        "Foundation Models"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 100983,
-          "likes": 2323,
-          "comments": 283,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 101255,
-          "likes": 2329,
-          "comments": 284,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 101362,
-          "likes": 2331,
-          "comments": 284,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 101503,
-          "likes": 2335,
-          "comments": 284,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 101699,
-          "likes": 2339,
-          "comments": 285,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 101826,
-          "likes": 2342,
-          "comments": 285,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 101969,
-          "likes": 2345,
-          "comments": 286,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 102150,
-          "likes": 2349,
-          "comments": 286,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal--0HvHucIUlo",
-      "title": "Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=-0HvHucIUlo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T14:02:24+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/-0HvHucIUlo/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol",
-        "Ethereum L2"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 140143,
-          "likes": 3223,
-          "comments": 392,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 140520,
-          "likes": 3232,
-          "comments": 393,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 140669,
-          "likes": 3235,
-          "comments": 394,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 140865,
-          "likes": 3240,
-          "comments": 394,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 141137,
-          "likes": 3246,
-          "comments": 395,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 141313,
-          "likes": 3250,
-          "comments": 396,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 141511,
-          "likes": 3255,
-          "comments": 396,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 141762,
-          "likes": 3261,
-          "comments": 397,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-labueztFNtk",
-      "title": "Beginner's Workshop: What to Expect at ETHOnline 2026 | Pascal Rüger",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=labueztFNtk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T13:58:11+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/labueztFNtk/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Beginner's Workshop: What to Expect at ETHOnline 2026 | Pascal Rüger",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 92747,
-          "likes": 2133,
-          "comments": 260,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 92997,
-          "likes": 2139,
-          "comments": 260,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 93095,
-          "likes": 2141,
-          "comments": 261,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 93225,
-          "likes": 2144,
-          "comments": 261,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 93404,
-          "likes": 2148,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 93521,
-          "likes": 2151,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 93652,
-          "likes": 2154,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 93818,
-          "likes": 2158,
-          "comments": 263,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "openai-0XPk_MAwCW4",
-      "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
-      "person": "Sam Altman",
-      "investor": "",
-      "sourceId": "openai",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0XPk_MAwCW4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T06:30:28+00:00",
-      "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/0XPk_MAwCW4/hqdefault.jpg",
-      "summary": "科技信号，来自 OpenAI：Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
-      "topics": [
-        "AI Agents",
-        "Inference",
-        "Compute"
-      ],
-      "assets": [
-        "OpenAI",
-        "ChatGPT"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 786828,
-          "likes": 18097,
-          "comments": 2203,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 788864,
-          "likes": 18144,
-          "comments": 2209,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 789667,
-          "likes": 18162,
-          "comments": 2211,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 790727,
-          "likes": 18187,
-          "comments": 2214,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 792195,
-          "likes": 18220,
-          "comments": 2218,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 793148,
-          "likes": 18242,
-          "comments": 2221,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 794221,
-          "likes": 18267,
-          "comments": 2224,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 795579,
-          "likes": 18298,
-          "comments": 2228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-bVF6vKmHIVw",
-      "title": "ETHGlobal Lisbon 2026 | Full Hackathon Recap",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=bVF6vKmHIVw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-13T16:32:34+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/bVF6vKmHIVw/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：ETHGlobal Lisbon 2026 | Full Hackathon Recap",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 138306,
-          "likes": 3181,
-          "comments": 387,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 138640,
-          "likes": 3189,
-          "comments": 388,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 138772,
-          "likes": 3192,
-          "comments": 389,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 138946,
-          "likes": 3196,
-          "comments": 389,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 139188,
-          "likes": 3201,
-          "comments": 390,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 139344,
-          "likes": 3205,
-          "comments": 390,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 139521,
-          "likes": 3209,
-          "comments": 391,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 139744,
-          "likes": 3214,
-          "comments": 391,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-fo9WirRIaVs",
-      "title": "Robots working together with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=fo9WirRIaVs",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:58:16+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/fo9WirRIaVs/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Robots working together with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 386024,
-          "likes": 8879,
-          "comments": 1081,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 386367,
-          "likes": 8886,
-          "comments": 1082,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 386502,
-          "likes": 8890,
-          "comments": 1082,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 386682,
-          "likes": 8894,
-          "comments": 1083,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 386933,
-          "likes": 8899,
-          "comments": 1083,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 387096,
-          "likes": 8903,
-          "comments": 1084,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 387281,
-          "likes": 8907,
-          "comments": 1084,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 387516,
-          "likes": 8913,
-          "comments": 1085,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-nBftSI5mmHA",
-      "title": "Tasks that require whole-body control with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=nBftSI5mmHA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:58:12+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/nBftSI5mmHA/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Tasks that require whole-body control with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 350931,
-          "likes": 8071,
-          "comments": 983,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 351242,
-          "likes": 8079,
-          "comments": 983,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 351366,
-          "likes": 8081,
-          "comments": 984,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 351529,
-          "likes": 8085,
-          "comments": 984,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 351757,
-          "likes": 8090,
-          "comments": 985,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 351906,
-          "likes": 8094,
-          "comments": 985,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 352074,
-          "likes": 8098,
-          "comments": 986,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 352287,
-          "likes": 8103,
-          "comments": 986,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-wYVHxw2-DP4",
-      "title": "Tough dexterity tasks with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:58:10+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/wYVHxw2-DP4/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Tough dexterity tasks with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 591570,
-          "likes": 13606,
-          "comments": 1656,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 592094,
-          "likes": 13618,
-          "comments": 1658,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 592303,
-          "likes": 13623,
-          "comments": 1658,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 592578,
-          "likes": 13629,
-          "comments": 1659,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 592962,
-          "likes": 13638,
-          "comments": 1660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 593213,
-          "likes": 13644,
-          "comments": 1661,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 593496,
-          "likes": 13650,
-          "comments": 1662,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 593856,
-          "likes": 13659,
-          "comments": 1663,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-9MNLEAzA59o",
-      "title": "Intelligent whole-body control with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=9MNLEAzA59o",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:58:07+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/9MNLEAzA59o/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Intelligent whole-body control with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 381011,
-          "likes": 8763,
-          "comments": 1067,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 381349,
-          "likes": 8771,
-          "comments": 1068,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 381483,
-          "likes": 8774,
-          "comments": 1068,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 381661,
-          "likes": 8778,
-          "comments": 1069,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 381908,
-          "likes": 8784,
-          "comments": 1069,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 382069,
-          "likes": 8788,
-          "comments": 1070,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 382252,
-          "likes": 8792,
-          "comments": 1070,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 382484,
-          "likes": 8797,
-          "comments": 1071,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-CiTPDm7PKW0",
-      "title": "Multi-robot collaboration with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:58:03+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/CiTPDm7PKW0/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Multi-robot collaboration with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 350932,
-          "likes": 8071,
-          "comments": 983,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 351243,
-          "likes": 8079,
-          "comments": 983,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 351366,
-          "likes": 8081,
-          "comments": 984,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 351530,
-          "likes": 8085,
-          "comments": 984,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 351757,
-          "likes": 8090,
-          "comments": 985,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 351906,
-          "likes": 8094,
-          "comments": 985,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 352074,
-          "likes": 8098,
-          "comments": 986,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 352288,
-          "likes": 8103,
-          "comments": 986,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-O9-650iHAls",
-      "title": "Advanced dexterity with Gemini Robotics 2",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=O9-650iHAls",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:57:59+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/O9-650iHAls/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Advanced dexterity with Gemini Robotics 2",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 556477,
-          "likes": 12799,
-          "comments": 1558,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 556971,
-          "likes": 12810,
-          "comments": 1560,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 557167,
-          "likes": 12815,
-          "comments": 1560,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 557426,
-          "likes": 12821,
-          "comments": 1561,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 557787,
-          "likes": 12829,
-          "comments": 1562,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 558022,
-          "likes": 12835,
-          "comments": 1562,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 558289,
-          "likes": 12841,
-          "comments": 1563,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 558628,
-          "likes": 12848,
-          "comments": 1564,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-deepmind-4lSQnrMC6nY",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "person": "Demis Hassabis",
-      "investor": "",
-      "sourceId": "google-deepmind",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T14:57:57+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/4lSQnrMC6nY/hqdefault.jpg",
-      "summary": "科技信号，来自 Google DeepMind：Gemini Robotics 2 brings whole body intelligence to robots",
-      "topics": [
-        "Gemini",
-        "Reasoning",
-        "AI Research",
-        "AI Agents",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Google",
-        "Gemini"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 345918,
-          "likes": 7956,
-          "comments": 969,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 346225,
-          "likes": 7963,
-          "comments": 969,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 346347,
-          "likes": 7966,
-          "comments": 970,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 346508,
-          "likes": 7970,
-          "comments": 970,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 346732,
-          "likes": 7975,
-          "comments": 971,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 346879,
-          "likes": 7978,
-          "comments": 971,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 347044,
-          "likes": 7982,
-          "comments": 972,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 347255,
-          "likes": 7987,
-          "comments": 972,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "chainlink-rIjcjrtWsr4",
-      "title": "Modernizing Finance With Onchain Infrastructure | Chainlink, Swift, Qivalis, FairSquareLab",
-      "person": "Sergey Nazarov",
-      "investor": "",
-      "sourceId": "chainlink",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=rIjcjrtWsr4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-27T16:06:51+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/rIjcjrtWsr4/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Chainlink：Modernizing Finance With Onchain Infrastructure | Chainlink, Swift, Qivalis, FairSquareLab",
-      "topics": [
-        "Oracles",
-        "Tokenization",
-        "Interop"
-      ],
-      "assets": [
-        "LINK"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 96096,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "principles-dalio-eD0wZL27O4c",
-      "title": "Ray Dalio Explains Debt Cycles",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=eD0wZL27O4c",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-22T20:05:46+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/eD0wZL27O4c/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio Explains Debt Cycles",
-      "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk",
-        "全球宏观"
-      ],
-      "assets": [
-        "Macro"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 261030,
-          "likes": 6004,
-          "comments": 731,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "principles-dalio-8QnS0gNxOnE",
-      "title": "Ray Dalio's Advice To The New Fed Chair",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8QnS0gNxOnE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-15T13:51:23+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/8QnS0gNxOnE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio's Advice To The New Fed Chair",
-      "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk",
-        "全球宏观"
-      ],
-      "assets": [
-        "Macro"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 196350,
-          "likes": 4516,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "chainlink-ILn0iaAt83k",
-      "title": "Future-Proofing Regulated Stablecoins With Chainlink",
-      "person": "Sergey Nazarov",
-      "investor": "",
-      "sourceId": "chainlink",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ILn0iaAt83k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-14T13:55:46+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/ILn0iaAt83k/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Chainlink：Future-Proofing Regulated Stablecoins With Chainlink",
-      "topics": [
-        "Oracles",
-        "Tokenization",
-        "Interop",
-        "Payments"
-      ],
-      "assets": [
-        "LINK"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 89544,
-          "likes": 2060,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "principles-dalio-wniw-4AUCsk",
-      "title": "The Changing World Order: Ray Dalio",
-      "person": "Ray Dalio",
-      "investor": "Ray Dalio",
-      "sourceId": "principles-dalio",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=wniw-4AUCsk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-30T20:50:01+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/wniw-4AUCsk/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Principles by Ray Dalio：The Changing World Order: Ray Dalio",
-      "topics": [
-        "Global Macro",
-        "Cycles",
-        "Risk"
-      ],
-      "assets": [
-        "Macro"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 325710,
-          "likes": 7491,
-          "comments": 912,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "chainlink-9zTZF_cl8ns",
-      "title": "Why Financial Institutions Are Moving Onchain | Andrew McCormick, Chainlink Labs",
-      "person": "Sergey Nazarov",
-      "investor": "",
-      "sourceId": "chainlink",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=9zTZF_cl8ns",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-30T18:30:19+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/9zTZF_cl8ns/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Chainlink：Why Financial Institutions Are Moving Onchain | Andrew McCormick, Chainlink Labs",
-      "topics": [
-        "Oracles",
-        "Tokenization",
-        "Interop"
-      ],
-      "assets": [
-        "LINK"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 135408,
-          "likes": 3114,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "chainlink-XgfjZJsGzaA",
-      "title": "Launching Project Pangea to Transform Global FX Markets | Chainlink, Qivalis, FairSquare Labs",
-      "person": "Sergey Nazarov",
-      "investor": "",
-      "sourceId": "chainlink",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=XgfjZJsGzaA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-27T13:00:03+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "keynote",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/XgfjZJsGzaA/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Chainlink：Launching Project Pangea to Transform Global FX Markets | Chainlink, Qivalis, FairSquare Labs",
-      "topics": [
-        "Oracles",
-        "Tokenization",
-        "Interop"
-      ],
-      "assets": [
-        "LINK"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 110292,
-          "likes": 2537,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-GZPLTF5ds2A",
-      "title": "Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=GZPLTF5ds2A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-02-11T20:43:54+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/GZPLTF5ds2A/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 298410,
-          "likes": 6863,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-ABB2B4FcsF0",
-      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ABB2B4FcsF0",
-      "linkStatus": "verified",
-      "publishedAt": "2025-12-05T00:40:33+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/ABB2B4FcsF0/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 435435,
-          "likes": 10015,
-          "comments": 1219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-BzZbxKp1cDI",
-      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=BzZbxKp1cDI",
-      "linkStatus": "verified",
-      "publishedAt": "2025-12-04T21:21:29+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/BzZbxKp1cDI/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 249690,
-          "likes": 5743,
-          "comments": 699,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-eCRZOuY2khM",
-      "title": "Ethereum's Latest Upgrade: Fusaka",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=eCRZOuY2khM",
-      "linkStatus": "verified",
-      "publishedAt": "2025-12-03T18:48:41+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/eCRZOuY2khM/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Ethereum's Latest Upgrade: Fusaka",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 374535,
-          "likes": 8614,
-          "comments": 1049,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bitcoin-magazine-8uKhRy-iEy4",
-      "title": "BREAKING: Bitcoin Surges Toward $80K Price, SATA Opens at Par",
-      "person": "Bitcoin builders",
-      "investor": "",
-      "sourceId": "bitcoin-magazine",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8uKhRy-iEy4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T22:02:20+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/8uKhRy-iEy4/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bitcoin Magazine：BREAKING: Bitcoin Surges Toward $80K Price, SATA Opens at Par",
-      "topics": [
-        "Bitcoin",
-        "Macro",
-        "Policy"
-      ],
-      "assets": [
-        "BTC"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 67206,
-          "likes": 1546,
-          "comments": 188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 68318,
-          "likes": 1571,
-          "comments": 191,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 68742,
-          "likes": 1581,
-          "comments": 192,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 69289,
-          "likes": 1594,
-          "comments": 194,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 70025,
-          "likes": 1611,
-          "comments": 196,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 70491,
-          "likes": 1621,
-          "comments": 197,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 71005,
-          "likes": 1633,
-          "comments": 199,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 71638,
-          "likes": 1648,
-          "comments": 201,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-KpOW9Pk4BUs",
-      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T19:50:24+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/KpOW9Pk4BUs/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "AI Agents"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 66463,
-          "likes": 1529,
-          "comments": 186,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 67507,
-          "likes": 1553,
-          "comments": 189,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 67905,
-          "likes": 1562,
-          "comments": 190,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 68420,
-          "likes": 1574,
-          "comments": 192,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 69113,
-          "likes": 1590,
-          "comments": 194,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 69553,
-          "likes": 1600,
-          "comments": 195,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 70037,
-          "likes": 1611,
-          "comments": 196,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 70636,
-          "likes": 1625,
-          "comments": 198,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bitcoin-magazine-MutiWc7WAV8",
-      "title": "TODAY: Bitcoin price soars to $68k, US Treasury to double long-term debt buybacks",
-      "person": "Bitcoin builders",
-      "investor": "",
-      "sourceId": "bitcoin-magazine",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=MutiWc7WAV8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T22:24:54+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/MutiWc7WAV8/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bitcoin Magazine：TODAY: Bitcoin price soars to $68k, US Treasury to double long-term debt buybacks",
-      "topics": [
-        "Bitcoin",
-        "Macro",
-        "Policy"
-      ],
-      "assets": [
-        "BTC"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 75636,
-          "likes": 1740,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 76190,
-          "likes": 1752,
-          "comments": 213,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 76405,
-          "likes": 1757,
-          "comments": 214,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 76687,
-          "likes": 1764,
-          "comments": 215,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 77073,
-          "likes": 1773,
-          "comments": 216,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 77321,
-          "likes": 1778,
-          "comments": 216,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 77597,
-          "likes": 1785,
-          "comments": 217,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 77944,
-          "likes": 1793,
-          "comments": 218,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bitcoin-magazine-NiHNvNvmgJU",
-      "title": "BREAKING: Metaplanet to Establish Superplanet, US Capital Market Platform Seeded with 2,100 BTC",
-      "person": "Bitcoin builders",
-      "investor": "",
-      "sourceId": "bitcoin-magazine",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=NiHNvNvmgJU",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T22:26:11+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/NiHNvNvmgJU/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bitcoin Magazine：BREAKING: Metaplanet to Establish Superplanet, US Capital Market Platform Seeded with 2,100 BTC",
-      "topics": [
-        "Bitcoin",
-        "Macro",
-        "Policy"
-      ],
-      "assets": [
-        "BTC"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 103502,
-          "likes": 2381,
-          "comments": 290,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 104084,
-          "likes": 2394,
-          "comments": 291,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 104311,
-          "likes": 2399,
-          "comments": 292,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 104610,
-          "likes": 2406,
-          "comments": 293,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 105020,
-          "likes": 2415,
-          "comments": 294,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 105284,
-          "likes": 2422,
-          "comments": 295,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 105580,
-          "likes": 2428,
-          "comments": 296,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 105951,
-          "likes": 2437,
-          "comments": 297,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bitcoin-magazine-737b7mUnVmA",
-      "title": "Bitcoin for Corporations Live Stream: Corporate Bitcoin Adoption",
-      "person": "Bitcoin builders",
-      "investor": "",
-      "sourceId": "bitcoin-magazine",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=737b7mUnVmA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-17T21:37:47+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/737b7mUnVmA/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bitcoin Magazine：Bitcoin for Corporations Live Stream: Corporate Bitcoin Adoption",
-      "topics": [
-        "Bitcoin",
-        "Macro",
-        "Policy"
-      ],
-      "assets": [
-        "BTC"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 77780,
-          "likes": 1789,
-          "comments": 218,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 78130,
-          "likes": 1797,
-          "comments": 219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 78267,
-          "likes": 1800,
-          "comments": 219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 78448,
-          "likes": 1804,
-          "comments": 220,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 78696,
-          "likes": 1810,
-          "comments": 220,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 78857,
-          "likes": 1814,
-          "comments": 221,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 79037,
-          "likes": 1818,
-          "comments": 221,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 79264,
-          "likes": 1823,
-          "comments": 222,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bitcoin-magazine-jtzVbZ1rz1Q",
-      "title": "BREAKING: OranjeBTC launches DIGY11, ETF Backed by STRC and SATA",
-      "person": "Bitcoin builders",
-      "investor": "",
-      "sourceId": "bitcoin-magazine",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=jtzVbZ1rz1Q",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T00:22:11+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "keynote",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/jtzVbZ1rz1Q/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bitcoin Magazine：BREAKING: OranjeBTC launches DIGY11, ETF Backed by STRC and SATA",
-      "topics": [
-        "Bitcoin",
-        "Macro",
-        "Policy"
-      ],
-      "assets": [
-        "BTC"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 149603,
-          "likes": 3441,
-          "comments": 419,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 149978,
-          "likes": 3449,
-          "comments": 420,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 150127,
-          "likes": 3453,
-          "comments": 420,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 150322,
-          "likes": 3457,
-          "comments": 421,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 150593,
-          "likes": 3464,
-          "comments": 422,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 150769,
-          "likes": 3468,
-          "comments": 422,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 150967,
-          "likes": 3472,
-          "comments": 423,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 151218,
-          "likes": 3478,
-          "comments": 423,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-gKhW6vL4V9A",
-      "title": "OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-28T14:47:26+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/gKhW6vL4V9A/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "Foundation Models"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 197925,
-          "likes": 4552,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coinbase-zv4icJOfB-w",
-      "title": "Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
-      "person": "Brian Armstrong",
-      "investor": "",
-      "sourceId": "coinbase",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=zv4icJOfB-w",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T21:33:13+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/zv4icJOfB-w/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
-      "topics": [
-        "Exchange",
-        "Regulation",
-        "Wallets"
-      ],
-      "assets": [
-        "COIN",
-        "BTC",
-        "ETH"
-      ],
-      "relevance": 84,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 211957,
-          "likes": 4875,
-          "comments": 593,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 212147,
-          "likes": 4879,
-          "comments": 594,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 212223,
-          "likes": 4881,
-          "comments": 594,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 212323,
-          "likes": 4883,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 212462,
-          "likes": 4887,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 212553,
-          "likes": 4889,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 212656,
-          "likes": 4891,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 212787,
-          "likes": 4894,
-          "comments": 596,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coinbase-FxfFgjmTYW4",
-      "title": "Coinbase Q2 2026 Earnings Presentation",
-      "person": "Brian Armstrong",
-      "investor": "",
-      "sourceId": "coinbase",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=FxfFgjmTYW4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-30T20:05:53+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/FxfFgjmTYW4/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings Presentation",
-      "topics": [
-        "Exchange",
-        "Regulation",
-        "Wallets"
-      ],
-      "assets": [
-        "COIN",
-        "BTC",
-        "ETH"
-      ],
-      "relevance": 84,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 206096,
-          "likes": 4740,
-          "comments": 577,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 206280,
-          "likes": 4744,
-          "comments": 578,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 206354,
-          "likes": 4746,
-          "comments": 578,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 206451,
-          "likes": 4748,
-          "comments": 578,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 206586,
-          "likes": 4751,
-          "comments": 578,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 206674,
-          "likes": 4754,
-          "comments": 579,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 206773,
-          "likes": 4756,
-          "comments": 579,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 206900,
-          "likes": 4759,
-          "comments": 579,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-crypto-ntd3HTJi2uM",
-      "title": "Introducing First Principles: The Scientific Roots of Blockchains",
-      "person": "Chris Dixon",
-      "investor": "",
-      "sourceId": "a16z-crypto",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ntd3HTJi2uM",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-22T05:23:55+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/ntd3HTJi2uM/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 a16z crypto：Introducing First Principles: The Scientific Roots of Blockchains",
-      "topics": [
-        "Consumer Crypto",
-        "Wallets",
-        "Policy"
-      ],
-      "assets": [
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 78,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 100750,
-          "likes": 2317,
-          "comments": 282,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 102781,
-          "likes": 2364,
-          "comments": 288,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 103549,
-          "likes": 2382,
-          "comments": 290,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 104537,
-          "likes": 2404,
-          "comments": 293,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 105858,
-          "likes": 2435,
-          "comments": 296,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 106690,
-          "likes": 2454,
-          "comments": 299,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 107602,
-          "likes": 2475,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 108724,
-          "likes": 2501,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-7dukgEMw9L4",
-      "title": "New Way Now: Personal builds the agentic AI Concierge with Google Cloud Consulting",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=7dukgEMw9L4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:42:40+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/7dukgEMw9L4/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：New Way Now: Personal builds the agentic AI Concierge with Google Cloud Consulting",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "AI Agents"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 115802,
-          "likes": 2663,
-          "comments": 324,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 117494,
-          "likes": 2702,
-          "comments": 329,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 118142,
-          "likes": 2717,
-          "comments": 331,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 118980,
-          "likes": 2737,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 120111,
-          "likes": 2763,
-          "comments": 336,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 120829,
-          "likes": 2779,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 121621,
-          "likes": 2797,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 122602,
-          "likes": 2820,
-          "comments": 343,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-LF3EiFt3h9I",
-      "title": "How Microsoft is Adapting to the AI Era",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=LF3EiFt3h9I",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T14:30:35+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/LF3EiFt3h9I/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：How Microsoft is Adapting to the AI Era",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 82981,
-          "likes": 1909,
-          "comments": 232,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 84137,
-          "likes": 1935,
-          "comments": 236,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 84580,
-          "likes": 1945,
-          "comments": 237,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 85154,
-          "likes": 1959,
-          "comments": 238,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 85929,
-          "likes": 1976,
-          "comments": 241,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 86422,
-          "likes": 1988,
-          "comments": 242,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 86966,
-          "likes": 2000,
-          "comments": 244,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 87640,
-          "likes": 2016,
-          "comments": 245,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "goldman-sachs-_UNIdy2K2fI",
-      "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
-      "person": "Goldman Sachs Research",
-      "investor": "Goldman Sachs Research",
-      "sourceId": "goldman-sachs",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=_UNIdy2K2fI",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T10:00:40+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i4.ytimg.com/vi/_UNIdy2K2fI/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Goldman Sachs：Why US Equity Returns Are Broadening Beyond AI Stocks",
-      "topics": [
-        "Markets",
-        "AI Trade",
-        "Macro"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 77293,
-          "likes": 1778,
-          "comments": 216,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 78274,
-          "likes": 1800,
-          "comments": 219,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 78652,
-          "likes": 1809,
-          "comments": 220,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 79141,
-          "likes": 1820,
-          "comments": 222,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 79804,
-          "likes": 1835,
-          "comments": 223,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 80226,
-          "likes": 1845,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 80693,
-          "likes": 1856,
-          "comments": 226,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 81273,
-          "likes": 1869,
-          "comments": 228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "goldman-sachs-n4ZwTSQKETs",
-      "title": "How New Models Are Changing the AI Investment Landscape",
-      "person": "Goldman Sachs Research",
-      "investor": "Goldman Sachs Research",
-      "sourceId": "goldman-sachs",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=n4ZwTSQKETs",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T15:29:39+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/n4ZwTSQKETs/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Goldman Sachs：How New Models Are Changing the AI Investment Landscape",
-      "topics": [
-        "Markets",
-        "AI Trade",
-        "Macro",
-        "Foundation Models"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 97639,
-          "likes": 2246,
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 97548,
+          "likes": 2244,
           "comments": 273,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 98152,
-          "likes": 2257,
-          "comments": 275,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 98353,
-          "likes": 2262,
-          "comments": 275,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 98617,
-          "likes": 2268,
-          "comments": 276,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 98979,
-          "likes": 2277,
-          "comments": 277,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 99213,
-          "likes": 2282,
-          "comments": 278,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 99476,
-          "likes": 2288,
-          "comments": 279,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 99805,
-          "likes": 2296,
-          "comments": 279,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-xH7U7w9Qzlo",
-      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T12:00:06+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/xH7U7w9Qzlo/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building",
-        "Foundation Models"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 119844,
-          "likes": 2756,
-          "comments": 336,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 120454,
-          "likes": 2770,
-          "comments": 337,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 120693,
-          "likes": 2776,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 121007,
-          "likes": 2783,
-          "comments": 339,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 121439,
-          "likes": 2793,
-          "comments": 340,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 121718,
-          "likes": 2800,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 122030,
-          "likes": 2807,
-          "comments": 342,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 122422,
-          "likes": 2816,
-          "comments": 343,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "goldman-sachs-til3Dhw8u4k",
-      "title": "Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
-      "person": "Goldman Sachs Research",
-      "investor": "Goldman Sachs Research",
-      "sourceId": "goldman-sachs",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=til3Dhw8u4k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T04:00:29+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i1.ytimg.com/vi/til3Dhw8u4k/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Goldman Sachs：Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
-      "topics": [
-        "Markets",
-        "AI Trade",
-        "Macro"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 63156,
-          "likes": 1453,
-          "comments": 177,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 63456,
-          "likes": 1459,
-          "comments": 178,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 63573,
-          "likes": 1462,
-          "comments": 178,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 63728,
-          "likes": 1466,
-          "comments": 178,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 63940,
-          "likes": 1471,
-          "comments": 179,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 64077,
-          "likes": 1474,
-          "comments": 179,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 64231,
-          "likes": 1477,
-          "comments": 180,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 64425,
-          "likes": 1482,
-          "comments": 180,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "mit-csail-NwlCAALEh6I",
-      "title": "Using AI to Demystify the Brain with MIT CSAIL Graduate Student Christopher Wang",
-      "person": "MIT researchers",
-      "investor": "",
-      "sourceId": "mit-csail",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=NwlCAALEh6I",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-17T12:00:09+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "marketRoundtable",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/NwlCAALEh6I/hqdefault.jpg",
-      "summary": "科技信号，来自 MIT CSAIL：Using AI to Demystify the Brain with MIT CSAIL Graduate Student Christopher Wang",
-      "topics": [
-        "AI Research",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 81027,
-          "likes": 1864,
-          "comments": 227,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 81365,
-          "likes": 1871,
-          "comments": 228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 81498,
-          "likes": 1874,
-          "comments": 228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 81672,
-          "likes": 1878,
-          "comments": 229,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 81913,
-          "likes": 1884,
-          "comments": 229,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 82069,
-          "likes": 1888,
-          "comments": 230,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 82243,
-          "likes": 1892,
-          "comments": 230,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 82464,
-          "likes": 1897,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "y-combinator-Z3JyAqh4ixg",
-      "title": "Building And Structuring An AI Native Company",
-      "person": "Garry Tan",
-      "investor": "",
-      "sourceId": "y-combinator",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Z3JyAqh4ixg",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T14:00:37+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/Z3JyAqh4ixg/hqdefault.jpg",
-      "summary": "科技信号，来自 Y Combinator：Building And Structuring An AI Native Company",
-      "topics": [
-        "AI Startups",
-        "Founders",
-        "Product"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 281431,
-          "likes": 6473,
-          "comments": 788,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 282188,
-          "likes": 6490,
-          "comments": 790,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 282486,
-          "likes": 6497,
-          "comments": 791,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 282880,
-          "likes": 6506,
-          "comments": 792,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 283425,
-          "likes": 6519,
-          "comments": 794,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 283779,
-          "likes": 6527,
-          "comments": 795,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 284177,
-          "likes": 6536,
-          "comments": 796,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 284681,
-          "likes": 6548,
-          "comments": 797,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "goldman-sachs-27x5goQn0-4",
-      "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
-      "person": "Goldman Sachs Research",
-      "investor": "Goldman Sachs Research",
-      "sourceId": "goldman-sachs",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=27x5goQn0-4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T10:00:05+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/27x5goQn0-4/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Goldman Sachs：How Inflation and Fiscal Policy Are Driving US Treasury Markets",
-      "topics": [
-        "Markets",
-        "AI Trade",
-        "Macro",
-        "全球宏观"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 79713,
-          "likes": 1833,
-          "comments": 223,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 79923,
-          "likes": 1838,
-          "comments": 224,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 80005,
-          "likes": 1840,
-          "comments": 224,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 80115,
-          "likes": 1843,
-          "comments": 224,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 80266,
-          "likes": 1846,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 80364,
-          "likes": 1848,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 80475,
-          "likes": 1851,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 80615,
-          "likes": 1854,
-          "comments": 226,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-eYrMF9Cht8A",
-      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-13T13:00:37+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/eYrMF9Cht8A/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 126781,
-          "likes": 2916,
-          "comments": 355,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 127082,
-          "likes": 2923,
-          "comments": 356,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 127201,
-          "likes": 2926,
-          "comments": 356,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 127358,
-          "likes": 2929,
-          "comments": 357,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 127576,
-          "likes": 2934,
-          "comments": 357,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 127717,
-          "likes": 2937,
-          "comments": 358,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 127877,
-          "likes": 2941,
-          "comments": 358,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 128078,
-          "likes": 2946,
-          "comments": 359,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-HI2q3ci3Iuc",
-      "title": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-13T12:00:01+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/HI2q3ci3Iuc/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：When to Build Your Own Agent Harness | Harrison Chase, LangChain",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 130680,
-          "likes": 3006,
-          "comments": 366,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 130989,
-          "likes": 3013,
-          "comments": 367,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 131111,
-          "likes": 3016,
-          "comments": 367,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 131272,
-          "likes": 3019,
-          "comments": 368,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 131495,
-          "likes": 3024,
-          "comments": 368,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 131640,
-          "likes": 3028,
-          "comments": 369,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 131804,
-          "likes": 3031,
-          "comments": 369,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 132010,
-          "likes": 3036,
-          "comments": 370,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-a00xIn5kwhM",
-      "title": "RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=a00xIn5kwhM",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-12T13:00:28+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/a00xIn5kwhM/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 144346,
-          "likes": 3320,
-          "comments": 404,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 144654,
-          "likes": 3327,
-          "comments": 405,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 144776,
-          "likes": 3330,
-          "comments": 405,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 144936,
-          "likes": 3334,
-          "comments": 406,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 145159,
-          "likes": 3339,
-          "comments": 406,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 145304,
-          "likes": 3342,
-          "comments": 407,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 145468,
-          "likes": 3346,
-          "comments": 407,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 145675,
-          "likes": 3351,
-          "comments": 408,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-yAvJ7b_FxUA",
-      "title": "Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=yAvJ7b_FxUA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-12T12:00:10+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/yAvJ7b_FxUA/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 136702,
-          "likes": 3144,
-          "comments": 383,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 136992,
-          "likes": 3151,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 137107,
-          "likes": 3153,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 137259,
-          "likes": 3157,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 137469,
-          "likes": 3162,
-          "comments": 385,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 137606,
-          "likes": 3165,
-          "comments": 385,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 137760,
-          "likes": 3168,
-          "comments": 386,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 137955,
-          "likes": 3173,
-          "comments": 386,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-KSYnuCqCL4o",
-      "title": "Datadog CISO on Securing AI Agents at Scale | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=KSYnuCqCL4o",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-11T14:30:29+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/KSYnuCqCL4o/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：Datadog CISO on Securing AI Agents at Scale | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 158019,
-          "likes": 3634,
-          "comments": 442,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 158327,
-          "likes": 3642,
-          "comments": 443,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 158449,
-          "likes": 3644,
-          "comments": 444,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 158609,
-          "likes": 3648,
-          "comments": 444,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 158832,
-          "likes": 3653,
-          "comments": 445,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 158977,
-          "likes": 3656,
-          "comments": 445,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 159141,
-          "likes": 3660,
-          "comments": 446,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 159348,
-          "likes": 3665,
-          "comments": 446,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "mit-csail-vDpe8TbfjOE",
-      "title": "Why AI Still Can't Load the Dishwasher",
-      "person": "MIT researchers",
-      "investor": "",
-      "sourceId": "mit-csail",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=vDpe8TbfjOE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-10T12:00:06+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "marketRoundtable",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/vDpe8TbfjOE/hqdefault.jpg",
-      "summary": "科技信号，来自 MIT CSAIL：Why AI Still Can't Load the Dishwasher",
-      "topics": [
-        "AI Research",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 62079,
-          "likes": 1428,
-          "comments": 174,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 62189,
-          "likes": 1430,
-          "comments": 174,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 62232,
-          "likes": 1431,
-          "comments": 174,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 62289,
-          "likes": 1433,
-          "comments": 174,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 62369,
-          "likes": 1434,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 62420,
-          "likes": 1436,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 62479,
-          "likes": 1437,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 62552,
-          "likes": 1439,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "y-combinator-6f4K7-DvJrk",
-      "title": "Evaluating the Fine-Grained Planning Abilities of Web Agents",
-      "person": "Garry Tan",
-      "investor": "",
-      "sourceId": "y-combinator",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=6f4K7-DvJrk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-06T17:35:38+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/6f4K7-DvJrk/hqdefault.jpg",
-      "summary": "科技信号，来自 Y Combinator：Evaluating the Fine-Grained Planning Abilities of Web Agents",
-      "topics": [
-        "AI Startups",
-        "Founders",
-        "Product",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 195598,
-          "likes": 4499,
-          "comments": 548,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 195857,
-          "likes": 4505,
-          "comments": 548,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 195960,
-          "likes": 4507,
-          "comments": 549,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 196095,
-          "likes": 4510,
-          "comments": 549,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 196284,
-          "likes": 4515,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 196406,
-          "likes": 4517,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 196545,
-          "likes": 4521,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 196721,
-          "likes": 4525,
-          "comments": 551,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "y-combinator-vr6soyP0mh8",
-      "title": "ChartNet: Training Vision-Language Models to Understand Charts",
-      "person": "Garry Tan",
-      "investor": "",
-      "sourceId": "y-combinator",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=vr6soyP0mh8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-06T17:35:32+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/vr6soyP0mh8/hqdefault.jpg",
-      "summary": "科技信号，来自 Y Combinator：ChartNet: Training Vision-Language Models to Understand Charts",
-      "topics": [
-        "AI Startups",
-        "Founders",
-        "Product",
-        "Foundation Models"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 191252,
-          "likes": 4399,
-          "comments": 536,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 191505,
-          "likes": 4405,
-          "comments": 536,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 191605,
-          "likes": 4407,
-          "comments": 536,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 191738,
-          "likes": 4410,
-          "comments": 537,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 191922,
-          "likes": 4414,
-          "comments": 537,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 192042,
-          "likes": 4417,
-          "comments": 538,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 192178,
-          "likes": 4420,
-          "comments": 538,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 192350,
-          "likes": 4424,
-          "comments": 539,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "sequoia-capital-wv53mDmY-k0",
-      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "person": "Roelof Botha",
-      "investor": "",
-      "sourceId": "sequoia-capital",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=wv53mDmY-k0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-04T12:00:29+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/wv53mDmY-k0/hqdefault.jpg",
-      "summary": "科技信号，来自 Sequoia Capital：Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "topics": [
-        "AI Startups",
-        "Venture",
-        "Company Building"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 121342,
-          "likes": 2791,
-          "comments": 340,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 121481,
-          "likes": 2794,
-          "comments": 340,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 121536,
-          "likes": 2795,
-          "comments": 340,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 121609,
-          "likes": 2797,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 121711,
-          "likes": 2799,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 121777,
-          "likes": 2801,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 121852,
-          "likes": 2803,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 121947,
-          "likes": 2805,
-          "comments": 341,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "mit-csail-Fx8T6SRVPuo",
-      "title": "Privacy Protection in the AI Age with MIT CSAIL Graduate Student Alexandra Henzinger",
-      "person": "MIT researchers",
-      "investor": "",
-      "sourceId": "mit-csail",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Fx8T6SRVPuo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-20T12:00:10+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "marketRoundtable",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/Fx8T6SRVPuo/hqdefault.jpg",
-      "summary": "科技信号，来自 MIT CSAIL：Privacy Protection in the AI Age with MIT CSAIL Graduate Student Alexandra Henzinger",
-      "topics": [
-        "AI Research",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 82404,
-          "likes": 1895,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "mit-csail-8g1B94gsu1Y",
-      "title": "Internet Pioneer David Clark’s Lessons for the AI Age",
-      "person": "MIT researchers",
-      "investor": "",
-      "sourceId": "mit-csail",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8g1B94gsu1Y",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-13T12:00:03+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "marketRoundtable",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i1.ytimg.com/vi/8g1B94gsu1Y/hqdefault.jpg",
-      "summary": "科技信号，来自 MIT CSAIL：Internet Pioneer David Clark’s Lessons for the AI Age",
-      "topics": [
-        "AI Research",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 107352,
-          "likes": 2469,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "mit-csail-EDEcyls2llo",
-      "title": "IAP SIE AI in Game Development & Operations",
-      "person": "MIT researchers",
-      "investor": "",
-      "sourceId": "mit-csail",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=EDEcyls2llo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-02T17:17:05+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "marketRoundtable",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i2.ytimg.com/vi/EDEcyls2llo/hqdefault.jpg",
-      "summary": "科技信号，来自 MIT CSAIL：IAP SIE AI in Game Development & Operations",
-      "topics": [
-        "AI Research",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 75600,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "meta-developers-95QihrwVQnc",
-      "title": "Developer Tools MCP: Connect Your AI Agent to Meta's Developer Platform in Under 10 Minutes",
-      "person": "Mark Zuckerberg",
-      "investor": "",
-      "sourceId": "meta-developers",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=95QihrwVQnc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-01T23:57:20+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/95QihrwVQnc/hqdefault.jpg",
-      "summary": "科技信号，来自 Meta Developers：Developer Tools MCP: Connect Your AI Agent to Meta's Developer Platform in Under 10 Minutes",
-      "topics": [
-        "Llama",
-        "Open Models",
-        "AI Apps",
-        "AI Agents"
-      ],
-      "assets": [
-        "META",
-        "Llama"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 210210,
-          "likes": 4835,
-          "comments": 589,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "meta-developers-ebIV8ZzjMf0",
-      "title": "VR Developer Level Up Ep. 1: Success Stories, Agentic Tools & Meta VR CLI",
-      "person": "Mark Zuckerberg",
-      "investor": "",
-      "sourceId": "meta-developers",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ebIV8ZzjMf0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-30T16:53:10+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/ebIV8ZzjMf0/hqdefault.jpg",
-      "summary": "科技信号，来自 Meta Developers：VR Developer Level Up Ep. 1: Success Stories, Agentic Tools & Meta VR CLI",
-      "topics": [
-        "Llama",
-        "Open Models",
-        "AI Apps",
-        "AI Agents"
-      ],
-      "assets": [
-        "META",
-        "Llama"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 213150,
-          "likes": 4902,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-fPTVrhPp6-s",
-      "title": "How AI Is Redefining What It Means to Be Creative | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=fPTVrhPp6-s",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-30T14:30:33+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/fPTVrhPp6-s/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：How AI Is Redefining What It Means to Be Creative | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 154560,
-          "likes": 3555,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-JJkx8Rp_Trk",
-      "title": "The Case for AI That Improves Itself | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=JJkx8Rp_Trk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-24T19:11:19+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/JJkx8Rp_Trk/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：The Case for AI That Improves Itself | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 137172,
-          "likes": 3155,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-tTv0Hl5xfXw",
-      "title": "How AI Will Rewire Consumer Internet | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=tTv0Hl5xfXw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-23T14:00:31+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/tTv0Hl5xfXw/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：How AI Will Rewire Consumer Internet | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 243432,
-          "likes": 5599,
-          "comments": 682,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-gBukk9LIklc",
-      "title": "Teaching AI the Language of Design | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=gBukk9LIklc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-22T17:30:33+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/gBukk9LIklc/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：Teaching AI the Language of Design | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 235704,
-          "likes": 5421,
-          "comments": 660,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-developer-C3QmhAmkLLw",
-      "title": "Whatever AI Assistant (WAIA) - Agents League Enterprise Category Winner",
-      "person": "Satya Nadella",
-      "investor": "",
-      "sourceId": "microsoft-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=C3QmhAmkLLw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-10T22:00:43+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/C3QmhAmkLLw/hqdefault.jpg",
-      "summary": "科技信号，来自 Microsoft Developer：Whatever AI Assistant (WAIA) - Agents League Enterprise Category Winner",
-      "topics": [
-        "Copilot",
-        "Azure AI",
-        "Agents",
-        "AI Agents"
-      ],
-      "assets": [
-        "MSFT",
-        "Copilot"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 120540,
-          "likes": 2772,
-          "comments": 338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-fuPgo7YcE7Y",
-      "title": "Why AI Agents Need Context | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=fuPgo7YcE7Y",
-      "linkStatus": "verified",
-      "publishedAt": "2026-06-02T14:30:17+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/fuPgo7YcE7Y/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：Why AI Agents Need Context | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 76,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 256956,
-          "likes": 5910,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-Qp5xklyJySI",
-      "title": "🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=Qp5xklyJySI",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-11T20:48:23+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/Qp5xklyJySI/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "Foundation Models"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 74,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 131776,
-          "likes": 3031,
-          "comments": 369,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 132039,
-          "likes": 3037,
-          "comments": 370,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 132143,
-          "likes": 3039,
-          "comments": 370,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 132281,
-          "likes": 3042,
-          "comments": 370,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 132471,
-          "likes": 3047,
-          "comments": 371,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 132595,
-          "likes": 3050,
-          "comments": 371,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 132735,
-          "likes": 3053,
-          "comments": 372,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 132912,
-          "likes": 3057,
-          "comments": 372,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-7PSXtru6mmY",
-      "title": "Next 100x in AI: Inference, Networking, & Self-Optimizing Models — Philip Kiely & Ali Taha, Baseten",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=7PSXtru6mmY",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-03T21:35:42+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/7PSXtru6mmY/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：Next 100x in AI: Inference, Networking, & Self-Optimizing Models — Philip Kiely & Ali Taha, Baseten",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "Foundation Models"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 74,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 173796,
-          "likes": 3997,
-          "comments": 487,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 173989,
-          "likes": 4002,
-          "comments": 487,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 174065,
-          "likes": 4003,
-          "comments": 487,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 174166,
-          "likes": 4006,
-          "comments": 488,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 174307,
-          "likes": 4009,
-          "comments": 488,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 174399,
-          "likes": 4011,
-          "comments": 488,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 174502,
-          "likes": 4014,
-          "comments": 489,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 174634,
-          "likes": 4017,
-          "comments": 489,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-9_0hs2sxHHo",
-      "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-22T20:46:43+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/9_0hs2sxHHo/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 74,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 151515,
-          "likes": 3485,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-2AdS-2uuH80",
-      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=2AdS-2uuH80",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-21T19:25:41+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/2AdS-2uuH80/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：🔬Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "Foundation Models"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 74,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 159705,
-          "likes": 3673,
-          "comments": 447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-vReve6SeXdk",
-      "title": "Khabib explains warrior culture of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=vReve6SeXdk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-20T04:00:51+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/vReve6SeXdk/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib explains warrior culture of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 466601,
-          "likes": 10732,
-          "comments": 1306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 470268,
-          "likes": 10816,
-          "comments": 1317,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 471693,
-          "likes": 10849,
-          "comments": 1321,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 473557,
-          "likes": 10892,
-          "comments": 1326,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 476104,
-          "likes": 10950,
-          "comments": 1333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 477739,
-          "likes": 10988,
-          "comments": 1338,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 479562,
-          "likes": 11030,
-          "comments": 1343,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 481842,
-          "likes": 11082,
-          "comments": 1349,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-9dARJI3qu0c",
-      "title": "Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=9dARJI3qu0c",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T20:00:27+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/9dARJI3qu0c/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 513272,
-          "likes": 11805,
-          "comments": 1437,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 516919,
-          "likes": 11889,
-          "comments": 1447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 518340,
-          "likes": 11922,
-          "comments": 1451,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 520199,
-          "likes": 11965,
-          "comments": 1457,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 522744,
-          "likes": 12023,
-          "comments": 1464,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 524381,
-          "likes": 12061,
-          "comments": 1468,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 526207,
-          "likes": 12103,
-          "comments": 1473,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 528496,
-          "likes": 12155,
-          "comments": 1480,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-EKPjOBThO2k",
-      "title": "Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=EKPjOBThO2k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T12:00:48+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/EKPjOBThO2k/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 547651,
-          "likes": 12596,
-          "comments": 1533,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 551198,
-          "likes": 12678,
-          "comments": 1543,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 552582,
-          "likes": 12709,
-          "comments": 1547,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 554395,
-          "likes": 12751,
-          "comments": 1552,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 556881,
-          "likes": 12808,
-          "comments": 1559,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 558482,
-          "likes": 12845,
-          "comments": 1564,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 560270,
-          "likes": 12886,
-          "comments": 1569,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 562513,
-          "likes": 12938,
-          "comments": 1575,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-lIvobGWbk6M",
-      "title": "Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=lIvobGWbk6M",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T04:00:43+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/lIvobGWbk6M/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 667252,
-          "likes": 15347,
-          "comments": 1868,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 671219,
-          "likes": 15438,
-          "comments": 1879,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 672768,
-          "likes": 15474,
-          "comments": 1884,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 674800,
-          "likes": 15520,
-          "comments": 1889,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 677590,
-          "likes": 15585,
-          "comments": 1897,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 679388,
-          "likes": 15626,
-          "comments": 1902,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 681398,
-          "likes": 15672,
-          "comments": 1908,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 683923,
-          "likes": 15730,
-          "comments": 1915,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coindesk-rNKgBaxHNKA",
-      "title": "Will Securitize 3X? Solana’s AI Edge, and a Digital Asset Index for Institutions",
-      "person": "Crypto leaders",
-      "investor": "",
-      "sourceId": "coindesk",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=rNKgBaxHNKA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-17T18:09:21+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/rNKgBaxHNKA/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 CoinDesk：Will Securitize 3X? Solana’s AI Edge, and a Digital Asset Index for Institutions",
-      "topics": [
-        "Crypto Markets",
-        "Regulation",
-        "Institutions"
-      ],
-      "assets": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 72,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 192510,
-          "likes": 4428,
-          "comments": 539,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 193352,
-          "likes": 4447,
-          "comments": 541,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 193683,
-          "likes": 4455,
-          "comments": 542,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 194118,
-          "likes": 4465,
-          "comments": 544,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 194717,
-          "likes": 4478,
-          "comments": 545,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 195104,
-          "likes": 4487,
-          "comments": 546,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 195539,
-          "likes": 4497,
-          "comments": 548,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 196086,
-          "likes": 4510,
-          "comments": 549,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "milken-97v3XuQ6-Os",
-      "title": "Aligning Investment and Opportunity in Health | Global Conference 2026",
-      "person": "Investment leaders",
-      "investor": "Investment leaders",
-      "sourceId": "milken",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=97v3XuQ6-Os",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T17:55:35+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i2.ytimg.com/vi/97v3XuQ6-Os/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Milken Institute：Aligning Investment and Opportunity in Health | Global Conference 2026",
-      "topics": [
-        "Macro",
-        "AI Investment",
-        "Capital Markets"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 70,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 96,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 73106,
-          "likes": 1681,
-          "comments": 205,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 73306,
-          "likes": 1686,
-          "comments": 205,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 73385,
-          "likes": 1688,
-          "comments": 205,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 73490,
-          "likes": 1690,
-          "comments": 206,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 73634,
-          "likes": 1694,
-          "comments": 206,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 73728,
-          "likes": 1696,
-          "comments": 206,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 73834,
-          "likes": 1698,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 73967,
-          "likes": 1701,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-IQgOQDJhVUI",
-      "title": "How Should AI Shape Your Portfolio? | 2026 Vanguard Midyear Economic and Market Outlook",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=IQgOQDJhVUI",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-20T17:00:27+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i2.ytimg.com/vi/IQgOQDJhVUI/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：How Should AI Shape Your Portfolio? | 2026 Vanguard Midyear Economic and Market Outlook",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 70,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 95,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 108486,
-          "likes": 2495,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-z7HWQ1bxX1g",
-      "title": "Can AI Sustain Market Gains? | 2026 Vanguard Midyear Economic and Market Outlook",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=z7HWQ1bxX1g",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-17T15:00:00+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/z7HWQ1bxX1g/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：Can AI Sustain Market Gains? | 2026 Vanguard Midyear Economic and Market Outlook",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 70,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 95,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 109368,
-          "likes": 2515,
-          "comments": 306,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-jF456TM3pwo",
-      "title": "How AI Is Driving Economic Growth | 2026 Vanguard Midyear Economic and Market Outlook",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=jF456TM3pwo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-14T16:30:16+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i3.ytimg.com/vi/jF456TM3pwo/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：How AI Is Driving Economic Growth | 2026 Vanguard Midyear Economic and Market Outlook",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 70,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 95,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 62622,
-          "likes": 1440,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-developer-hTOuTVmBHuM",
-      "title": "The Microsoft 365 Copilot Agent's Playbook | A 4-part Microsoft Reactor livestream coming soon🤖",
-      "person": "Satya Nadella",
-      "investor": "",
-      "sourceId": "microsoft-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=hTOuTVmBHuM",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-20T14:00:31+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/hTOuTVmBHuM/hqdefault.jpg",
-      "summary": "科技信号，来自 Microsoft Developer：The Microsoft 365 Copilot Agent's Playbook | A 4-part Microsoft Reactor livestream coming soon🤖",
-      "topics": [
-        "Copilot",
-        "Azure AI",
-        "Agents",
-        "AI Agents"
-      ],
-      "assets": [
-        "MSFT",
-        "Copilot"
-      ],
-      "relevance": 68,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 118818,
-          "likes": 2733,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-lvt6kwrYjOw",
-      "title": "Embedding models with vLLM TPU",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=lvt6kwrYjOw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:14:11+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/lvt6kwrYjOw/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Embedding models with vLLM TPU",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Foundation Models"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 103045,
-          "likes": 2370,
-          "comments": 289,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 104535,
-          "likes": 2404,
-          "comments": 293,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 105106,
-          "likes": 2417,
-          "comments": 294,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 105844,
-          "likes": 2434,
-          "comments": 296,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 106841,
-          "likes": 2457,
-          "comments": 299,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 107473,
-          "likes": 2472,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 108172,
-          "likes": 2488,
-          "comments": 303,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 109037,
-          "likes": 2508,
-          "comments": 305,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-GfDS6TyTq6I",
-      "title": "Intro to AI Hypercomputer",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=GfDS6TyTq6I",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T15:56:32+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/GfDS6TyTq6I/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Intro to AI Hypercomputer",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Compute"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 137241,
-          "likes": 3157,
-          "comments": 384,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 139212,
-          "likes": 3202,
-          "comments": 390,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 139967,
-          "likes": 3219,
-          "comments": 392,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 140945,
-          "likes": 3242,
-          "comments": 395,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 142264,
-          "likes": 3272,
-          "comments": 398,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 143102,
-          "likes": 3291,
-          "comments": 401,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 144027,
-          "likes": 3313,
-          "comments": 403,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 145173,
-          "likes": 3339,
-          "comments": 406,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-oJF_6HgA46E",
-      "title": "Cosmos 3 Post-Training in Action With Aigen and Linker Vision | Cosmos Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=oJF_6HgA46E",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-20T17:26:41+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/oJF_6HgA46E/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Cosmos 3 Post-Training in Action With Aigen and Linker Vision | Cosmos Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 101624,
-          "likes": 2337,
-          "comments": 285,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 102591,
-          "likes": 2360,
-          "comments": 287,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 102965,
-          "likes": 2368,
-          "comments": 288,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 103453,
-          "likes": 2379,
-          "comments": 290,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 104118,
-          "likes": 2395,
-          "comments": 292,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 104544,
-          "likes": 2405,
-          "comments": 293,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 105017,
-          "likes": 2415,
-          "comments": 294,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 105607,
-          "likes": 2429,
-          "comments": 296,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-ZQ3EeU-hYSA",
-      "title": "Get Started with Open Model Routing | Nemotron Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ZQ3EeU-hYSA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T15:49:41+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/ZQ3EeU-hYSA/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Get Started with Open Model Routing | Nemotron Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "Foundation Models"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 184948,
-          "likes": 4254,
-          "comments": 518,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 186199,
-          "likes": 4283,
-          "comments": 521,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 186687,
-          "likes": 4294,
-          "comments": 523,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 187325,
-          "likes": 4308,
-          "comments": 525,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 188200,
-          "likes": 4329,
-          "comments": 527,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 188763,
-          "likes": 4342,
-          "comments": 529,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 189392,
-          "likes": 4356,
-          "comments": 530,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 190180,
-          "likes": 4374,
-          "comments": 533,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "a16z-GfKdcQsaHkQ",
-      "title": "Cybersecurity in the Agentic Era | Deep Dives with a16z",
-      "person": "Marc Andreessen",
-      "investor": "",
-      "sourceId": "a16z",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=GfKdcQsaHkQ",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-18T14:30:10+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/GfKdcQsaHkQ/hqdefault.jpg",
-      "summary": "科技信号，来自 a16z：Cybersecurity in the Agentic Era | Deep Dives with a16z",
-      "topics": [
-        "AI Startups",
-        "Enterprise Software",
-        "Venture",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI",
-        "SaaS"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 214075,
-          "likes": 4924,
-          "comments": 599,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 215190,
-          "likes": 4949,
-          "comments": 603,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 215627,
-          "likes": 4959,
-          "comments": 604,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 216200,
-          "likes": 4973,
-          "comments": 605,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 216988,
-          "likes": 4991,
-          "comments": 608,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 217497,
-          "likes": 5002,
-          "comments": 609,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 218067,
-          "likes": 5016,
-          "comments": 611,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 218783,
-          "likes": 5032,
-          "comments": 613,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-LagVL0KyGgo",
-      "title": "WAMs and VLAs for Robot Learning | Cosmos Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=LagVL0KyGgo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T05:12:37+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/LagVL0KyGgo/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：WAMs and VLAs for Robot Learning | Cosmos Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "AI Agents"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 175526,
-          "likes": 4037,
-          "comments": 491,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 175977,
-          "likes": 4047,
-          "comments": 493,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 176155,
-          "likes": 4052,
-          "comments": 493,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 176390,
-          "likes": 4057,
-          "comments": 494,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 176715,
-          "likes": 4064,
-          "comments": 495,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 176926,
-          "likes": 4069,
-          "comments": 495,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 177164,
-          "likes": 4075,
-          "comments": 496,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 177465,
-          "likes": 4082,
-          "comments": 497,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-CIxe1rdg3Pg",
-      "title": "Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=CIxe1rdg3Pg",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-12T06:58:55+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/CIxe1rdg3Pg/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "Foundation Models"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 164680,
-          "likes": 3788,
-          "comments": 461,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 165023,
-          "likes": 3796,
-          "comments": 462,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 165158,
-          "likes": 3799,
-          "comments": 462,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 165337,
-          "likes": 3803,
-          "comments": 463,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 165585,
-          "likes": 3808,
-          "comments": 464,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 165746,
-          "likes": 3812,
-          "comments": 464,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 165928,
-          "likes": 3816,
-          "comments": 465,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 166159,
-          "likes": 3822,
-          "comments": 465,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-BHEsQZYGZ4o",
-      "title": "Learn Robot Manipulation with LeRobot and ROS 2 | NVIDIA Jetson AI Lab",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=BHEsQZYGZ4o",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-11T17:11:28+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/BHEsQZYGZ4o/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Learn Robot Manipulation with LeRobot and ROS 2 | NVIDIA Jetson AI Lab",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "AI Agents",
-        "Compute"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 211376,
-          "likes": 4862,
-          "comments": 592,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 211792,
-          "likes": 4871,
-          "comments": 593,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 211956,
-          "likes": 4875,
-          "comments": 593,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 212174,
-          "likes": 4880,
-          "comments": 594,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 212475,
-          "likes": 4887,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 212671,
-          "likes": 4891,
-          "comments": 595,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 212892,
-          "likes": 4897,
-          "comments": 596,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 213172,
-          "likes": 4903,
-          "comments": 597,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-2Tskr8an1oE",
-      "title": "How to Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=2Tskr8an1oE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-11T13:00:35+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/2Tskr8an1oE/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：How to Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "AI Agents",
-        "Compute"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 168175,
-          "likes": 3868,
-          "comments": 471,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 168500,
-          "likes": 3876,
-          "comments": 472,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 168629,
-          "likes": 3878,
-          "comments": 472,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 168799,
-          "likes": 3882,
-          "comments": 473,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 169035,
-          "likes": 3888,
-          "comments": 473,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 169188,
-          "likes": 3891,
-          "comments": 474,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 169361,
-          "likes": 3895,
-          "comments": 474,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 169581,
-          "likes": 3900,
-          "comments": 475,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "milken-AH5a3xmMC5A",
-      "title": "AI Infrastructure at Scale: Financing the Power-Constrained Grid | Global Conference 2026",
-      "person": "Investment leaders",
-      "investor": "Investment leaders",
-      "sourceId": "milken",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=AH5a3xmMC5A",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-06T21:21:52+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i2.ytimg.com/vi/AH5a3xmMC5A/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Milken Institute：AI Infrastructure at Scale: Financing the Power-Constrained Grid | Global Conference 2026",
-      "topics": [
-        "Macro",
-        "AI Investment",
-        "Capital Markets"
-      ],
-      "assets": [
-        "AI",
-        "Macro"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 88,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 116471,
-          "likes": 2679,
-          "comments": 326,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 116626,
-          "likes": 2682,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 116688,
-          "likes": 2684,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 116770,
-          "likes": 2686,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 116883,
-          "likes": 2688,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 116957,
-          "likes": 2690,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 117040,
-          "likes": 2692,
-          "comments": 328,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 117146,
-          "likes": 2694,
-          "comments": 328,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "y-combinator-istBNYB4Et4",
-      "title": "Any-Horizon Reasoning for Video Agents",
-      "person": "Garry Tan",
-      "investor": "",
-      "sourceId": "y-combinator",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=istBNYB4Et4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-06T17:35:29+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/istBNYB4Et4/hqdefault.jpg",
-      "summary": "科技信号，来自 Y Combinator：Any-Horizon Reasoning for Video Agents",
-      "topics": [
-        "AI Startups",
-        "Founders",
-        "Product",
-        "AI Agents"
-      ],
-      "assets": [
-        "AI"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 256452,
-          "likes": 5898,
-          "comments": 718,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 256791,
-          "likes": 5906,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 256925,
-          "likes": 5909,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 257103,
-          "likes": 5913,
-          "comments": 720,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 257350,
-          "likes": 5919,
-          "comments": 721,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 257511,
-          "likes": 5923,
-          "comments": 721,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 257693,
-          "likes": 5927,
-          "comments": 722,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 257924,
-          "likes": 5932,
-          "comments": 722,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-oH5v96x29x4",
-      "title": "What Should You Do With Your Portfolio Right Now? | Vanguard",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=oH5v96x29x4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-28T13:30:03+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i4.ytimg.com/vi/oH5v96x29x4/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：What Should You Do With Your Portfolio Right Now? | Vanguard",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 87,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 74088,
-          "likes": 1704,
-          "comments": 207,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-sdlp2e8NmM4",
-      "title": "Can You Rely on Markets to Meet Your Goals? | Vanguard",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=sdlp2e8NmM4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-23T13:30:33+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i4.ytimg.com/vi/sdlp2e8NmM4/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：Can You Rely on Markets to Meet Your Goals? | Vanguard",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 87,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 61740,
-          "likes": 1420,
-          "comments": 173,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "vanguard-mSWhGKKdvUE",
-      "title": "Better Vantage by Vanguard | The costliest mistakes even experienced investors make",
-      "person": "John Bogle",
-      "investor": "John Bogle",
-      "sourceId": "vanguard",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=mSWhGKKdvUE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-07-22T15:30:02+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 70,
-      "editorBoost": 1,
-      "thumbnail": "https://i2.ytimg.com/vi/mSWhGKKdvUE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Vanguard：Better Vantage by Vanguard | The costliest mistakes even experienced investors make",
-      "topics": [
-        "Index Investing",
-        "Asset Allocation",
-        "Long Term"
-      ],
-      "assets": [
-        "Index Funds"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 87,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 93492,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-xGxgOEHw4Xc",
-      "title": "Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=xGxgOEHw4Xc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-24T09:03:45+00:00",
-      "discoveredAt": "2026-08-24T10:54:27.916Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/xGxgOEHw4Xc/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "全球宏观"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "全球宏观",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 85,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-24T04:54:30.942Z",
-          "views": 31605,
-          "likes": 687,
-          "comments": 76,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 43896,
-          "likes": 1010,
-          "comments": 123,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 68913,
-          "likes": 1585,
-          "comments": 193,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-iUssTMQRDHI",
-      "title": "Why Giving AI Its Own Values Could Be Dangerous - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=iUssTMQRDHI",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-23T21:21:41+00:00",
-      "discoveredAt": "2026-08-23T22:39:16.129Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/iUssTMQRDHI/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：Why Giving AI Its Own Values Could Be Dangerous - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data",
-        "价值投资"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 70001,
-          "likes": 1610,
-          "comments": 196,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 145342,
-          "likes": 3343,
-          "comments": 407,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 163166,
-          "likes": 3753,
-          "comments": 457,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 182185,
-          "likes": 4190,
-          "comments": 510,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 203131,
-          "likes": 4672,
-          "comments": 569,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 214483,
-          "likes": 4933,
-          "comments": 601,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 225735,
-          "likes": 5192,
-          "comments": 632,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 238210,
-          "likes": 5479,
-          "comments": 667,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coindesk-0G9q1M5wU2Q",
-      "title": "From T+1 to Instant: Tokenized Funds Get an Upgrade",
-      "person": "Crypto leaders",
-      "investor": "",
-      "sourceId": "coindesk",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0G9q1M5wU2Q",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T17:00:39+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/0G9q1M5wU2Q/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 CoinDesk：From T+1 to Instant: Tokenized Funds Get an Upgrade",
-      "topics": [
-        "Crypto Markets",
-        "Regulation",
-        "Institutions"
-      ],
-      "assets": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 108639,
-          "likes": 2499,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 110237,
-          "likes": 2535,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 110849,
-          "likes": 2550,
-          "comments": 310,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 111640,
-          "likes": 2568,
-          "comments": 313,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 112708,
-          "likes": 2592,
-          "comments": 316,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 113385,
-          "likes": 2608,
-          "comments": 317,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 114133,
-          "likes": 2625,
-          "comments": 320,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 115059,
-          "likes": 2646,
-          "comments": 322,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coindesk-4Db32G38yfw",
-      "title": "SEC Drops 'Reg Crypto' Rulemaking: Do We Still Need Clarity?",
-      "person": "Crypto leaders",
-      "investor": "",
-      "sourceId": "coindesk",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=4Db32G38yfw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T15:00:17+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/4Db32G38yfw/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 CoinDesk：SEC Drops 'Reg Crypto' Rulemaking: Do We Still Need Clarity?",
-      "topics": [
-        "Crypto Markets",
-        "Regulation",
-        "Institutions"
-      ],
-      "assets": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 113960,
-          "likes": 2621,
-          "comments": 319,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 115564,
-          "likes": 2658,
-          "comments": 324,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 116178,
-          "likes": 2672,
-          "comments": 325,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 116974,
-          "likes": 2690,
-          "comments": 328,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 118050,
-          "likes": 2715,
-          "comments": 331,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 118733,
-          "likes": 2731,
-          "comments": 332,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 119487,
-          "likes": 2748,
-          "comments": 335,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 120422,
-          "likes": 2770,
-          "comments": 337,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-l_Y_dSYV0tA",
-      "title": "Why Superhuman AI Might Only Need to Master R&D - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=l_Y_dSYV0tA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-20T20:30:36+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/l_Y_dSYV0tA/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：Why Superhuman AI Might Only Need to Master R&D - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 288198,
-          "likes": 6629,
-          "comments": 807,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 291076,
-          "likes": 6695,
-          "comments": 815,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 292189,
-          "likes": 6720,
-          "comments": 818,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 293639,
-          "likes": 6754,
-          "comments": 822,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 295612,
-          "likes": 6799,
-          "comments": 828,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 296874,
-          "likes": 6828,
-          "comments": 831,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 298276,
-          "likes": 6860,
-          "comments": 835,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 300024,
-          "likes": 6901,
-          "comments": 840,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coindesk-DWifNBhQ82U",
-      "title": "Bitcoin Breaks $70K—When Will It Hit a New All-Time High?",
-      "person": "Crypto leaders",
-      "investor": "",
-      "sourceId": "coindesk",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=DWifNBhQ82U",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-20T13:34:40+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/DWifNBhQ82U/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 CoinDesk：Bitcoin Breaks $70K—When Will It Hit a New All-Time High?",
-      "topics": [
-        "Crypto Markets",
-        "Regulation",
-        "Institutions",
-        "Bitcoin"
-      ],
-      "assets": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 82951,
-          "likes": 1908,
-          "comments": 232,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 83695,
-          "likes": 1925,
-          "comments": 234,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 83984,
-          "likes": 1932,
-          "comments": 235,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 84361,
-          "likes": 1940,
-          "comments": 236,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 84874,
-          "likes": 1952,
-          "comments": 238,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 85203,
-          "likes": 1960,
-          "comments": 239,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 85569,
-          "likes": 1968,
-          "comments": 240,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 86027,
-          "likes": 1979,
-          "comments": 241,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-1calbhOA8j0",
-      "title": "How Fast Can AI Become an Expert in a New Field? - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=1calbhOA8j0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T21:00:11+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/1calbhOA8j0/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：How Fast Can AI Become an Expert in a New Field? - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 192170,
-          "likes": 4420,
-          "comments": 538,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 193552,
-          "likes": 4452,
-          "comments": 542,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 194090,
-          "likes": 4464,
-          "comments": 543,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 194794,
-          "likes": 4480,
-          "comments": 545,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 195758,
-          "likes": 4502,
-          "comments": 548,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 196378,
-          "likes": 4517,
-          "comments": 550,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 197070,
-          "likes": 4533,
-          "comments": 552,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 197936,
-          "likes": 4553,
-          "comments": 554,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "lex-fridman-ZE265IfPPAc",
-      "title": "Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
-      "person": "Lex Fridman",
-      "investor": "",
-      "sourceId": "lex-fridman",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ZE265IfPPAc",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-19T16:00:30+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/ZE265IfPPAc/hqdefault.jpg",
-      "summary": "科技信号，来自 Lex Fridman：Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
-      "topics": [
-        "AI Research",
-        "Founders",
-        "Robotics"
-      ],
-      "assets": [
-        "OpenAI",
-        "Tesla"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 862768,
-          "likes": 19844,
-          "comments": 2416,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 868616,
-          "likes": 19978,
-          "comments": 2432,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 870896,
-          "likes": 20031,
-          "comments": 2439,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 873880,
-          "likes": 20099,
-          "comments": 2447,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 877970,
-          "likes": 20193,
-          "comments": 2458,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 880602,
-          "likes": 20254,
-          "comments": 2466,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 883540,
-          "likes": 20321,
-          "comments": 2474,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 887224,
-          "likes": 20406,
-          "comments": 2484,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-nf9wcF_vtr4",
-      "title": "Why Gemini Models Kept Becoming Depressed - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=nf9wcF_vtr4",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-17T21:51:36+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/nf9wcF_vtr4/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：Why Gemini Models Kept Becoming Depressed - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data",
-        "Foundation Models"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 314287,
-          "likes": 7229,
-          "comments": 880,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 315704,
-          "likes": 7261,
-          "comments": 884,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 316260,
-          "likes": 7274,
-          "comments": 886,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 316991,
-          "likes": 7291,
-          "comments": 888,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 317997,
-          "likes": 7314,
-          "comments": 890,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 318648,
-          "likes": 7329,
-          "comments": 892,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 319378,
-          "likes": 7346,
-          "comments": 894,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 320297,
-          "likes": 7367,
-          "comments": 897,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-8bdncWiRRX0",
-      "title": "AI Risk Might Be Manageable Yet Still Be Mismanaged - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8bdncWiRRX0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-16T20:30:26+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/8bdncWiRRX0/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：AI Risk Might Be Manageable Yet Still Be Mismanaged - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 283851,
-          "likes": 6529,
-          "comments": 795,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 284909,
-          "likes": 6553,
-          "comments": 798,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 285325,
-          "likes": 6562,
-          "comments": 799,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 285872,
-          "likes": 6575,
-          "comments": 800,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 286628,
-          "likes": 6592,
-          "comments": 803,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 287118,
-          "likes": 6604,
-          "comments": 804,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 287667,
-          "likes": 6616,
-          "comments": 805,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 288361,
-          "likes": 6632,
-          "comments": 807,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-0BDdiGQUp7M",
-      "title": "How Reward Hacking Could Escalate Into AI Takeover - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0BDdiGQUp7M",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-15T21:13:47+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/0BDdiGQUp7M/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：How Reward Hacking Could Escalate Into AI Takeover - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 402770,
-          "likes": 9264,
-          "comments": 1128,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 404061,
-          "likes": 9293,
-          "comments": 1131,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 404569,
-          "likes": 9305,
-          "comments": 1133,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 405239,
-          "likes": 9320,
-          "comments": 1135,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 406165,
-          "likes": 9342,
-          "comments": 1137,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 406766,
-          "likes": 9356,
-          "comments": 1139,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 407441,
-          "likes": 9371,
-          "comments": 1141,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 408294,
-          "likes": 9391,
-          "comments": 1143,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "dwarkesh-wSX0jXBAxwA",
-      "title": "Why Can't We Raise AI Like We Raise Kids? - Ryan Greenblatt",
-      "person": "Dwarkesh Patel",
-      "investor": "",
-      "sourceId": "dwarkesh",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=wSX0jXBAxwA",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T20:03:23+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/wSX0jXBAxwA/hqdefault.jpg",
-      "summary": "科技信号，来自 Dwarkesh Podcast：Why Can't We Raise AI Like We Raise Kids? - Ryan Greenblatt",
-      "topics": [
-        "Scaling Laws",
-        "Open Models",
-        "Synthetic Data"
-      ],
-      "assets": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 297610,
-          "likes": 6845,
-          "comments": 833,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 298436,
-          "likes": 6864,
-          "comments": 836,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 298762,
-          "likes": 6872,
-          "comments": 837,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 299192,
-          "likes": 6881,
-          "comments": 838,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 299786,
-          "likes": 6895,
-          "comments": 839,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 300172,
-          "likes": 6904,
-          "comments": 840,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 300607,
-          "likes": 6914,
-          "comments": 842,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 301156,
-          "likes": 6927,
-          "comments": 843,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "coindesk-qkq8lydqBW8",
-      "title": "Did Stablecoin Yield Kill CLARITY?",
-      "person": "Crypto leaders",
-      "investor": "",
-      "sourceId": "coindesk",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=qkq8lydqBW8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-14T15:00:21+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/qkq8lydqBW8/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 CoinDesk：Did Stablecoin Yield Kill CLARITY?",
-      "topics": [
-        "Crypto Markets",
-        "Regulation",
-        "Institutions",
-        "Payments"
-      ],
-      "assets": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 148483,
-          "likes": 3415,
-          "comments": 416,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 148884,
-          "likes": 3424,
-          "comments": 417,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 149042,
-          "likes": 3428,
-          "comments": 417,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 149251,
-          "likes": 3433,
-          "comments": 418,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 149540,
-          "likes": 3439,
-          "comments": 419,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 149728,
-          "likes": 3444,
-          "comments": 419,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 149939,
-          "likes": 3449,
-          "comments": 420,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 150206,
-          "likes": 3455,
-          "comments": 421,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "acquired-ipiKIgdynZE",
-      "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-      "person": "Ben Gilbert",
-      "investor": "Ben Gilbert",
-      "sourceId": "acquired",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ipiKIgdynZE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-05-18T20:44:21+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/ipiKIgdynZE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Acquired：Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-      "topics": [
-        "Business Quality",
-        "Technology Companies",
-        "Moats"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "META"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 86,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 199080,
-          "likes": 4579,
-          "comments": 557,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -15329,7 +2112,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
     },
     {
       "id": "openai-wIf9yMGalPU",
-      "title": "You can just keep the work moving",
+      "title": "You can just keep the work moving | ChatGPT Work",
       "person": "Sam Altman",
       "investor": "",
       "sourceId": "openai",
@@ -15339,13 +2122,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-17T18:25:48+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
       "editorBoost": 5,
       "thumbnail": "https://i4.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg",
-      "summary": "科技信号，来自 OpenAI：You can just keep the work moving",
+      "summary": "科技信号，来自 OpenAI：You can just keep the work moving | ChatGPT Work",
       "topics": [
         "AI Agents",
         "Inference",
@@ -15355,7 +2138,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "OpenAI",
         "ChatGPT"
       ],
-      "relevance": 56,
+      "relevance": 92,
       "quality": {
         "metrics": "estimated",
         "transcript": "not_connected",
@@ -15363,17 +2146,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 732602,
-          "likes": 16850,
-          "comments": 2051,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 735815,
@@ -15450,6 +2222,13223 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 747834,
+          "likes": 17200,
+          "comments": 2094,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-rEoC2ZCqXjM",
+      "title": "Hedera: Claude Code - AI Skills for Hackathon Builders | Luke Forrest at ETHOnline 2026",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=rEoC2ZCqXjM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T14:04:18+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/rEoC2ZCqXjM/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Hedera: Claude Code - AI Skills for Hackathon Builders | Luke Forrest at ETHOnline 2026",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol",
+        "Foundation Models"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 101255,
+          "likes": 2329,
+          "comments": 284,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 101362,
+          "likes": 2331,
+          "comments": 284,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 101503,
+          "likes": 2335,
+          "comments": 284,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 101699,
+          "likes": 2339,
+          "comments": 285,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 101826,
+          "likes": 2342,
+          "comments": 285,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 101969,
+          "likes": 2345,
+          "comments": 286,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 102150,
+          "likes": 2349,
+          "comments": 286,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 102288,
+          "likes": 2353,
+          "comments": 286,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal--0HvHucIUlo",
+      "title": "Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=-0HvHucIUlo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T14:02:24+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/-0HvHucIUlo/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol",
+        "Ethereum L2"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 140520,
+          "likes": 3232,
+          "comments": 393,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 140669,
+          "likes": 3235,
+          "comments": 394,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 140865,
+          "likes": 3240,
+          "comments": 394,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 141137,
+          "likes": 3246,
+          "comments": 395,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 141313,
+          "likes": 3250,
+          "comments": 396,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 141511,
+          "likes": 3255,
+          "comments": 396,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 141762,
+          "likes": 3261,
+          "comments": 397,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 141955,
+          "likes": 3265,
+          "comments": 397,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-labueztFNtk",
+      "title": "Beginner's Workshop: What to Expect at ETHOnline 2026 | Pascal Rüger",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=labueztFNtk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T13:58:11+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/labueztFNtk/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Beginner's Workshop: What to Expect at ETHOnline 2026 | Pascal Rüger",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 92997,
+          "likes": 2139,
+          "comments": 260,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 93095,
+          "likes": 2141,
+          "comments": 261,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 93225,
+          "likes": 2144,
+          "comments": 261,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 93404,
+          "likes": 2148,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 93521,
+          "likes": 2151,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 93652,
+          "likes": 2154,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 93818,
+          "likes": 2158,
+          "comments": 263,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 93946,
+          "likes": 2161,
+          "comments": 263,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-bVF6vKmHIVw",
+      "title": "ETHGlobal Lisbon 2026 | Full Hackathon Recap",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=bVF6vKmHIVw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-13T16:32:34+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/bVF6vKmHIVw/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：ETHGlobal Lisbon 2026 | Full Hackathon Recap",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 138640,
+          "likes": 3189,
+          "comments": 388,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 138772,
+          "likes": 3192,
+          "comments": 389,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 138946,
+          "likes": 3196,
+          "comments": 389,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 139188,
+          "likes": 3201,
+          "comments": 390,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 139344,
+          "likes": 3205,
+          "comments": 390,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 139521,
+          "likes": 3209,
+          "comments": 391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 139744,
+          "likes": 3214,
+          "comments": 391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 139916,
+          "likes": 3218,
+          "comments": 392,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-fo9WirRIaVs",
+      "title": "Robots working together with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=fo9WirRIaVs",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:58:16+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/fo9WirRIaVs/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Robots working together with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 386367,
+          "likes": 8886,
+          "comments": 1082,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 386502,
+          "likes": 8890,
+          "comments": 1082,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 386682,
+          "likes": 8894,
+          "comments": 1083,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 386933,
+          "likes": 8899,
+          "comments": 1083,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 387096,
+          "likes": 8903,
+          "comments": 1084,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 387281,
+          "likes": 8907,
+          "comments": 1084,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 387516,
+          "likes": 8913,
+          "comments": 1085,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 387697,
+          "likes": 8917,
+          "comments": 1086,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-nBftSI5mmHA",
+      "title": "Tasks that require whole-body control with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=nBftSI5mmHA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:58:12+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/nBftSI5mmHA/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Tasks that require whole-body control with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 351242,
+          "likes": 8079,
+          "comments": 983,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 351366,
+          "likes": 8081,
+          "comments": 984,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 351529,
+          "likes": 8085,
+          "comments": 984,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 351757,
+          "likes": 8090,
+          "comments": 985,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 351906,
+          "likes": 8094,
+          "comments": 985,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 352074,
+          "likes": 8098,
+          "comments": 986,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 352287,
+          "likes": 8103,
+          "comments": 986,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 352452,
+          "likes": 8106,
+          "comments": 987,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-wYVHxw2-DP4",
+      "title": "Tough dexterity tasks with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=wYVHxw2-DP4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:58:10+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/wYVHxw2-DP4/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Tough dexterity tasks with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 592094,
+          "likes": 13618,
+          "comments": 1658,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 592303,
+          "likes": 13623,
+          "comments": 1658,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 592578,
+          "likes": 13629,
+          "comments": 1659,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 592962,
+          "likes": 13638,
+          "comments": 1660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 593213,
+          "likes": 13644,
+          "comments": 1661,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 593496,
+          "likes": 13650,
+          "comments": 1662,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 593856,
+          "likes": 13659,
+          "comments": 1663,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 594133,
+          "likes": 13665,
+          "comments": 1664,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-9MNLEAzA59o",
+      "title": "Intelligent whole-body control with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9MNLEAzA59o",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:58:07+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/9MNLEAzA59o/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Intelligent whole-body control with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 381349,
+          "likes": 8771,
+          "comments": 1068,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 381483,
+          "likes": 8774,
+          "comments": 1068,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 381661,
+          "likes": 8778,
+          "comments": 1069,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 381908,
+          "likes": 8784,
+          "comments": 1069,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 382069,
+          "likes": 8788,
+          "comments": 1070,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 382252,
+          "likes": 8792,
+          "comments": 1070,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 382484,
+          "likes": 8797,
+          "comments": 1071,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 382662,
+          "likes": 8801,
+          "comments": 1071,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-CiTPDm7PKW0",
+      "title": "Multi-robot collaboration with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=CiTPDm7PKW0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:58:03+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/CiTPDm7PKW0/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Multi-robot collaboration with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 351243,
+          "likes": 8079,
+          "comments": 983,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 351366,
+          "likes": 8081,
+          "comments": 984,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 351530,
+          "likes": 8085,
+          "comments": 984,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 351757,
+          "likes": 8090,
+          "comments": 985,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 351906,
+          "likes": 8094,
+          "comments": 985,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 352074,
+          "likes": 8098,
+          "comments": 986,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 352288,
+          "likes": 8103,
+          "comments": 986,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 352452,
+          "likes": 8106,
+          "comments": 987,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-O9-650iHAls",
+      "title": "Advanced dexterity with Gemini Robotics 2",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=O9-650iHAls",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:57:59+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/O9-650iHAls/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Advanced dexterity with Gemini Robotics 2",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 556971,
+          "likes": 12810,
+          "comments": 1560,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 557167,
+          "likes": 12815,
+          "comments": 1560,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 557426,
+          "likes": 12821,
+          "comments": 1561,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 557787,
+          "likes": 12829,
+          "comments": 1562,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 558022,
+          "likes": 12835,
+          "comments": 1562,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 558289,
+          "likes": 12841,
+          "comments": 1563,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 558628,
+          "likes": 12848,
+          "comments": 1564,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 558889,
+          "likes": 12854,
+          "comments": 1565,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-deepmind-4lSQnrMC6nY",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "person": "Demis Hassabis",
+      "investor": "",
+      "sourceId": "google-deepmind",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T14:57:57+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/4lSQnrMC6nY/hqdefault.jpg",
+      "summary": "科技信号，来自 Google DeepMind：Gemini Robotics 2 brings whole body intelligence to robots",
+      "topics": [
+        "Gemini",
+        "Reasoning",
+        "AI Research",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Google",
+        "Gemini"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 346225,
+          "likes": 7963,
+          "comments": 969,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 346347,
+          "likes": 7966,
+          "comments": 970,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 346508,
+          "likes": 7970,
+          "comments": 970,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 346732,
+          "likes": 7975,
+          "comments": 971,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 346879,
+          "likes": 7978,
+          "comments": 971,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 347044,
+          "likes": 7982,
+          "comments": 972,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 347255,
+          "likes": 7987,
+          "comments": 972,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 347417,
+          "likes": 7991,
+          "comments": 973,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "chainlink-rIjcjrtWsr4",
+      "title": "Modernizing Finance With Onchain Infrastructure | Chainlink, Swift, Qivalis, FairSquareLab",
+      "person": "Sergey Nazarov",
+      "investor": "",
+      "sourceId": "chainlink",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=rIjcjrtWsr4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-27T16:06:51+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/rIjcjrtWsr4/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Chainlink：Modernizing Finance With Onchain Infrastructure | Chainlink, Swift, Qivalis, FairSquareLab",
+      "topics": [
+        "Oracles",
+        "Tokenization",
+        "Interop"
+      ],
+      "assets": [
+        "LINK"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 96096,
+          "likes": 2210,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "principles-dalio-eD0wZL27O4c",
+      "title": "Ray Dalio Explains Debt Cycles",
+      "person": "Ray Dalio",
+      "investor": "Ray Dalio",
+      "sourceId": "principles-dalio",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=eD0wZL27O4c",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-22T20:05:46+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/eD0wZL27O4c/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio Explains Debt Cycles",
+      "topics": [
+        "Global Macro",
+        "Cycles",
+        "Risk",
+        "全球宏观"
+      ],
+      "assets": [
+        "Macro"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "全球宏观",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "principles-dalio-8QnS0gNxOnE",
+      "title": "Ray Dalio's Advice To The New Fed Chair",
+      "person": "Ray Dalio",
+      "investor": "Ray Dalio",
+      "sourceId": "principles-dalio",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8QnS0gNxOnE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-15T13:51:23+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/8QnS0gNxOnE/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Principles by Ray Dalio：Ray Dalio's Advice To The New Fed Chair",
+      "topics": [
+        "Global Macro",
+        "Cycles",
+        "Risk",
+        "全球宏观"
+      ],
+      "assets": [
+        "Macro"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "全球宏观",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 196350,
+          "likes": 4516,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "chainlink-ILn0iaAt83k",
+      "title": "Future-Proofing Regulated Stablecoins With Chainlink",
+      "person": "Sergey Nazarov",
+      "investor": "",
+      "sourceId": "chainlink",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ILn0iaAt83k",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-14T13:55:46+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/ILn0iaAt83k/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Chainlink：Future-Proofing Regulated Stablecoins With Chainlink",
+      "topics": [
+        "Oracles",
+        "Tokenization",
+        "Interop",
+        "Payments"
+      ],
+      "assets": [
+        "LINK"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 89544,
+          "likes": 2060,
+          "comments": 251,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "principles-dalio-wniw-4AUCsk",
+      "title": "The Changing World Order: Ray Dalio",
+      "person": "Ray Dalio",
+      "investor": "Ray Dalio",
+      "sourceId": "principles-dalio",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=wniw-4AUCsk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-30T20:50:01+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/wniw-4AUCsk/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Principles by Ray Dalio：The Changing World Order: Ray Dalio",
+      "topics": [
+        "Global Macro",
+        "Cycles",
+        "Risk"
+      ],
+      "assets": [
+        "Macro"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 325710,
+          "likes": 7491,
+          "comments": 912,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "chainlink-9zTZF_cl8ns",
+      "title": "Why Financial Institutions Are Moving Onchain | Andrew McCormick, Chainlink Labs",
+      "person": "Sergey Nazarov",
+      "investor": "",
+      "sourceId": "chainlink",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9zTZF_cl8ns",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-30T18:30:19+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/9zTZF_cl8ns/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Chainlink：Why Financial Institutions Are Moving Onchain | Andrew McCormick, Chainlink Labs",
+      "topics": [
+        "Oracles",
+        "Tokenization",
+        "Interop"
+      ],
+      "assets": [
+        "LINK"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 135408,
+          "likes": 3114,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "chainlink-XgfjZJsGzaA",
+      "title": "Launching Project Pangea to Transform Global FX Markets | Chainlink, Qivalis, FairSquare Labs",
+      "person": "Sergey Nazarov",
+      "investor": "",
+      "sourceId": "chainlink",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=XgfjZJsGzaA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-27T13:00:03+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "keynote",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/XgfjZJsGzaA/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Chainlink：Launching Project Pangea to Transform Global FX Markets | Chainlink, Qivalis, FairSquare Labs",
+      "topics": [
+        "Oracles",
+        "Tokenization",
+        "Interop"
+      ],
+      "assets": [
+        "LINK"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 110292,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-GZPLTF5ds2A",
+      "title": "Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=GZPLTF5ds2A",
+      "linkStatus": "verified",
+      "publishedAt": "2026-02-11T20:43:54+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/GZPLTF5ds2A/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Danny Ryan on: leading crypto’s biggest upgrade, paving his own path, and bringing $120T to Ethereum",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-ABB2B4FcsF0",
+      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ABB2B4FcsF0",
+      "linkStatus": "verified",
+      "publishedAt": "2025-12-05T00:40:33+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/ABB2B4FcsF0/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-BzZbxKp1cDI",
+      "title": "Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=BzZbxKp1cDI",
+      "linkStatus": "verified",
+      "publishedAt": "2025-12-04T21:21:29+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/BzZbxKp1cDI/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Devconnect Argentina 2025 Recap — The First Ethereum World’s Fair",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-eCRZOuY2khM",
+      "title": "Ethereum's Latest Upgrade: Fusaka",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=eCRZOuY2khM",
+      "linkStatus": "verified",
+      "publishedAt": "2025-12-03T18:48:41+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/eCRZOuY2khM/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Ethereum's Latest Upgrade: Fusaka",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-magazine-1fQJtNxN-Pw",
+      "title": "\"Either Bitcoin Is For Everyone Or It's Not\" | BFC Live w/ Kraken & Byte Federal",
+      "person": "Bitcoin builders",
+      "investor": "",
+      "sourceId": "bitcoin-magazine",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=1fQJtNxN-Pw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T14:00:16+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/1fQJtNxN-Pw/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bitcoin Magazine：\"Either Bitcoin Is For Everyone Or It's Not\" | BFC Live w/ Kraken & Byte Federal",
+      "topics": [
+        "Bitcoin",
+        "Macro",
+        "Policy",
+        "全球宏观"
+      ],
+      "assets": [
+        "BTC"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.521Z",
+          "views": 13228,
+          "likes": 288,
+          "comments": 32,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 18372,
+          "likes": 423,
+          "comments": 51,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-magazine-8uKhRy-iEy4",
+      "title": "BREAKING: Bitcoin Surges Toward $80K Price, SATA Opens at Par",
+      "person": "Bitcoin builders",
+      "investor": "",
+      "sourceId": "bitcoin-magazine",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8uKhRy-iEy4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T22:02:20+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/8uKhRy-iEy4/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bitcoin Magazine：BREAKING: Bitcoin Surges Toward $80K Price, SATA Opens at Par",
+      "topics": [
+        "Bitcoin",
+        "Macro",
+        "Policy"
+      ],
+      "assets": [
+        "BTC"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 68318,
+          "likes": 1571,
+          "comments": 191,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 68742,
+          "likes": 1581,
+          "comments": 192,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 69289,
+          "likes": 1594,
+          "comments": 194,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 70025,
+          "likes": 1611,
+          "comments": 196,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 70491,
+          "likes": 1621,
+          "comments": 197,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 71005,
+          "likes": 1633,
+          "comments": 199,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 71638,
+          "likes": 1648,
+          "comments": 201,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 72113,
+          "likes": 1659,
+          "comments": 202,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-KpOW9Pk4BUs",
+      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T19:50:24+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/KpOW9Pk4BUs/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps",
+        "AI Agents"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 67507,
+          "likes": 1553,
+          "comments": 189,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 67905,
+          "likes": 1562,
+          "comments": 190,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 68420,
+          "likes": 1574,
+          "comments": 192,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 69113,
+          "likes": 1590,
+          "comments": 194,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 69553,
+          "likes": 1600,
+          "comments": 195,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 70037,
+          "likes": 1611,
+          "comments": 196,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 70636,
+          "likes": 1625,
+          "comments": 198,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 71085,
+          "likes": 1635,
+          "comments": 199,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-magazine-MutiWc7WAV8",
+      "title": "TODAY: Bitcoin price soars to $68k, US Treasury to double long-term debt buybacks",
+      "person": "Bitcoin builders",
+      "investor": "",
+      "sourceId": "bitcoin-magazine",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=MutiWc7WAV8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T22:24:54+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/MutiWc7WAV8/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bitcoin Magazine：TODAY: Bitcoin price soars to $68k, US Treasury to double long-term debt buybacks",
+      "topics": [
+        "Bitcoin",
+        "Macro",
+        "Policy"
+      ],
+      "assets": [
+        "BTC"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 76190,
+          "likes": 1752,
+          "comments": 213,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 76405,
+          "likes": 1757,
+          "comments": 214,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 76687,
+          "likes": 1764,
+          "comments": 215,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 77073,
+          "likes": 1773,
+          "comments": 216,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 77321,
+          "likes": 1778,
+          "comments": 216,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 77597,
+          "likes": 1785,
+          "comments": 217,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 77944,
+          "likes": 1793,
+          "comments": 218,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 78207,
+          "likes": 1799,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-magazine-NiHNvNvmgJU",
+      "title": "BREAKING: Metaplanet to Establish Superplanet, US Capital Market Platform Seeded with 2,100 BTC",
+      "person": "Bitcoin builders",
+      "investor": "",
+      "sourceId": "bitcoin-magazine",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=NiHNvNvmgJU",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T22:26:11+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/NiHNvNvmgJU/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bitcoin Magazine：BREAKING: Metaplanet to Establish Superplanet, US Capital Market Platform Seeded with 2,100 BTC",
+      "topics": [
+        "Bitcoin",
+        "Macro",
+        "Policy"
+      ],
+      "assets": [
+        "BTC"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 104084,
+          "likes": 2394,
+          "comments": 291,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 104311,
+          "likes": 2399,
+          "comments": 292,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 104610,
+          "likes": 2406,
+          "comments": 293,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 105020,
+          "likes": 2415,
+          "comments": 294,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 105284,
+          "likes": 2422,
+          "comments": 295,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 105580,
+          "likes": 2428,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 105951,
+          "likes": 2437,
+          "comments": 297,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 106235,
+          "likes": 2443,
+          "comments": 297,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-magazine-737b7mUnVmA",
+      "title": "Bitcoin for Corporations Live Stream: Corporate Bitcoin Adoption",
+      "person": "Bitcoin builders",
+      "investor": "",
+      "sourceId": "bitcoin-magazine",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=737b7mUnVmA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-17T21:37:47+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/737b7mUnVmA/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bitcoin Magazine：Bitcoin for Corporations Live Stream: Corporate Bitcoin Adoption",
+      "topics": [
+        "Bitcoin",
+        "Macro",
+        "Policy"
+      ],
+      "assets": [
+        "BTC"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 78130,
+          "likes": 1797,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 78267,
+          "likes": 1800,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 78448,
+          "likes": 1804,
+          "comments": 220,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 78696,
+          "likes": 1810,
+          "comments": 220,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 78857,
+          "likes": 1814,
+          "comments": 221,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 79037,
+          "likes": 1818,
+          "comments": 221,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 79264,
+          "likes": 1823,
+          "comments": 222,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 79438,
+          "likes": 1827,
+          "comments": 222,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-gKhW6vL4V9A",
+      "title": "OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-28T14:47:26+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/gKhW6vL4V9A/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：OpenAI’s Vision for the AI Super App — Akshay Nathan, OpenAI",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps",
+        "Foundation Models"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 88,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 197925,
+          "likes": 4552,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-lFZqwOOYDdE",
+      "title": "Tribe AI: Accelerating AI Transformation & Enterprise Workflows | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=lFZqwOOYDdE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:23:36+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/lFZqwOOYDdE/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Tribe AI: Accelerating AI Transformation & Enterprise Workflows | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 18037,
+          "likes": 392,
+          "comments": 43,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 25052,
+          "likes": 576,
+          "comments": 70,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-AVIUD8AMwCw",
+      "title": "Slalom on Moving from AI Experimentation to Enterprise Value | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=AVIUD8AMwCw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:23:04+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/AVIUD8AMwCw/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Slalom on Moving from AI Experimentation to Enterprise Value | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "Foundation Models",
+        "价值投资"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 11835,
+          "likes": 257,
+          "comments": 29,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 16438,
+          "likes": 378,
+          "comments": 46,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-gEepG3sJoGk",
+      "title": "NTT DATA: Solving AI Adoption & Change Management | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=gEepG3sJoGk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:22:31+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/gEepG3sJoGk/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：NTT DATA: Solving AI Adoption & Change Management | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 15196,
+          "likes": 330,
+          "comments": 37,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 21106,
+          "likes": 485,
+          "comments": 59,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-l49q6CnTwLE",
+      "title": "Insight on Creating an AI Innovation Flywheel | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=l49q6CnTwLE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:21:46+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/l49q6CnTwLE/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Insight on Creating an AI Innovation Flywheel | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 24396,
+          "likes": 530,
+          "comments": 59,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 33884,
+          "likes": 779,
+          "comments": 95,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-lvqLALpev34",
+      "title": "Genpact: Revolutionizing Finance with Agentic AI | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=lvqLALpev34",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:21:05+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/lvqLALpev34/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Genpact: Revolutionizing Finance with Agentic AI | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 15865,
+          "likes": 345,
+          "comments": 38,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 22035,
+          "likes": 507,
+          "comments": 62,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-t0Bvzx63K24",
+      "title": "Fourth Age: Turning Unstructured Data into Production-Ready AI | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=t0Bvzx63K24",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:20:17+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/t0Bvzx63K24/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Fourth Age: Turning Unstructured Data into Production-Ready AI | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 17717,
+          "likes": 385,
+          "comments": 43,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 24607,
+          "likes": 566,
+          "comments": 69,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-iOC7RTLo_iM",
+      "title": "Egen on the Human Side of Agentic AI | Build with Gemini Podcast",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=iOC7RTLo_iM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:19:27+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/iOC7RTLo_iM/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：Egen on the Human Side of Agentic AI | Build with Gemini Podcast",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI",
+        "AI Agents",
+        "Foundation Models"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 13892,
+          "likes": 302,
+          "comments": 33,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 19294,
+          "likes": 444,
+          "comments": 54,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coinbase-zv4icJOfB-w",
+      "title": "Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
+      "person": "Brian Armstrong",
+      "investor": "",
+      "sourceId": "coinbase",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=zv4icJOfB-w",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T21:33:13+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/zv4icJOfB-w/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings AMA w/ Brian Armstrong & Alesia Haas",
+      "topics": [
+        "Exchange",
+        "Regulation",
+        "Wallets"
+      ],
+      "assets": [
+        "COIN",
+        "BTC",
+        "ETH"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 212147,
+          "likes": 4879,
+          "comments": 594,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 212223,
+          "likes": 4881,
+          "comments": 594,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 212323,
+          "likes": 4883,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 212462,
+          "likes": 4887,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 212553,
+          "likes": 4889,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 212656,
+          "likes": 4891,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 212787,
+          "likes": 4894,
+          "comments": 596,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 212887,
+          "likes": 4896,
+          "comments": 596,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coinbase-FxfFgjmTYW4",
+      "title": "Coinbase Q2 2026 Earnings Presentation",
+      "person": "Brian Armstrong",
+      "investor": "",
+      "sourceId": "coinbase",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=FxfFgjmTYW4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-30T20:05:53+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/FxfFgjmTYW4/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Coinbase：Coinbase Q2 2026 Earnings Presentation",
+      "topics": [
+        "Exchange",
+        "Regulation",
+        "Wallets"
+      ],
+      "assets": [
+        "COIN",
+        "BTC",
+        "ETH"
+      ],
+      "relevance": 84,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 206280,
+          "likes": 4744,
+          "comments": 578,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 206354,
+          "likes": 4746,
+          "comments": 578,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 206451,
+          "likes": 4748,
+          "comments": 578,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 206586,
+          "likes": 4751,
+          "comments": 578,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 206674,
+          "likes": 4754,
+          "comments": 579,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 206773,
+          "likes": 4756,
+          "comments": 579,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 206900,
+          "likes": 4759,
+          "comments": 579,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 206998,
+          "likes": 4761,
+          "comments": 580,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-crypto-ntd3HTJi2uM",
+      "title": "Introducing First Principles: The Scientific Roots of Blockchains",
+      "person": "Chris Dixon",
+      "investor": "",
+      "sourceId": "a16z-crypto",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ntd3HTJi2uM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-22T05:23:55+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/ntd3HTJi2uM/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 a16z crypto：Introducing First Principles: The Scientific Roots of Blockchains",
+      "topics": [
+        "Consumer Crypto",
+        "Wallets",
+        "Policy"
+      ],
+      "assets": [
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 78,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 102781,
+          "likes": 2364,
+          "comments": 288,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 103549,
+          "likes": 2382,
+          "comments": 290,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 104537,
+          "likes": 2404,
+          "comments": 293,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 105858,
+          "likes": 2435,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 106690,
+          "likes": 2454,
+          "comments": 299,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 107602,
+          "likes": 2475,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 108724,
+          "likes": 2501,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 109561,
+          "likes": 2520,
+          "comments": 307,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-9ncyPnvNcRY",
+      "title": "New Way Now: How Siemens scales AI-driven industrial engineering with Google Cloud Consulting",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9ncyPnvNcRY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T13:29:24+00:00",
+      "discoveredAt": "2026-08-24T15:01:18.506Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/9ncyPnvNcRY/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：New Way Now: How Siemens scales AI-driven industrial engineering with Google Cloud Consulting",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T09:01:21.518Z",
+          "views": 15839,
+          "likes": 344,
+          "comments": 38,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 21998,
+          "likes": 506,
+          "comments": 62,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-LF3EiFt3h9I",
+      "title": "How Microsoft is Adapting to the AI Era",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=LF3EiFt3h9I",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T14:30:35+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/LF3EiFt3h9I/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：How Microsoft is Adapting to the AI Era",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 84137,
+          "likes": 1935,
+          "comments": 236,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 84580,
+          "likes": 1945,
+          "comments": 237,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 85154,
+          "likes": 1959,
+          "comments": 238,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 85929,
+          "likes": 1976,
+          "comments": 241,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 86422,
+          "likes": 1988,
+          "comments": 242,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 86966,
+          "likes": 2000,
+          "comments": 244,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 87640,
+          "likes": 2016,
+          "comments": 245,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 88147,
+          "likes": 2027,
+          "comments": 247,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-_UNIdy2K2fI",
+      "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=_UNIdy2K2fI",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T10:00:40+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i4.ytimg.com/vi/_UNIdy2K2fI/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Why US Equity Returns Are Broadening Beyond AI Stocks",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 78274,
+          "likes": 1800,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 78652,
+          "likes": 1809,
+          "comments": 220,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 79141,
+          "likes": 1820,
+          "comments": 222,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 79804,
+          "likes": 1835,
+          "comments": 223,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 80226,
+          "likes": 1845,
+          "comments": 225,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 80693,
+          "likes": 1856,
+          "comments": 226,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 81273,
+          "likes": 1869,
+          "comments": 228,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 81709,
+          "likes": 1879,
+          "comments": 229,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-n4ZwTSQKETs",
+      "title": "How New Models Are Changing the AI Investment Landscape",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=n4ZwTSQKETs",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T15:29:39+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/n4ZwTSQKETs/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：How New Models Are Changing the AI Investment Landscape",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro",
+        "Foundation Models"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 98152,
+          "likes": 2257,
+          "comments": 275,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 98353,
+          "likes": 2262,
+          "comments": 275,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 98617,
+          "likes": 2268,
+          "comments": 276,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 98979,
+          "likes": 2277,
+          "comments": 277,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 99213,
+          "likes": 2282,
+          "comments": 278,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 99476,
+          "likes": 2288,
+          "comments": 279,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 99805,
+          "likes": 2296,
+          "comments": 279,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 100057,
+          "likes": 2301,
+          "comments": 280,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-xH7U7w9Qzlo",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T12:00:06+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/xH7U7w9Qzlo/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building",
+        "Foundation Models"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 120454,
+          "likes": 2770,
+          "comments": 337,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 120693,
+          "likes": 2776,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 121007,
+          "likes": 2783,
+          "comments": 339,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 121439,
+          "likes": 2793,
+          "comments": 340,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 121718,
+          "likes": 2800,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 122030,
+          "likes": 2807,
+          "comments": 342,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 122422,
+          "likes": 2816,
+          "comments": 343,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 122722,
+          "likes": 2823,
+          "comments": 344,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-til3Dhw8u4k",
+      "title": "Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=til3Dhw8u4k",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T04:00:29+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i1.ytimg.com/vi/til3Dhw8u4k/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 63456,
+          "likes": 1459,
+          "comments": 178,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 63573,
+          "likes": 1462,
+          "comments": 178,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 63728,
+          "likes": 1466,
+          "comments": 178,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 63940,
+          "likes": 1471,
+          "comments": 179,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 64077,
+          "likes": 1474,
+          "comments": 179,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 64231,
+          "likes": 1477,
+          "comments": 180,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 64425,
+          "likes": 1482,
+          "comments": 180,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 64573,
+          "likes": 1485,
+          "comments": 181,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "mit-csail-NwlCAALEh6I",
+      "title": "Using AI to Demystify the Brain with MIT CSAIL Graduate Student Christopher Wang",
+      "person": "MIT researchers",
+      "investor": "",
+      "sourceId": "mit-csail",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=NwlCAALEh6I",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-17T12:00:09+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "marketRoundtable",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/NwlCAALEh6I/hqdefault.jpg",
+      "summary": "科技信号，来自 MIT CSAIL：Using AI to Demystify the Brain with MIT CSAIL Graduate Student Christopher Wang",
+      "topics": [
+        "AI Research",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 81365,
+          "likes": 1871,
+          "comments": 228,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 81498,
+          "likes": 1874,
+          "comments": 228,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 81672,
+          "likes": 1878,
+          "comments": 229,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 81913,
+          "likes": 1884,
+          "comments": 229,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 82069,
+          "likes": 1888,
+          "comments": 230,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 82243,
+          "likes": 1892,
+          "comments": 230,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 82464,
+          "likes": 1897,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 82632,
+          "likes": 1901,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-Z3JyAqh4ixg",
+      "title": "Building And Structuring An AI Native Company",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=Z3JyAqh4ixg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T14:00:37+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/Z3JyAqh4ixg/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Building And Structuring An AI Native Company",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 282188,
+          "likes": 6490,
+          "comments": 790,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 282486,
+          "likes": 6497,
+          "comments": 791,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 282880,
+          "likes": 6506,
+          "comments": 792,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 283425,
+          "likes": 6519,
+          "comments": 794,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 283779,
+          "likes": 6527,
+          "comments": 795,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 284177,
+          "likes": 6536,
+          "comments": 796,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 284681,
+          "likes": 6548,
+          "comments": 797,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 285067,
+          "likes": 6557,
+          "comments": 798,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "goldman-sachs-27x5goQn0-4",
+      "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+      "person": "Goldman Sachs Research",
+      "investor": "Goldman Sachs Research",
+      "sourceId": "goldman-sachs",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=27x5goQn0-4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T10:00:05+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/27x5goQn0-4/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Goldman Sachs：How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+      "topics": [
+        "Markets",
+        "AI Trade",
+        "Macro",
+        "全球宏观"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "全球宏观",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 79923,
+          "likes": 1838,
+          "comments": 224,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 80005,
+          "likes": 1840,
+          "comments": 224,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 80115,
+          "likes": 1843,
+          "comments": 224,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 80266,
+          "likes": 1846,
+          "comments": 225,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 80364,
+          "likes": 1848,
+          "comments": 225,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 80475,
+          "likes": 1851,
+          "comments": 225,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 80615,
+          "likes": 1854,
+          "comments": 226,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 80722,
+          "likes": 1857,
+          "comments": 226,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-eYrMF9Cht8A",
+      "title": "Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=eYrMF9Cht8A",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-13T13:00:37+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/eYrMF9Cht8A/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：Continual Learning: How AI Agents Get Better With Every Use | Arjun Karanam, Trajectory",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 127082,
+          "likes": 2923,
+          "comments": 356,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 127201,
+          "likes": 2926,
+          "comments": 356,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 127358,
+          "likes": 2929,
+          "comments": 357,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 127576,
+          "likes": 2934,
+          "comments": 357,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 127717,
+          "likes": 2937,
+          "comments": 358,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 127877,
+          "likes": 2941,
+          "comments": 358,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 128078,
+          "likes": 2946,
+          "comments": 359,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 128233,
+          "likes": 2949,
+          "comments": 359,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-HI2q3ci3Iuc",
+      "title": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-13T12:00:01+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/HI2q3ci3Iuc/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：When to Build Your Own Agent Harness | Harrison Chase, LangChain",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 130989,
+          "likes": 3013,
+          "comments": 367,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 131111,
+          "likes": 3016,
+          "comments": 367,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 131272,
+          "likes": 3019,
+          "comments": 368,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 131495,
+          "likes": 3024,
+          "comments": 368,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 131640,
+          "likes": 3028,
+          "comments": 369,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 131804,
+          "likes": 3031,
+          "comments": 369,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 132010,
+          "likes": 3036,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 132169,
+          "likes": 3040,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-a00xIn5kwhM",
+      "title": "RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-12T13:00:28+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/a00xIn5kwhM/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：RL Environments Explained: How AI Agents Learn Real-World Work | Brendan Foody, Mercor",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 144654,
+          "likes": 3327,
+          "comments": 405,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 144776,
+          "likes": 3330,
+          "comments": 405,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 144936,
+          "likes": 3334,
+          "comments": 406,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 145159,
+          "likes": 3339,
+          "comments": 406,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 145304,
+          "likes": 3342,
+          "comments": 407,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 145468,
+          "likes": 3346,
+          "comments": 407,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 145675,
+          "likes": 3351,
+          "comments": 408,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 145834,
+          "likes": 3354,
+          "comments": 408,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-yAvJ7b_FxUA",
+      "title": "Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=yAvJ7b_FxUA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-12T12:00:10+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/yAvJ7b_FxUA/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：Post-Training Is How You Keep Your Taste | Fireworks CEO Lin Qiao",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 136992,
+          "likes": 3151,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 137107,
+          "likes": 3153,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 137259,
+          "likes": 3157,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 137469,
+          "likes": 3162,
+          "comments": 385,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 137606,
+          "likes": 3165,
+          "comments": 385,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 137760,
+          "likes": 3168,
+          "comments": 386,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 137955,
+          "likes": 3173,
+          "comments": 386,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 138105,
+          "likes": 3176,
+          "comments": 387,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-KSYnuCqCL4o",
+      "title": "Datadog CISO on Securing AI Agents at Scale | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=KSYnuCqCL4o",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-11T14:30:29+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/KSYnuCqCL4o/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：Datadog CISO on Securing AI Agents at Scale | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 158327,
+          "likes": 3642,
+          "comments": 443,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 158449,
+          "likes": 3644,
+          "comments": 444,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 158609,
+          "likes": 3648,
+          "comments": 444,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 158832,
+          "likes": 3653,
+          "comments": 445,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 158977,
+          "likes": 3656,
+          "comments": 445,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 159141,
+          "likes": 3660,
+          "comments": 446,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 159348,
+          "likes": 3665,
+          "comments": 446,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 159507,
+          "likes": 3669,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "mit-csail-vDpe8TbfjOE",
+      "title": "Why AI Still Can't Load the Dishwasher",
+      "person": "MIT researchers",
+      "investor": "",
+      "sourceId": "mit-csail",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=vDpe8TbfjOE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-10T12:00:06+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "marketRoundtable",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/vDpe8TbfjOE/hqdefault.jpg",
+      "summary": "科技信号，来自 MIT CSAIL：Why AI Still Can't Load the Dishwasher",
+      "topics": [
+        "AI Research",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 62189,
+          "likes": 1430,
+          "comments": 174,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 62232,
+          "likes": 1431,
+          "comments": 174,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 62289,
+          "likes": 1433,
+          "comments": 174,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 62369,
+          "likes": 1434,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 62420,
+          "likes": 1436,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 62479,
+          "likes": 1437,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 62552,
+          "likes": 1439,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 62609,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-6f4K7-DvJrk",
+      "title": "Evaluating the Fine-Grained Planning Abilities of Web Agents",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=6f4K7-DvJrk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-06T17:35:38+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/6f4K7-DvJrk/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Evaluating the Fine-Grained Planning Abilities of Web Agents",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 195857,
+          "likes": 4505,
+          "comments": 548,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 195960,
+          "likes": 4507,
+          "comments": 549,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 196095,
+          "likes": 4510,
+          "comments": 549,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 196284,
+          "likes": 4515,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 196406,
+          "likes": 4517,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 196545,
+          "likes": 4521,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 196721,
+          "likes": 4525,
+          "comments": 551,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 196857,
+          "likes": 4528,
+          "comments": 551,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-vr6soyP0mh8",
+      "title": "ChartNet: Training Vision-Language Models to Understand Charts",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=vr6soyP0mh8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-06T17:35:32+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/vr6soyP0mh8/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：ChartNet: Training Vision-Language Models to Understand Charts",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product",
+        "Foundation Models"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 191505,
+          "likes": 4405,
+          "comments": 536,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 191605,
+          "likes": 4407,
+          "comments": 536,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 191738,
+          "likes": 4410,
+          "comments": 537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 191922,
+          "likes": 4414,
+          "comments": 537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 192042,
+          "likes": 4417,
+          "comments": 538,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 192178,
+          "likes": 4420,
+          "comments": 538,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 192350,
+          "likes": 4424,
+          "comments": 539,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 192482,
+          "likes": 4427,
+          "comments": 539,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "sequoia-capital-wv53mDmY-k0",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "person": "Roelof Botha",
+      "investor": "",
+      "sourceId": "sequoia-capital",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=wv53mDmY-k0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-04T12:00:29+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/wv53mDmY-k0/hqdefault.jpg",
+      "summary": "科技信号，来自 Sequoia Capital：Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "topics": [
+        "AI Startups",
+        "Venture",
+        "Company Building"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 121481,
+          "likes": 2794,
+          "comments": 340,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 121536,
+          "likes": 2795,
+          "comments": 340,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 121609,
+          "likes": 2797,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 121711,
+          "likes": 2799,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 121777,
+          "likes": 2801,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 121852,
+          "likes": 2803,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 121947,
+          "likes": 2805,
+          "comments": 341,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 122021,
+          "likes": 2806,
+          "comments": 342,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "mit-csail-Fx8T6SRVPuo",
+      "title": "Privacy Protection in the AI Age with MIT CSAIL Graduate Student Alexandra Henzinger",
+      "person": "MIT researchers",
+      "investor": "",
+      "sourceId": "mit-csail",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=Fx8T6SRVPuo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-20T12:00:10+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "marketRoundtable",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/Fx8T6SRVPuo/hqdefault.jpg",
+      "summary": "科技信号，来自 MIT CSAIL：Privacy Protection in the AI Age with MIT CSAIL Graduate Student Alexandra Henzinger",
+      "topics": [
+        "AI Research",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 82404,
+          "likes": 1895,
+          "comments": 231,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "mit-csail-8g1B94gsu1Y",
+      "title": "Internet Pioneer David Clark’s Lessons for the AI Age",
+      "person": "MIT researchers",
+      "investor": "",
+      "sourceId": "mit-csail",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8g1B94gsu1Y",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-13T12:00:03+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "marketRoundtable",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i1.ytimg.com/vi/8g1B94gsu1Y/hqdefault.jpg",
+      "summary": "科技信号，来自 MIT CSAIL：Internet Pioneer David Clark’s Lessons for the AI Age",
+      "topics": [
+        "AI Research",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 107352,
+          "likes": 2469,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "mit-csail-EDEcyls2llo",
+      "title": "IAP SIE AI in Game Development & Operations",
+      "person": "MIT researchers",
+      "investor": "",
+      "sourceId": "mit-csail",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=EDEcyls2llo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-02T17:17:05+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "marketRoundtable",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/EDEcyls2llo/hqdefault.jpg",
+      "summary": "科技信号，来自 MIT CSAIL：IAP SIE AI in Game Development & Operations",
+      "topics": [
+        "AI Research",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 75600,
+          "likes": 1739,
+          "comments": 212,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "meta-developers-95QihrwVQnc",
+      "title": "Developer Tools MCP: Connect Your AI Agent to Meta's Developer Platform in Under 10 Minutes",
+      "person": "Mark Zuckerberg",
+      "investor": "",
+      "sourceId": "meta-developers",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=95QihrwVQnc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-01T23:57:20+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/95QihrwVQnc/hqdefault.jpg",
+      "summary": "科技信号，来自 Meta Developers：Developer Tools MCP: Connect Your AI Agent to Meta's Developer Platform in Under 10 Minutes",
+      "topics": [
+        "Llama",
+        "Open Models",
+        "AI Apps",
+        "AI Agents"
+      ],
+      "assets": [
+        "META",
+        "Llama"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 210210,
+          "likes": 4835,
+          "comments": 589,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "meta-developers-ebIV8ZzjMf0",
+      "title": "VR Developer Level Up Ep. 1: Success Stories, Agentic Tools & Meta VR CLI",
+      "person": "Mark Zuckerberg",
+      "investor": "",
+      "sourceId": "meta-developers",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ebIV8ZzjMf0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-30T16:53:10+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/ebIV8ZzjMf0/hqdefault.jpg",
+      "summary": "科技信号，来自 Meta Developers：VR Developer Level Up Ep. 1: Success Stories, Agentic Tools & Meta VR CLI",
+      "topics": [
+        "Llama",
+        "Open Models",
+        "AI Apps",
+        "AI Agents"
+      ],
+      "assets": [
+        "META",
+        "Llama"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 213150,
+          "likes": 4902,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-fPTVrhPp6-s",
+      "title": "How AI Is Redefining What It Means to Be Creative | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=fPTVrhPp6-s",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-30T14:30:33+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/fPTVrhPp6-s/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：How AI Is Redefining What It Means to Be Creative | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-JJkx8Rp_Trk",
+      "title": "The Case for AI That Improves Itself | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=JJkx8Rp_Trk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-24T19:11:19+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/JJkx8Rp_Trk/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：The Case for AI That Improves Itself | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-tTv0Hl5xfXw",
+      "title": "How AI Will Rewire Consumer Internet | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=tTv0Hl5xfXw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-23T14:00:31+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/tTv0Hl5xfXw/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：How AI Will Rewire Consumer Internet | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 243432,
+          "likes": 5599,
+          "comments": 682,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-gBukk9LIklc",
+      "title": "Teaching AI the Language of Design | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=gBukk9LIklc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-22T17:30:33+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/gBukk9LIklc/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：Teaching AI the Language of Design | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 235704,
+          "likes": 5421,
+          "comments": 660,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-developer-C3QmhAmkLLw",
+      "title": "Whatever AI Assistant (WAIA) - Agents League Enterprise Category Winner",
+      "person": "Satya Nadella",
+      "investor": "",
+      "sourceId": "microsoft-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=C3QmhAmkLLw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-10T22:00:43+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/C3QmhAmkLLw/hqdefault.jpg",
+      "summary": "科技信号，来自 Microsoft Developer：Whatever AI Assistant (WAIA) - Agents League Enterprise Category Winner",
+      "topics": [
+        "Copilot",
+        "Azure AI",
+        "Agents",
+        "AI Agents"
+      ],
+      "assets": [
+        "MSFT",
+        "Copilot"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 120540,
+          "likes": 2772,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-fuPgo7YcE7Y",
+      "title": "Why AI Agents Need Context | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=fuPgo7YcE7Y",
+      "linkStatus": "verified",
+      "publishedAt": "2026-06-02T14:30:17+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/fuPgo7YcE7Y/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：Why AI Agents Need Context | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 256956,
+          "likes": 5910,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-Qp5xklyJySI",
+      "title": "🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=Qp5xklyJySI",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-11T20:48:23+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/Qp5xklyJySI/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：🔬They Thought the Model Was Broken — Matt McPartlon & Neil Patil, Chai Discovery",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps",
+        "Foundation Models"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 74,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 132039,
+          "likes": 3037,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 132143,
+          "likes": 3039,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 132281,
+          "likes": 3042,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 132471,
+          "likes": 3047,
+          "comments": 371,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 132595,
+          "likes": 3050,
+          "comments": 371,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 132735,
+          "likes": 3053,
+          "comments": 372,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 132912,
+          "likes": 3057,
+          "comments": 372,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 133048,
+          "likes": 3060,
+          "comments": 373,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-7PSXtru6mmY",
+      "title": "Next 100x in AI: Inference, Networking, & Self-Optimizing Models — Philip Kiely & Ali Taha, Baseten",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=7PSXtru6mmY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-03T21:35:42+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/7PSXtru6mmY/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：Next 100x in AI: Inference, Networking, & Self-Optimizing Models — Philip Kiely & Ali Taha, Baseten",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps",
+        "Foundation Models"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 74,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 173989,
+          "likes": 4002,
+          "comments": 487,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 174065,
+          "likes": 4003,
+          "comments": 487,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 174166,
+          "likes": 4006,
+          "comments": 488,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 174307,
+          "likes": 4009,
+          "comments": 488,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 174399,
+          "likes": 4011,
+          "comments": 488,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 174502,
+          "likes": 4014,
+          "comments": 489,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 174634,
+          "likes": 4017,
+          "comments": 489,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 174735,
+          "likes": 4019,
+          "comments": 489,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-9_0hs2sxHHo",
+      "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-22T20:46:43+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/9_0hs2sxHHo/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 74,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 151515,
+          "likes": 3485,
+          "comments": 424,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-2AdS-2uuH80",
+      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=2AdS-2uuH80",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-21T19:25:41+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/2AdS-2uuH80/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：🔬Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps",
+        "Foundation Models"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 74,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 159705,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-vReve6SeXdk",
+      "title": "Khabib explains warrior culture of Dagestan | Khabib Nurmagomedov and Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=vReve6SeXdk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-20T04:00:51+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/vReve6SeXdk/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Khabib explains warrior culture of Dagestan | Khabib Nurmagomedov and Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 470268,
+          "likes": 10816,
+          "comments": 1317,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 471693,
+          "likes": 10849,
+          "comments": 1321,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 473557,
+          "likes": 10892,
+          "comments": 1326,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 476104,
+          "likes": 10950,
+          "comments": 1333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 477739,
+          "likes": 10988,
+          "comments": 1338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 479562,
+          "likes": 11030,
+          "comments": 1343,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 481842,
+          "likes": 11082,
+          "comments": 1349,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 483572,
+          "likes": 11122,
+          "comments": 1354,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-9dARJI3qu0c",
+      "title": "Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=9dARJI3qu0c",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T20:00:27+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/9dARJI3qu0c/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Khabib's training camp in the mountains of Dagestan | Khabib Nurmagomedov and Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 516919,
+          "likes": 11889,
+          "comments": 1447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 518340,
+          "likes": 11922,
+          "comments": 1451,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 520199,
+          "likes": 11965,
+          "comments": 1457,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 522744,
+          "likes": 12023,
+          "comments": 1464,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 524381,
+          "likes": 12061,
+          "comments": 1468,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 526207,
+          "likes": 12103,
+          "comments": 1473,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 528496,
+          "likes": 12155,
+          "comments": 1480,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 530235,
+          "likes": 12195,
+          "comments": 1485,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-EKPjOBThO2k",
+      "title": "Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=EKPjOBThO2k",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T12:00:48+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/EKPjOBThO2k/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Khabib's top pressure explained: 15 minutes to break anyone | Khabib Nurmagomedov and Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 551198,
+          "likes": 12678,
+          "comments": 1543,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 552582,
+          "likes": 12709,
+          "comments": 1547,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 554395,
+          "likes": 12751,
+          "comments": 1552,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 556881,
+          "likes": 12808,
+          "comments": 1559,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 558482,
+          "likes": 12845,
+          "comments": 1564,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 560270,
+          "likes": 12886,
+          "comments": 1569,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 562513,
+          "likes": 12938,
+          "comments": 1575,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 564219,
+          "likes": 12977,
+          "comments": 1580,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-lIvobGWbk6M",
+      "title": "Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=lIvobGWbk6M",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T04:00:43+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/lIvobGWbk6M/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Hard training in Dagestan: Comfort is the enemy of a champion | Khabib Nurmagomedov and Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 671219,
+          "likes": 15438,
+          "comments": 1879,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 672768,
+          "likes": 15474,
+          "comments": 1884,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 674800,
+          "likes": 15520,
+          "comments": 1889,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 677590,
+          "likes": 15585,
+          "comments": 1897,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 679388,
+          "likes": 15626,
+          "comments": 1902,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 681398,
+          "likes": 15672,
+          "comments": 1908,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 683923,
+          "likes": 15730,
+          "comments": 1915,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 685845,
+          "likes": 15774,
+          "comments": 1920,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-rNKgBaxHNKA",
+      "title": "Will Securitize 3X? Solana’s AI Edge, and a Digital Asset Index for Institutions",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=rNKgBaxHNKA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-17T18:09:21+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/rNKgBaxHNKA/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：Will Securitize 3X? Solana’s AI Edge, and a Digital Asset Index for Institutions",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 193352,
+          "likes": 4447,
+          "comments": 541,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 193683,
+          "likes": 4455,
+          "comments": 542,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 194118,
+          "likes": 4465,
+          "comments": 544,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 194717,
+          "likes": 4478,
+          "comments": 545,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 195104,
+          "likes": 4487,
+          "comments": 546,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 195539,
+          "likes": 4497,
+          "comments": 548,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 196086,
+          "likes": 4510,
+          "comments": 549,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 196504,
+          "likes": 4520,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "milken-97v3XuQ6-Os",
+      "title": "Aligning Investment and Opportunity in Health | Global Conference 2026",
+      "person": "Investment leaders",
+      "investor": "Investment leaders",
+      "sourceId": "milken",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=97v3XuQ6-Os",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T17:55:35+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/97v3XuQ6-Os/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Milken Institute：Aligning Investment and Opportunity in Health | Global Conference 2026",
+      "topics": [
+        "Macro",
+        "AI Investment",
+        "Capital Markets"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 70,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 73306,
+          "likes": 1686,
+          "comments": 205,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 73385,
+          "likes": 1688,
+          "comments": 205,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 73490,
+          "likes": 1690,
+          "comments": 206,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 73634,
+          "likes": 1694,
+          "comments": 206,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 73728,
+          "likes": 1696,
+          "comments": 206,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 73834,
+          "likes": 1698,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 73967,
+          "likes": 1701,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 74070,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-IQgOQDJhVUI",
+      "title": "How Should AI Shape Your Portfolio? | 2026 Vanguard Midyear Economic and Market Outlook",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=IQgOQDJhVUI",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-20T17:00:27+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/IQgOQDJhVUI/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：How Should AI Shape Your Portfolio? | 2026 Vanguard Midyear Economic and Market Outlook",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 70,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 95,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-z7HWQ1bxX1g",
+      "title": "Can AI Sustain Market Gains? | 2026 Vanguard Midyear Economic and Market Outlook",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=z7HWQ1bxX1g",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-17T15:00:00+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/z7HWQ1bxX1g/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：Can AI Sustain Market Gains? | 2026 Vanguard Midyear Economic and Market Outlook",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 70,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 95,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-jF456TM3pwo",
+      "title": "How AI Is Driving Economic Growth | 2026 Vanguard Midyear Economic and Market Outlook",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=jF456TM3pwo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-14T16:30:16+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i3.ytimg.com/vi/jF456TM3pwo/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：How AI Is Driving Economic Growth | 2026 Vanguard Midyear Economic and Market Outlook",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 70,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 95,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 62622,
+          "likes": 1440,
+          "comments": 175,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-developer-hTOuTVmBHuM",
+      "title": "The Microsoft 365 Copilot Agent's Playbook | A 4-part Microsoft Reactor livestream coming soon🤖",
+      "person": "Satya Nadella",
+      "investor": "",
+      "sourceId": "microsoft-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=hTOuTVmBHuM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-20T14:00:31+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/hTOuTVmBHuM/hqdefault.jpg",
+      "summary": "科技信号，来自 Microsoft Developer：The Microsoft 365 Copilot Agent's Playbook | A 4-part Microsoft Reactor livestream coming soon🤖",
+      "topics": [
+        "Copilot",
+        "Azure AI",
+        "Agents",
+        "AI Agents"
+      ],
+      "assets": [
+        "MSFT",
+        "Copilot"
+      ],
+      "relevance": 68,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 118818,
+          "likes": 2733,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-oJF_6HgA46E",
+      "title": "Cosmos 3 Post-Training in Action With Aigen and Linker Vision | Cosmos Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=oJF_6HgA46E",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-20T17:26:41+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/oJF_6HgA46E/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Cosmos 3 Post-Training in Action With Aigen and Linker Vision | Cosmos Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 102591,
+          "likes": 2360,
+          "comments": 287,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 102965,
+          "likes": 2368,
+          "comments": 288,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 103453,
+          "likes": 2379,
+          "comments": 290,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 104118,
+          "likes": 2395,
+          "comments": 292,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 104544,
+          "likes": 2405,
+          "comments": 293,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 105017,
+          "likes": 2415,
+          "comments": 294,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 105607,
+          "likes": 2429,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 106054,
+          "likes": 2439,
+          "comments": 297,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-ZQ3EeU-hYSA",
+      "title": "Get Started with Open Model Routing | Nemotron Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ZQ3EeU-hYSA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T15:49:41+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/ZQ3EeU-hYSA/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Get Started with Open Model Routing | Nemotron Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "Foundation Models"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 186199,
+          "likes": 4283,
+          "comments": 521,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 186687,
+          "likes": 4294,
+          "comments": 523,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 187325,
+          "likes": 4308,
+          "comments": 525,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 188200,
+          "likes": 4329,
+          "comments": 527,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 188763,
+          "likes": 4342,
+          "comments": 529,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 189392,
+          "likes": 4356,
+          "comments": 530,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 190180,
+          "likes": 4374,
+          "comments": 533,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 190779,
+          "likes": 4388,
+          "comments": 534,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "a16z-GfKdcQsaHkQ",
+      "title": "Cybersecurity in the Agentic Era | Deep Dives with a16z",
+      "person": "Marc Andreessen",
+      "investor": "",
+      "sourceId": "a16z",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=GfKdcQsaHkQ",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-18T14:30:10+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/GfKdcQsaHkQ/hqdefault.jpg",
+      "summary": "科技信号，来自 a16z：Cybersecurity in the Agentic Era | Deep Dives with a16z",
+      "topics": [
+        "AI Startups",
+        "Enterprise Software",
+        "Venture",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI",
+        "SaaS"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 215190,
+          "likes": 4949,
+          "comments": 603,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 215627,
+          "likes": 4959,
+          "comments": 604,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 216200,
+          "likes": 4973,
+          "comments": 605,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 216988,
+          "likes": 4991,
+          "comments": 608,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 217497,
+          "likes": 5002,
+          "comments": 609,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 218067,
+          "likes": 5016,
+          "comments": 611,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 218783,
+          "likes": 5032,
+          "comments": 613,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 219330,
+          "likes": 5045,
+          "comments": 614,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-LagVL0KyGgo",
+      "title": "WAMs and VLAs for Robot Learning | Cosmos Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=LagVL0KyGgo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T05:12:37+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/LagVL0KyGgo/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：WAMs and VLAs for Robot Learning | Cosmos Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "AI Agents"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 175977,
+          "likes": 4047,
+          "comments": 493,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 176155,
+          "likes": 4052,
+          "comments": 493,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 176390,
+          "likes": 4057,
+          "comments": 494,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 176715,
+          "likes": 4064,
+          "comments": 495,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 176926,
+          "likes": 4069,
+          "comments": 495,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 177164,
+          "likes": 4075,
+          "comments": 496,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 177465,
+          "likes": 4082,
+          "comments": 497,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 177696,
+          "likes": 4087,
+          "comments": 498,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-CIxe1rdg3Pg",
+      "title": "Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=CIxe1rdg3Pg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-12T06:58:55+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/CIxe1rdg3Pg/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "Foundation Models"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 165023,
+          "likes": 3796,
+          "comments": 462,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 165158,
+          "likes": 3799,
+          "comments": 462,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 165337,
+          "likes": 3803,
+          "comments": 463,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 165585,
+          "likes": 3808,
+          "comments": 464,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 165746,
+          "likes": 3812,
+          "comments": 464,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 165928,
+          "likes": 3816,
+          "comments": 465,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 166159,
+          "likes": 3822,
+          "comments": 465,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 166336,
+          "likes": 3826,
+          "comments": 466,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-BHEsQZYGZ4o",
+      "title": "Learn Robot Manipulation with LeRobot and ROS 2 | NVIDIA Jetson AI Lab",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=BHEsQZYGZ4o",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-11T17:11:28+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/BHEsQZYGZ4o/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Learn Robot Manipulation with LeRobot and ROS 2 | NVIDIA Jetson AI Lab",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "AI Agents",
+        "Compute"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 211792,
+          "likes": 4871,
+          "comments": 593,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 211956,
+          "likes": 4875,
+          "comments": 593,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 212174,
+          "likes": 4880,
+          "comments": 594,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 212475,
+          "likes": 4887,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 212671,
+          "likes": 4891,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 212892,
+          "likes": 4897,
+          "comments": 596,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 213172,
+          "likes": 4903,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 213387,
+          "likes": 4908,
+          "comments": 597,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-2Tskr8an1oE",
+      "title": "How to Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=2Tskr8an1oE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-11T13:00:35+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/2Tskr8an1oE/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：How to Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "AI Agents",
+        "Compute"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 168500,
+          "likes": 3876,
+          "comments": 472,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 168629,
+          "likes": 3878,
+          "comments": 472,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 168799,
+          "likes": 3882,
+          "comments": 473,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 169035,
+          "likes": 3888,
+          "comments": 473,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 169188,
+          "likes": 3891,
+          "comments": 474,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 169361,
+          "likes": 3895,
+          "comments": 474,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 169581,
+          "likes": 3900,
+          "comments": 475,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 169749,
+          "likes": 3904,
+          "comments": 475,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "milken-AH5a3xmMC5A",
+      "title": "AI Infrastructure at Scale: Financing the Power-Constrained Grid | Global Conference 2026",
+      "person": "Investment leaders",
+      "investor": "Investment leaders",
+      "sourceId": "milken",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=AH5a3xmMC5A",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-06T21:21:52+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/AH5a3xmMC5A/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Milken Institute：AI Infrastructure at Scale: Financing the Power-Constrained Grid | Global Conference 2026",
+      "topics": [
+        "Macro",
+        "AI Investment",
+        "Capital Markets"
+      ],
+      "assets": [
+        "AI",
+        "Macro"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 88,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 116626,
+          "likes": 2682,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 116688,
+          "likes": 2684,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 116770,
+          "likes": 2686,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 116883,
+          "likes": 2688,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 116957,
+          "likes": 2690,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 117040,
+          "likes": 2692,
+          "comments": 328,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 117146,
+          "likes": 2694,
+          "comments": 328,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 117228,
+          "likes": 2696,
+          "comments": 328,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-istBNYB4Et4",
+      "title": "Any-Horizon Reasoning for Video Agents",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=istBNYB4Et4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-06T17:35:29+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/istBNYB4Et4/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Any-Horizon Reasoning for Video Agents",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 256791,
+          "likes": 5906,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 256925,
+          "likes": 5909,
+          "comments": 719,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 257103,
+          "likes": 5913,
+          "comments": 720,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 257350,
+          "likes": 5919,
+          "comments": 721,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 257511,
+          "likes": 5923,
+          "comments": 721,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 257693,
+          "likes": 5927,
+          "comments": 722,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 257924,
+          "likes": 5932,
+          "comments": 722,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 258101,
+          "likes": 5936,
+          "comments": 723,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-oH5v96x29x4",
+      "title": "What Should You Do With Your Portfolio Right Now? | Vanguard",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=oH5v96x29x4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-28T13:30:03+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i4.ytimg.com/vi/oH5v96x29x4/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：What Should You Do With Your Portfolio Right Now? | Vanguard",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 87,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-sdlp2e8NmM4",
+      "title": "Can You Rely on Markets to Meet Your Goals? | Vanguard",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=sdlp2e8NmM4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-23T13:30:33+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i4.ytimg.com/vi/sdlp2e8NmM4/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：Can You Rely on Markets to Meet Your Goals? | Vanguard",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 87,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-mSWhGKKdvUE",
+      "title": "Better Vantage by Vanguard | The costliest mistakes even experienced investors make",
+      "person": "John Bogle",
+      "investor": "John Bogle",
+      "sourceId": "vanguard",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=mSWhGKKdvUE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-07-22T15:30:02+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 70,
+      "editorBoost": 1,
+      "thumbnail": "https://i2.ytimg.com/vi/mSWhGKKdvUE/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Vanguard：Better Vantage by Vanguard | The costliest mistakes even experienced investors make",
+      "topics": [
+        "Index Investing",
+        "Asset Allocation",
+        "Long Term"
+      ],
+      "assets": [
+        "Index Funds"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 87,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-xGxgOEHw4Xc",
+      "title": "Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=xGxgOEHw4Xc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-24T09:03:45+00:00",
+      "discoveredAt": "2026-08-24T10:54:27.916Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/xGxgOEHw4Xc/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro",
+        "全球宏观"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "全球宏观",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 85,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T04:54:30.942Z",
+          "views": 31605,
+          "likes": 687,
+          "comments": 76,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 43896,
+          "likes": 1010,
+          "comments": 123,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 68913,
+          "likes": 1585,
+          "comments": 193,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 81425,
+          "likes": 1873,
+          "comments": 228,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-iUssTMQRDHI",
+      "title": "Why Giving AI Its Own Values Could Be Dangerous - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=iUssTMQRDHI",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-23T21:21:41+00:00",
+      "discoveredAt": "2026-08-23T22:39:16.129Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/iUssTMQRDHI/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：Why Giving AI Its Own Values Could Be Dangerous - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data",
+        "价值投资"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 145342,
+          "likes": 3343,
+          "comments": 407,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 163166,
+          "likes": 3753,
+          "comments": 457,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 182185,
+          "likes": 4190,
+          "comments": 510,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 203131,
+          "likes": 4672,
+          "comments": 569,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 214483,
+          "likes": 4933,
+          "comments": 601,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 225735,
+          "likes": 5192,
+          "comments": 632,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 238210,
+          "likes": 5479,
+          "comments": 667,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 246733,
+          "likes": 5675,
+          "comments": 691,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-0G9q1M5wU2Q",
+      "title": "From T+1 to Instant: Tokenized Funds Get an Upgrade",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=0G9q1M5wU2Q",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T17:00:39+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/0G9q1M5wU2Q/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：From T+1 to Instant: Tokenized Funds Get an Upgrade",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 110237,
+          "likes": 2535,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 110849,
+          "likes": 2550,
+          "comments": 310,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 111640,
+          "likes": 2568,
+          "comments": 313,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 112708,
+          "likes": 2592,
+          "comments": 316,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 113385,
+          "likes": 2608,
+          "comments": 317,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 114133,
+          "likes": 2625,
+          "comments": 320,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 115059,
+          "likes": 2646,
+          "comments": 322,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 115754,
+          "likes": 2662,
+          "comments": 324,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-4Db32G38yfw",
+      "title": "SEC Drops 'Reg Crypto' Rulemaking: Do We Still Need Clarity?",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=4Db32G38yfw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-21T15:00:17+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/4Db32G38yfw/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：SEC Drops 'Reg Crypto' Rulemaking: Do We Still Need Clarity?",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 115564,
+          "likes": 2658,
+          "comments": 324,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 116178,
+          "likes": 2672,
+          "comments": 325,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 116974,
+          "likes": 2690,
+          "comments": 328,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 118050,
+          "likes": 2715,
+          "comments": 331,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 118733,
+          "likes": 2731,
+          "comments": 332,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 119487,
+          "likes": 2748,
+          "comments": 335,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 120422,
+          "likes": 2770,
+          "comments": 337,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 121124,
+          "likes": 2786,
+          "comments": 339,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-l_Y_dSYV0tA",
+      "title": "Why Superhuman AI Might Only Need to Master R&D - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=l_Y_dSYV0tA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-20T20:30:36+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/l_Y_dSYV0tA/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：Why Superhuman AI Might Only Need to Master R&D - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 291076,
+          "likes": 6695,
+          "comments": 815,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 292189,
+          "likes": 6720,
+          "comments": 818,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 293639,
+          "likes": 6754,
+          "comments": 822,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 295612,
+          "likes": 6799,
+          "comments": 828,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 296874,
+          "likes": 6828,
+          "comments": 831,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 298276,
+          "likes": 6860,
+          "comments": 835,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 300024,
+          "likes": 6901,
+          "comments": 840,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 301345,
+          "likes": 6931,
+          "comments": 844,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-DWifNBhQ82U",
+      "title": "Bitcoin Breaks $70K—When Will It Hit a New All-Time High?",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=DWifNBhQ82U",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-20T13:34:40+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/DWifNBhQ82U/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：Bitcoin Breaks $70K—When Will It Hit a New All-Time High?",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions",
+        "Bitcoin"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 83695,
+          "likes": 1925,
+          "comments": 234,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 83984,
+          "likes": 1932,
+          "comments": 235,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 84361,
+          "likes": 1940,
+          "comments": 236,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 84874,
+          "likes": 1952,
+          "comments": 238,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 85203,
+          "likes": 1960,
+          "comments": 239,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 85569,
+          "likes": 1968,
+          "comments": 240,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 86027,
+          "likes": 1979,
+          "comments": 241,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 86373,
+          "likes": 1987,
+          "comments": 242,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-1calbhOA8j0",
+      "title": "How Fast Can AI Become an Expert in a New Field? - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=1calbhOA8j0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T21:00:11+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/1calbhOA8j0/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：How Fast Can AI Become an Expert in a New Field? - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 193552,
+          "likes": 4452,
+          "comments": 542,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 194090,
+          "likes": 4464,
+          "comments": 543,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 194794,
+          "likes": 4480,
+          "comments": 545,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 195758,
+          "likes": 4502,
+          "comments": 548,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 196378,
+          "likes": 4517,
+          "comments": 550,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 197070,
+          "likes": 4533,
+          "comments": 552,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 197936,
+          "likes": 4553,
+          "comments": 554,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 198594,
+          "likes": 4568,
+          "comments": 556,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-ZE265IfPPAc",
+      "title": "Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ZE265IfPPAc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-19T16:00:30+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/ZE265IfPPAc/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Khabib on Sheikh Hamdan and Dubai: UAE has become a second home for us | Khabib Nurmagomedov",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 868616,
+          "likes": 19978,
+          "comments": 2432,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 870896,
+          "likes": 20031,
+          "comments": 2439,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 873880,
+          "likes": 20099,
+          "comments": 2447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 877970,
+          "likes": 20193,
+          "comments": 2458,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 880602,
+          "likes": 20254,
+          "comments": 2466,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 883540,
+          "likes": 20321,
+          "comments": 2474,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 887224,
+          "likes": 20406,
+          "comments": 2484,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 890025,
+          "likes": 20471,
+          "comments": 2492,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-nf9wcF_vtr4",
+      "title": "Why Gemini Models Kept Becoming Depressed - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=nf9wcF_vtr4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-17T21:51:36+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/nf9wcF_vtr4/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：Why Gemini Models Kept Becoming Depressed - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data",
+        "Foundation Models"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 315704,
+          "likes": 7261,
+          "comments": 884,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 316260,
+          "likes": 7274,
+          "comments": 886,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 316991,
+          "likes": 7291,
+          "comments": 888,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 317997,
+          "likes": 7314,
+          "comments": 890,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 318648,
+          "likes": 7329,
+          "comments": 892,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 319378,
+          "likes": 7346,
+          "comments": 894,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 320297,
+          "likes": 7367,
+          "comments": 897,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 320999,
+          "likes": 7383,
+          "comments": 899,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-8bdncWiRRX0",
+      "title": "AI Risk Might Be Manageable Yet Still Be Mismanaged - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8bdncWiRRX0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-16T20:30:26+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/8bdncWiRRX0/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：AI Risk Might Be Manageable Yet Still Be Mismanaged - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 284909,
+          "likes": 6553,
+          "comments": 798,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 285325,
+          "likes": 6562,
+          "comments": 799,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 285872,
+          "likes": 6575,
+          "comments": 800,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 286628,
+          "likes": 6592,
+          "comments": 803,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 287118,
+          "likes": 6604,
+          "comments": 804,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 287667,
+          "likes": 6616,
+          "comments": 805,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 288361,
+          "likes": 6632,
+          "comments": 807,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 288892,
+          "likes": 6645,
+          "comments": 809,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-0BDdiGQUp7M",
+      "title": "How Reward Hacking Could Escalate Into AI Takeover - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=0BDdiGQUp7M",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-15T21:13:47+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/0BDdiGQUp7M/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：How Reward Hacking Could Escalate Into AI Takeover - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 404061,
+          "likes": 9293,
+          "comments": 1131,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 404569,
+          "likes": 9305,
+          "comments": 1133,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 405239,
+          "likes": 9320,
+          "comments": 1135,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 406165,
+          "likes": 9342,
+          "comments": 1137,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 406766,
+          "likes": 9356,
+          "comments": 1139,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 407441,
+          "likes": 9371,
+          "comments": 1141,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 408294,
+          "likes": 9391,
+          "comments": 1143,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 408947,
+          "likes": 9406,
+          "comments": 1145,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "dwarkesh-wSX0jXBAxwA",
+      "title": "Why Can't We Raise AI Like We Raise Kids? - Ryan Greenblatt",
+      "person": "Dwarkesh Patel",
+      "investor": "",
+      "sourceId": "dwarkesh",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=wSX0jXBAxwA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T20:03:23+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/wSX0jXBAxwA/hqdefault.jpg",
+      "summary": "科技信号，来自 Dwarkesh Podcast：Why Can't We Raise AI Like We Raise Kids? - Ryan Greenblatt",
+      "topics": [
+        "Scaling Laws",
+        "Open Models",
+        "Synthetic Data"
+      ],
+      "assets": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 298436,
+          "likes": 6864,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 298762,
+          "likes": 6872,
+          "comments": 837,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 299192,
+          "likes": 6881,
+          "comments": 838,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 299786,
+          "likes": 6895,
+          "comments": 839,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 300172,
+          "likes": 6904,
+          "comments": 840,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 300607,
+          "likes": 6914,
+          "comments": 842,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 301156,
+          "likes": 6927,
+          "comments": 843,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 301578,
+          "likes": 6936,
+          "comments": 844,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-qkq8lydqBW8",
+      "title": "Did Stablecoin Yield Kill CLARITY?",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=qkq8lydqBW8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-08-14T15:00:21+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/qkq8lydqBW8/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：Did Stablecoin Yield Kill CLARITY?",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions",
+        "Payments"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 148884,
+          "likes": 3424,
+          "comments": 417,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 149042,
+          "likes": 3428,
+          "comments": 417,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 149251,
+          "likes": 3433,
+          "comments": 418,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 149540,
+          "likes": 3439,
+          "comments": 419,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 149728,
+          "likes": 3444,
+          "comments": 419,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 149939,
+          "likes": 3449,
+          "comments": 420,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 150206,
+          "likes": 3455,
+          "comments": 421,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 150411,
+          "likes": 3459,
+          "comments": 421,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "acquired-ipiKIgdynZE",
+      "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+      "person": "Ben Gilbert",
+      "investor": "Ben Gilbert",
+      "sourceId": "acquired",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ipiKIgdynZE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-05-18T20:44:21+00:00",
+      "discoveredAt": "2026-08-22T08:48:52.921Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/ipiKIgdynZE/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Acquired：Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+      "topics": [
+        "Business Quality",
+        "Technology Companies",
+        "Moats"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "META"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 86,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-08-24T01:58:00.405Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T03:17:11.596Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T05:02:20.768Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T07:29:11.787Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T09:05:24.839Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T10:54:27.916Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T13:13:39.010Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15465,7 +15454,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-14T16:10:43+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15489,17 +15478,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 240555,
-          "likes": 5533,
-          "comments": 674,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 240555,
           "likes": 5533,
@@ -15567,6 +15545,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-08-24T13:13:39.010Z",
+          "views": 240555,
+          "likes": 5533,
+          "comments": 674,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
           "views": 240555,
           "likes": 5533,
           "comments": 674,
@@ -15590,7 +15579,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-05-20T16:00:34+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15614,17 +15603,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 255780,
-          "likes": 5883,
-          "comments": 716,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 255780,
           "likes": 5883,
@@ -15692,6 +15670,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-08-24T13:13:39.010Z",
+          "views": 255780,
+          "likes": 5883,
+          "comments": 716,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
           "views": 255780,
           "likes": 5883,
           "comments": 716,
@@ -15715,7 +15704,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-03-11T16:23:01+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15738,17 +15727,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 292320,
-          "likes": 6723,
-          "comments": 818,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 292320,
@@ -15825,6 +15803,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 292320,
+          "likes": 6723,
+          "comments": 818,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15840,7 +15829,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-13T20:00:31+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -15877,17 +15866,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 159142,
-          "likes": 3660,
-          "comments": 446,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 159533,
@@ -15964,6 +15942,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 161024,
+          "likes": 3704,
+          "comments": 451,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15979,7 +15968,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-03T16:00:30+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -16016,17 +16005,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 112590,
-          "likes": 2590,
-          "comments": 315,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 112713,
@@ -16103,6 +16081,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 113190,
+          "likes": 2603,
+          "comments": 317,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16118,7 +16107,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-22T14:30:31+00:00",
       "discoveredAt": "2026-08-22T16:42:03.255Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -16144,17 +16133,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 107439,
-          "likes": 2471,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 110362,
@@ -16231,6 +16209,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 119754,
+          "likes": 2754,
+          "comments": 335,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16246,7 +16235,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T21:06:39+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -16283,17 +16272,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 174663,
-          "likes": 4017,
-          "comments": 489,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 177490,
@@ -16370,6 +16348,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 187154,
+          "likes": 4305,
+          "comments": 524,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16385,7 +16374,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T11:15:36+00:00",
       "discoveredAt": "2026-08-24T13:13:39.010Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -16443,6 +16432,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 276952,
+          "likes": 6370,
+          "comments": 775,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16458,7 +16458,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-20T16:49:39+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -16495,17 +16495,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 75604,
-          "likes": 1739,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 76316,
@@ -16582,6 +16571,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 78870,
+          "likes": 1814,
+          "comments": 221,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16597,7 +16597,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-01T15:28:54+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -16621,17 +16621,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 109782,
-          "likes": 2525,
-          "comments": 307,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 109890,
@@ -16708,6 +16697,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 110308,
+          "likes": 2537,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16723,7 +16723,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-19T20:00:18+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -16761,17 +16761,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 141580,
-          "likes": 3256,
-          "comments": 396,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 142587,
@@ -16848,6 +16837,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 146259,
+          "likes": 3364,
+          "comments": 410,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16863,7 +16863,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-19T14:00:31+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -16887,17 +16887,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 238658,
-          "likes": 5489,
-          "comments": 668,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 240239,
@@ -16974,6 +16963,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 246035,
+          "likes": 5659,
+          "comments": 689,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16989,7 +16989,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-12T20:00:24+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17028,17 +17028,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 160176,
-          "likes": 3684,
-          "comments": 448,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 160529,
@@ -17115,6 +17104,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 161877,
+          "likes": 3723,
+          "comments": 453,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17130,7 +17130,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-23T12:00:25+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -17155,17 +17155,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 155820,
-          "likes": 3584,
-          "comments": 436,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 155820,
           "likes": 3584,
@@ -17233,6 +17222,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-08-24T13:13:39.010Z",
+          "views": 155820,
+          "likes": 3584,
+          "comments": 436,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
           "views": 155820,
           "likes": 3584,
           "comments": 436,
@@ -17256,7 +17256,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-21T12:00:08+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -17279,17 +17279,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 145530,
-          "likes": 3347,
-          "comments": 407,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 145530,
@@ -17366,6 +17355,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 145530,
+          "likes": 3347,
+          "comments": 407,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17381,7 +17381,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-08T14:30:06+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -17417,17 +17417,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 128772,
-          "likes": 2962,
-          "comments": 361,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 128772,
           "likes": 2962,
@@ -17503,6 +17492,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 128772,
+          "likes": 2962,
+          "comments": 361,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17518,7 +17518,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T12:32:19+00:00",
       "discoveredAt": "2026-08-24T13:13:39.010Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17577,6 +17577,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 70062,
+          "likes": 1611,
+          "comments": 196,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17592,7 +17603,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T12:11:06+00:00",
       "discoveredAt": "2026-08-24T13:13:39.010Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17650,6 +17661,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 50090,
+          "likes": 1152,
+          "comments": 140,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17665,7 +17687,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T11:20:55+00:00",
       "discoveredAt": "2026-08-24T13:13:39.010Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17724,6 +17746,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 79275,
+          "likes": 1823,
+          "comments": 222,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17739,7 +17772,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T07:22:43+00:00",
       "discoveredAt": "2026-08-24T07:29:11.787Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17830,247 +17863,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-_GQINKMOnBo",
-      "title": "Alibaba Raises $10 Bln in Record Hong Kong Share Sale",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=_GQINKMOnBo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-24T06:44:48+00:00",
-      "discoveredAt": "2026-08-24T07:29:11.787Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/_GQINKMOnBo/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Alibaba Raises $10 Bln in Record Hong Kong Share Sale",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-24T01:29:15.007Z",
-          "views": 17803,
-          "likes": 387,
-          "comments": 43,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 24726,
-          "likes": 569,
-          "comments": 69,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 43067,
-          "likes": 991,
-          "comments": 121,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 58549,
-          "likes": 1347,
-          "comments": 164,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 71788,
-          "likes": 1651,
-          "comments": 201,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "yahoo-finance-6VhplfTENfI",
-      "title": "Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.",
-      "person": "Warren Buffett",
-      "investor": "Warren Buffett",
-      "sourceId": "yahoo-finance",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=6VhplfTENfI",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T17:40:24+00:00",
-      "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/6VhplfTENfI/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Yahoo Finance：Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "Bitcoin"
-      ],
-      "assets": [
-        "NVDA",
-        "TSLA",
-        "BRK"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 230688,
-          "likes": 5306,
-          "comments": 646,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 234132,
-          "likes": 5385,
-          "comments": 656,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 235449,
-          "likes": 5415,
-          "comments": 659,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 237153,
-          "likes": 5455,
-          "comments": 664,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 239452,
-          "likes": 5507,
-          "comments": 670,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 240910,
-          "likes": 5541,
-          "comments": 675,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 242519,
-          "likes": 5578,
-          "comments": 679,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 244510,
-          "likes": 5624,
-          "comments": 685,
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 158406,
+          "likes": 3643,
+          "comments": 444,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -18091,7 +17889,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T14:00:17+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18128,17 +17926,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 191421,
-          "likes": 4403,
-          "comments": 536,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 194058,
@@ -18215,6 +18002,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 203220,
+          "likes": 4674,
+          "comments": 569,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18230,7 +18028,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-20T14:00:26+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18267,17 +18065,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 174076,
-          "likes": 4004,
-          "comments": 487,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 175648,
@@ -18354,6 +18141,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 181300,
+          "likes": 4170,
+          "comments": 508,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18369,7 +18167,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T17:00:22+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18406,17 +18204,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 225721,
-          "likes": 5192,
-          "comments": 632,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 226925,
@@ -18493,6 +18280,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 231388,
+          "likes": 5322,
+          "comments": 648,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18508,7 +18306,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-13T14:00:14+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18545,17 +18343,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 280166,
-          "likes": 6444,
-          "comments": 784,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 280835,
@@ -18632,635 +18419,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-NLTgHnnbxWY",
-      "title": "Prism Distributed Inference Performance",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=NLTgHnnbxWY",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:25:40+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/NLTgHnnbxWY/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Prism Distributed Inference Performance",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 80966,
-          "likes": 1862,
-          "comments": 227,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 82141,
-          "likes": 1889,
-          "comments": 230,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 82591,
-          "likes": 1900,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 83174,
-          "likes": 1913,
-          "comments": 233,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 83960,
-          "likes": 1931,
-          "comments": 235,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 84459,
-          "likes": 1943,
-          "comments": 236,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 85010,
-          "likes": 1955,
-          "comments": 238,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 85692,
-          "likes": 1971,
-          "comments": 240,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-qJxtD9EdqeU",
-      "title": "LLM serving with SGLang TPU",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=qJxtD9EdqeU",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:16:35+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/qJxtD9EdqeU/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：LLM serving with SGLang TPU",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Foundation Models"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 146038,
-          "likes": 3359,
-          "comments": 409,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 148151,
-          "likes": 3407,
-          "comments": 415,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 148960,
-          "likes": 3426,
-          "comments": 417,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 150007,
-          "likes": 3450,
-          "comments": 420,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 151421,
-          "likes": 3483,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 152319,
-          "likes": 3503,
-          "comments": 426,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 153310,
-          "likes": 3526,
-          "comments": 429,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 154537,
-          "likes": 3554,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-eKDz97qfeEw",
-      "title": "GPU Reliability",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=eKDz97qfeEw",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:11:27+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/eKDz97qfeEw/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：GPU Reliability",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Compute"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 110071,
-          "likes": 2532,
-          "comments": 308,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 111661,
-          "likes": 2568,
-          "comments": 313,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 112269,
-          "likes": 2582,
-          "comments": 314,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 113057,
-          "likes": 2600,
-          "comments": 317,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 114121,
-          "likes": 2625,
-          "comments": 320,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 114796,
-          "likes": 2640,
-          "comments": 321,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 115542,
-          "likes": 2657,
-          "comments": 324,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 116465,
-          "likes": 2679,
-          "comments": 326,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-lUNUD5pZHW0",
-      "title": "Compute Infra",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=lUNUD5pZHW0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T16:07:02+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/lUNUD5pZHW0/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Compute Infra",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Compute"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 138134,
-          "likes": 3177,
-          "comments": 387,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 140126,
-          "likes": 3223,
-          "comments": 392,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 140889,
-          "likes": 3240,
-          "comments": 394,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 141876,
-          "likes": 3263,
-          "comments": 397,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 143209,
-          "likes": 3294,
-          "comments": 401,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 144056,
-          "likes": 3313,
-          "comments": 403,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 144990,
-          "likes": 3335,
-          "comments": 406,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 146147,
-          "likes": 3361,
-          "comments": 409,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "google-cloud-tech-YZus7P6ABK8",
-      "title": "Flexible Compute",
-      "person": "Thomas Kurian",
-      "investor": "",
-      "sourceId": "google-cloud-tech",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=YZus7P6ABK8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-08-21T15:59:28+00:00",
-      "discoveredAt": "2026-08-22T04:50:37.361Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/YZus7P6ABK8/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Flexible Compute",
-      "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI",
-        "Compute"
-      ],
-      "assets": [
-        "GOOGL",
-        "Gemini"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 92142,
-          "likes": 2119,
-          "comments": 258,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T01:58:00.405Z",
-          "views": 93467,
-          "likes": 2150,
-          "comments": 262,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T03:17:11.596Z",
-          "views": 93974,
-          "likes": 2161,
-          "comments": 263,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T05:02:20.768Z",
-          "views": 94631,
-          "likes": 2177,
-          "comments": 265,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T07:29:11.787Z",
-          "views": 95518,
-          "likes": 2197,
-          "comments": 267,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T09:05:24.839Z",
-          "views": 96081,
-          "likes": 2210,
-          "comments": 269,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T10:54:27.916Z",
-          "views": 96703,
-          "likes": 2224,
-          "comments": 271,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-08-24T13:13:39.010Z",
-          "views": 97473,
-          "likes": 2242,
-          "comments": 273,
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 283389,
+          "likes": 6518,
+          "comments": 793,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -19281,7 +18445,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-13T01:00:04+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -19318,17 +18482,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 126321,
-          "likes": 2905,
-          "comments": 354,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 126605,
@@ -19405,6 +18558,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 127692,
+          "likes": 2937,
+          "comments": 358,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19420,7 +18584,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T20:55:51+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -19444,17 +18608,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 179098,
-          "likes": 4119,
-          "comments": 501,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 179456,
@@ -19531,6 +18684,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 180828,
+          "likes": 4159,
+          "comments": 506,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19546,7 +18710,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T13:00:06+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -19570,17 +18734,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 181630,
-          "likes": 4177,
-          "comments": 509,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 181981,
@@ -19657,6 +18810,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 183330,
+          "likes": 4217,
+          "comments": 513,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19672,7 +18836,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-06T17:35:35+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -19696,17 +18860,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 319478,
-          "likes": 7348,
-          "comments": 895,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 319900,
@@ -19783,6 +18936,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 321533,
+          "likes": 7395,
+          "comments": 900,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19798,7 +18962,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-06T17:35:27+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -19822,17 +18986,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 158652,
-          "likes": 3649,
-          "comments": 444,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 158862,
@@ -19909,6 +19062,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 159673,
+          "likes": 3672,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19924,7 +19088,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-06T17:35:24+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -19949,17 +19113,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 282532,
-          "likes": 6498,
-          "comments": 791,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 282905,
@@ -20036,6 +19189,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 284349,
+          "likes": 6540,
+          "comments": 796,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20051,7 +19215,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-10T04:01:06+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -20076,17 +19240,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 189420,
-          "likes": 4357,
-          "comments": 530,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 189420,
@@ -20163,6 +19316,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 189420,
+          "likes": 4357,
+          "comments": 530,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20178,7 +19342,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T11:37:24+00:00",
       "discoveredAt": "2026-08-24T13:13:39.010Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -20236,6 +19400,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 111133,
+          "likes": 2556,
+          "comments": 311,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20251,7 +19426,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-22T21:00:28+00:00",
       "discoveredAt": "2026-08-22T22:39:27.374Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -20277,17 +19452,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 223008,
-          "likes": 5129,
-          "comments": 624,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 230967,
@@ -20364,6 +19528,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 255538,
+          "likes": 5877,
+          "comments": 716,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20379,7 +19554,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-24T01:27:29+00:00",
       "discoveredAt": "2026-08-24T01:58:00.405Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20403,17 +19578,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T19:58:03.189Z",
-          "views": 93334,
-          "likes": 2027,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 129630,
@@ -20490,6 +19654,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 500941,
+          "likes": 11522,
+          "comments": 1403,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20505,7 +19680,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T15:40:20+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -20528,17 +19703,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 134708,
-          "likes": 3098,
-          "comments": 377,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 135417,
@@ -20615,6 +19779,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 138049,
+          "likes": 3175,
+          "comments": 387,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20630,7 +19805,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-17T15:22:51+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20654,17 +19829,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 684482,
-          "likes": 15743,
-          "comments": 1917,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 687413,
@@ -20741,6 +19905,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 698386,
+          "likes": 16063,
+          "comments": 1955,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20756,7 +19931,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-14T17:19:17+00:00",
       "discoveredAt": "2026-08-21T04:55:10.134Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20780,17 +19955,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 1395164,
-          "likes": 32089,
-          "comments": 3906,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 1398982,
@@ -20867,6 +20031,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 1413502,
+          "likes": 32511,
+          "comments": 3958,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20882,7 +20057,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-12T16:25:53+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -20906,17 +20081,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 179882,
-          "likes": 4137,
-          "comments": 504,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 180272,
@@ -20993,6 +20157,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 181763,
+          "likes": 4181,
+          "comments": 509,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21008,7 +20183,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-08T14:40:08+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21031,17 +20206,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 116897,
-          "likes": 2689,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 117074,
@@ -21118,6 +20282,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 117756,
+          "likes": 2708,
+          "comments": 330,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21133,7 +20308,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-08T14:40:08+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21156,17 +20331,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 119145,
-          "likes": 2740,
-          "comments": 334,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 119326,
@@ -21243,6 +20407,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 120020,
+          "likes": 2760,
+          "comments": 336,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21258,7 +20433,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-06T14:45:12+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21282,17 +20457,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 175170,
-          "likes": 4029,
-          "comments": 490,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 175400,
@@ -21369,6 +20533,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 176288,
+          "likes": 4055,
+          "comments": 494,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21384,7 +20559,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-29T14:28:40+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21409,17 +20584,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 157248,
-          "likes": 3617,
-          "comments": 440,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 157248,
           "likes": 3617,
@@ -21495,6 +20659,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 157248,
+          "likes": 3617,
+          "comments": 440,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21510,7 +20685,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-27T16:14:36+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21535,17 +20710,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 189000,
-          "likes": 4347,
-          "comments": 529,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 189000,
           "likes": 4347,
@@ -21621,6 +20785,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 189000,
+          "likes": 4347,
+          "comments": 529,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21636,7 +20811,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-14T13:04:39+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -21661,17 +20836,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 504000,
-          "likes": 11592,
-          "comments": 1411,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 504000,
           "likes": 11592,
@@ -21747,6 +20911,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 504000,
+          "likes": 11592,
+          "comments": 1411,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21762,7 +20937,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-02T14:44:28+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -21798,17 +20973,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 302610,
-          "likes": 6960,
-          "comments": 847,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 302610,
           "likes": 6960,
@@ -21884,6 +21048,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 302610,
+          "likes": 6960,
+          "comments": 847,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21899,7 +21074,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-01T22:27:15+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -21935,17 +21110,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 263340,
-          "likes": 6057,
-          "comments": 737,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 263340,
           "likes": 6057,
@@ -22021,6 +21185,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 263340,
+          "likes": 6057,
+          "comments": 737,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22036,7 +21211,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-02-27T16:48:52+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -22061,17 +21236,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 331905,
-          "likes": 7634,
-          "comments": 929,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 331905,
           "likes": 7634,
@@ -22147,6 +21311,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 331905,
+          "likes": 7634,
+          "comments": 929,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22162,7 +21337,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-08T01:32:48+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -22200,17 +21375,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 220595,
-          "likes": 5074,
-          "comments": 618,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 220916,
@@ -22287,6 +21451,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 222152,
+          "likes": 5109,
+          "comments": 622,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22302,7 +21477,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-07T18:48:21+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -22339,17 +21514,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 181672,
-          "likes": 4178,
-          "comments": 509,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 181930,
@@ -22426,12 +21590,23 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 182928,
+          "likes": 4207,
+          "comments": 512,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
     {
       "id": "bankless-M3EICrx-EEg",
-      "title": "What's Really Behind OpenAI's \"Pause\"",
+      "title": "Sam Altman Just Stopped OpenAI's Next Model",
       "person": "Bankless hosts",
       "investor": "",
       "sourceId": "bankless",
@@ -22441,13 +21616,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T12:24:32+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
       "editorBoost": 5,
       "thumbnail": "https://i2.ytimg.com/vi/M3EICrx-EEg/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bankless：What's Really Behind OpenAI's \"Pause\"",
+      "summary": "链上与加密信号，来自 Bankless：Sam Altman Just Stopped OpenAI's Next Model",
       "topics": [
         "Stablecoin",
         "Regulation",
@@ -22467,17 +21642,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 154650,
-          "likes": 3557,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 156711,
@@ -22554,6 +21718,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 163892,
+          "likes": 3770,
+          "comments": 459,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22569,7 +21744,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-20T14:02:13+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22594,17 +21769,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 146523,
-          "likes": 3370,
-          "comments": 410,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 147848,
@@ -22681,6 +21845,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 152607,
+          "likes": 3510,
+          "comments": 427,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22696,7 +21871,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-19T14:20:09+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22722,17 +21897,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 217673,
-          "likes": 5006,
-          "comments": 609,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 219120,
@@ -22809,6 +21973,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 224425,
+          "likes": 5162,
+          "comments": 628,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22824,7 +21999,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T17:05:55+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -22862,17 +22037,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 82022,
-          "likes": 1887,
-          "comments": 230,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 82460,
@@ -22949,6 +22113,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 84083,
+          "likes": 1934,
+          "comments": 235,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22964,7 +22139,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T13:52:07+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22989,17 +22164,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 127502,
-          "likes": 2933,
-          "comments": 357,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 128163,
@@ -23076,6 +22240,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 130614,
+          "likes": 3004,
+          "comments": 366,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23091,7 +22266,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T05:22:26+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -23114,17 +22289,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 147071,
-          "likes": 3383,
-          "comments": 412,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 147777,
@@ -23201,6 +22365,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 150408,
+          "likes": 3459,
+          "comments": 421,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23216,7 +22391,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-15T15:45:32+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -23240,17 +22415,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 138872,
-          "likes": 3194,
-          "comments": 389,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 139303,
@@ -23327,6 +22491,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 140935,
+          "likes": 3242,
+          "comments": 395,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23342,7 +22517,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-15T00:22:22+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -23365,17 +22540,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 144250,
-          "likes": 3318,
-          "comments": 404,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 144660,
@@ -23452,6 +22616,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 146218,
+          "likes": 3363,
+          "comments": 409,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23467,7 +22642,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-14T14:34:37+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23493,17 +22668,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 182206,
-          "likes": 4191,
-          "comments": 510,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 182697,
@@ -23580,6 +22744,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 184567,
+          "likes": 4245,
+          "comments": 517,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23595,7 +22770,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-13T15:30:03+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -23633,17 +22808,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 122285,
-          "likes": 2813,
-          "comments": 342,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 122579,
@@ -23720,6 +22884,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 123702,
+          "likes": 2845,
+          "comments": 346,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23735,7 +22910,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-13T14:24:36+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23761,17 +22936,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 132877,
-          "likes": 3056,
-          "comments": 372,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 133195,
@@ -23848,6 +23012,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 134408,
+          "likes": 3091,
+          "comments": 376,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23863,7 +23038,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-12T14:20:13+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23889,17 +23064,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 162911,
-          "likes": 3747,
-          "comments": 456,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 163261,
@@ -23976,6 +23140,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 164600,
+          "likes": 3786,
+          "comments": 461,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23991,7 +23166,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T17:10:22+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -24029,17 +23204,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 106248,
-          "likes": 2444,
-          "comments": 297,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 106457,
@@ -24116,6 +23280,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 107259,
+          "likes": 2467,
+          "comments": 300,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24131,7 +23306,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T15:39:49+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -24156,17 +23331,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 193434,
-          "likes": 4449,
-          "comments": 542,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 193812,
@@ -24243,6 +23407,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 195264,
+          "likes": 4491,
+          "comments": 547,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24258,7 +23433,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-29T22:58:12+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -24296,17 +23471,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 151456,
-          "likes": 3483,
-          "comments": 424,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 151586,
@@ -24383,6 +23547,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 151620,
+          "likes": 3487,
+          "comments": 425,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24398,7 +23573,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-29T22:57:36+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -24435,17 +23610,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 218416,
-          "likes": 5024,
-          "comments": 612,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 218604,
@@ -24522,6 +23686,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 218652,
+          "likes": 5029,
+          "comments": 612,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24537,7 +23712,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-29T22:56:52+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -24574,17 +23749,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 148268,
-          "likes": 3410,
-          "comments": 415,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 148396,
@@ -24661,6 +23825,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 148428,
+          "likes": 3414,
+          "comments": 416,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24676,7 +23851,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-29T18:02:12+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -24715,17 +23890,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 142044,
-          "likes": 3267,
-          "comments": 398,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 142044,
           "likes": 3267,
@@ -24801,6 +23965,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 142044,
+          "likes": 3267,
+          "comments": 398,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24816,7 +23991,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-16T13:30:13+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -24841,17 +24016,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 133770,
-          "likes": 3077,
-          "comments": 375,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 133770,
           "likes": 3077,
@@ -24927,6 +24091,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 133770,
+          "likes": 3077,
+          "comments": 375,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -24942,7 +24117,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-20T21:14:20+00:00",
       "discoveredAt": "2026-08-22T08:48:52.921Z",
-      "processedAt": "2026-08-24T13:13:39.010Z",
+      "processedAt": "2026-08-24T15:01:18.506Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -24965,17 +24140,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-08-23T22:39:16.129Z",
-          "views": 93965,
-          "likes": 2161,
-          "comments": 263,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-08-24T01:58:00.405Z",
           "views": 94915,
@@ -25047,6 +24211,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "views": 97864,
           "likes": 2251,
           "comments": 274,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-08-24T15:01:18.506Z",
+          "views": 98300,
+          "likes": 2261,
+          "comments": 275,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
