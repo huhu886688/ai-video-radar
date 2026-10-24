@@ -1,8 +1,8 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-10-24T18:48:20.121Z",
+  "generatedAt": "2026-10-24T22:29:03.995Z",
   "diagnostics": {
     "version": "data-pipeline-v2",
-    "generatedAt": "2026-10-24T18:48:20.121Z",
+    "generatedAt": "2026-10-24T22:29:03.995Z",
     "schedule": "every_2_hours",
     "mode": "youtube_rss_with_estimated_metrics",
     "youtubeApiEnabled": false,
@@ -1309,7 +1309,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T14:20:28+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1366,6 +1366,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 52070,
+          "likes": 1198,
+          "comments": 146,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1381,7 +1392,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:39:14+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1459,6 +1470,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 573985,
+          "likes": 13202,
+          "comments": 1607,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1474,7 +1496,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:34:39+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1553,6 +1575,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 902686,
+          "likes": 20762,
+          "comments": 2528,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1568,7 +1601,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:32:03+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1647,6 +1680,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 656791,
+          "likes": 15106,
+          "comments": 1839,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1662,7 +1706,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T18:00:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1686,17 +1730,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.965Z",
-          "views": 446887,
-          "likes": 9708,
-          "comments": 1078,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 620676,
@@ -1773,6 +1806,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 922163,
+          "likes": 21210,
+          "comments": 2582,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1788,7 +1832,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T22:57:52+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 86,
@@ -1813,17 +1857,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.965Z",
-          "views": 866184,
-          "likes": 18816,
-          "comments": 2088,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 1203034,
@@ -1900,6 +1933,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 1356245,
+          "likes": 31194,
+          "comments": 3797,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1915,7 +1959,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T20:17:12+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1938,17 +1982,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 45721,
-          "likes": 993,
-          "comments": 110,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 63502,
@@ -2025,6 +2058,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 68940,
+          "likes": 1586,
+          "comments": 193,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2040,7 +2084,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T17:26:43+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2063,17 +2107,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 70051,
-          "likes": 1522,
-          "comments": 169,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 97293,
@@ -2150,6 +2183,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 100435,
+          "likes": 2310,
+          "comments": 281,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2165,7 +2209,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T17:36:56+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2188,17 +2232,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 89416,
-          "likes": 1942,
-          "comments": 216,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 124189,
@@ -2275,6 +2308,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 127743,
+          "likes": 2938,
+          "comments": 358,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2290,7 +2334,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T16:38:17+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2315,17 +2359,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 225257,
-          "likes": 4893,
-          "comments": 543,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 312857,
@@ -2402,6 +2435,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 321768,
+          "likes": 7401,
+          "comments": 901,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2417,7 +2461,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T16:38:14+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2442,17 +2486,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 376457,
-          "likes": 8178,
-          "comments": 908,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 522857,
@@ -2529,6 +2562,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 537750,
+          "likes": 12368,
+          "comments": 1506,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2544,7 +2588,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T15:58:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2570,17 +2614,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 429139,
-          "likes": 9322,
-          "comments": 1035,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 596027,
@@ -2657,6 +2690,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 612950,
+          "likes": 14098,
+          "comments": 1716,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2672,7 +2716,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T15:58:17+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2697,17 +2741,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 385917,
-          "likes": 8383,
-          "comments": 931,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 535996,
@@ -2784,6 +2817,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 551214,
+          "likes": 12678,
+          "comments": 1543,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2799,7 +2843,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-09T17:17:44+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2822,17 +2866,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 88855,
-          "likes": 1930,
-          "comments": 215,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 123410,
@@ -2909,6 +2942,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 125805,
+          "likes": 2894,
+          "comments": 352,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2924,7 +2968,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-05T12:25:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2947,17 +2991,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 78101,
-          "likes": 1697,
-          "comments": 188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 108474,
@@ -3034,6 +3067,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 110032,
+          "likes": 2531,
+          "comments": 308,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3049,7 +3093,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-30T12:47:02+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3072,17 +3116,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 64248,
-          "likes": 1395,
-          "comments": 155,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 89233,
@@ -3159,6 +3192,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 90205,
+          "likes": 2075,
+          "comments": 253,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3174,7 +3218,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-28T14:00:35+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -3210,17 +3254,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 142651,
-          "likes": 3099,
-          "comments": 344,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 198127,
@@ -3297,6 +3330,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 198660,
+          "likes": 4569,
+          "comments": 556,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3312,7 +3356,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-28T01:37:30+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3336,17 +3380,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 60510,
-          "likes": 1314,
-          "comments": 146,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 84042,
           "likes": 1933,
@@ -3414,6 +3447,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 84042,
+          "likes": 1933,
+          "comments": 235,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 84042,
           "likes": 1933,
           "comments": 235,
@@ -3437,7 +3481,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-28T01:11:27+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3461,17 +3505,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 69280,
-          "likes": 1505,
-          "comments": 167,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 96222,
           "likes": 2213,
@@ -3539,6 +3572,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 96222,
+          "likes": 2213,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 96222,
           "likes": 2213,
           "comments": 269,
@@ -3562,7 +3606,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-27T09:38:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3585,17 +3629,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 69280,
-          "likes": 1505,
-          "comments": 167,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 96222,
@@ -3672,6 +3705,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 96222,
+          "likes": 2213,
+          "comments": 269,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3687,7 +3731,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T10:17:50+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3712,17 +3756,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 85065,
-          "likes": 1848,
-          "comments": 205,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 118146,
           "likes": 2717,
@@ -3798,6 +3831,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 118146,
+          "likes": 2717,
+          "comments": 331,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3813,7 +3857,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T10:00:31+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3838,17 +3882,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 76296,
-          "likes": 1657,
-          "comments": 184,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 105966,
           "likes": 2437,
@@ -3924,6 +3957,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 105966,
+          "likes": 2437,
+          "comments": 297,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3939,7 +3983,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T09:57:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -3965,17 +4009,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 106112,
-          "likes": 2305,
-          "comments": 256,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 147378,
           "likes": 3390,
@@ -4043,6 +4076,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 147378,
+          "likes": 3390,
+          "comments": 413,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 147378,
           "likes": 3390,
           "comments": 413,
@@ -4066,7 +4110,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T09:53:50+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4089,17 +4133,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 95589,
-          "likes": 2077,
-          "comments": 231,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 132762,
@@ -4176,6 +4209,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 132762,
+          "likes": 3054,
+          "comments": 372,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4191,7 +4235,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-23T15:23:38+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -4217,17 +4261,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 384653,
-          "likes": 8356,
-          "comments": 928,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 534240,
           "likes": 12288,
@@ -4295,6 +4328,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 534240,
+          "likes": 12288,
+          "comments": 1496,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 534240,
           "likes": 12288,
           "comments": 1496,
@@ -4318,7 +4362,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-02-11T20:43:54+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -4342,17 +4386,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 214855,
-          "likes": 4667,
-          "comments": 518,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 298410,
           "likes": 6863,
@@ -4420,6 +4453,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 298410,
+          "likes": 6863,
+          "comments": 836,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 298410,
           "likes": 6863,
           "comments": 836,
@@ -4443,7 +4487,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2025-12-05T00:40:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -4467,17 +4511,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 313513,
-          "likes": 6810,
-          "comments": 756,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 435435,
           "likes": 10015,
@@ -4545,6 +4578,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 435435,
+          "likes": 10015,
+          "comments": 1219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 435435,
           "likes": 10015,
           "comments": 1219,
@@ -4568,7 +4612,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2025-12-04T21:21:29+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -4592,17 +4636,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 179777,
-          "likes": 3905,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 249690,
           "likes": 5743,
@@ -4670,6 +4703,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 249690,
+          "likes": 5743,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 249690,
           "likes": 5743,
           "comments": 699,
@@ -4693,7 +4737,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2025-12-03T18:48:41+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -4716,17 +4760,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 269665,
-          "likes": 5858,
-          "comments": 650,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 374535,
@@ -4803,6 +4836,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 374535,
+          "likes": 8614,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4818,7 +4862,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T19:19:17+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -4841,17 +4885,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 53791,
-          "likes": 1168,
-          "comments": 130,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 74710,
@@ -4928,6 +4961,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 114353,
+          "likes": 2630,
+          "comments": 320,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4943,7 +4987,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T14:28:10+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -4967,17 +5011,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 50059,
-          "likes": 1087,
-          "comments": 121,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 69526,
@@ -5054,6 +5087,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 81697,
+          "likes": 1879,
+          "comments": 229,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5069,7 +5113,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T23:45:02+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -5094,17 +5138,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 111896,
-          "likes": 2430,
-          "comments": 270,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 155411,
@@ -5181,6 +5214,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 162423,
+          "likes": 3736,
+          "comments": 455,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5196,7 +5240,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T13:28:23+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -5219,17 +5263,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 59257,
-          "likes": 1287,
-          "comments": 143,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 82302,
@@ -5306,6 +5339,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 84905,
+          "likes": 1953,
+          "comments": 238,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5321,7 +5365,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T17:31:32+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -5346,17 +5390,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 102720,
-          "likes": 2231,
-          "comments": 247,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 142667,
@@ -5433,6 +5466,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 146748,
+          "likes": 3375,
+          "comments": 411,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5448,7 +5492,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T13:15:30+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -5471,17 +5515,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 69484,
-          "likes": 1510,
-          "comments": 167,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 96506,
@@ -5558,6 +5591,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 99211,
+          "likes": 2282,
+          "comments": 278,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5573,7 +5617,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T18:00:38+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -5598,17 +5642,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 75689,
-          "likes": 1644,
-          "comments": 182,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 105123,
@@ -5685,6 +5718,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 117419,
+          "likes": 2701,
+          "comments": 329,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5700,7 +5744,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-08T15:08:34+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5725,17 +5769,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 97376,
-          "likes": 2115,
-          "comments": 235,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 135245,
@@ -5812,6 +5845,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 137653,
+          "likes": 3166,
+          "comments": 385,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5827,7 +5871,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-30T21:33:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5853,17 +5897,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 153695,
-          "likes": 3339,
-          "comments": 371,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 213465,
           "likes": 4910,
@@ -5939,6 +5972,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 213465,
+          "likes": 4910,
+          "comments": 598,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5954,7 +5998,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-30T20:05:53+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5980,17 +6024,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 149386,
-          "likes": 3245,
-          "comments": 360,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 207480,
           "likes": 4772,
@@ -6066,6 +6099,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 207480,
+          "likes": 4772,
+          "comments": 581,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6081,7 +6125,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T17:15:04+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6171,6 +6215,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 68805,
+          "likes": 1583,
+          "comments": 193,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6186,7 +6241,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T13:28:24+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6287,6 +6342,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 72754,
+          "likes": 1673,
+          "comments": 204,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6302,7 +6368,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T16:38:52+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6328,17 +6394,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 46174,
-          "likes": 1003,
-          "comments": 112,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 64131,
@@ -6415,6 +6470,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 92796,
+          "likes": 2134,
+          "comments": 260,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6430,7 +6496,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T21:09:24+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -6455,17 +6521,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 43516,
-          "likes": 945,
-          "comments": 105,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 60439,
@@ -6542,6 +6597,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 73004,
+          "likes": 1679,
+          "comments": 204,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6557,7 +6623,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T17:00:31+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6580,17 +6646,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 67805,
-          "likes": 1473,
-          "comments": 164,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 94174,
@@ -6667,6 +6722,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 111716,
+          "likes": 2569,
+          "comments": 313,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6682,7 +6748,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T21:51:35+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6707,17 +6773,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 103753,
-          "likes": 2254,
-          "comments": 250,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 144101,
@@ -6794,6 +6849,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 162097,
+          "likes": 3728,
+          "comments": 454,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6809,7 +6875,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T16:05:53+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6835,17 +6901,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 93431,
-          "likes": 2030,
-          "comments": 225,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 129765,
@@ -6922,6 +6977,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 144477,
+          "likes": 3323,
+          "comments": 405,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6937,7 +7003,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T12:00:07+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6961,17 +7027,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 88725,
-          "likes": 1927,
-          "comments": 214,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 123229,
@@ -7048,6 +7103,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 136333,
+          "likes": 3136,
+          "comments": 382,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7063,7 +7129,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T12:00:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -7086,17 +7152,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 37710,
-          "likes": 819,
-          "comments": 91,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 52375,
@@ -7173,6 +7228,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 56435,
+          "likes": 1298,
+          "comments": 158,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7188,7 +7254,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T10:14:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7225,17 +7291,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 57754,
-          "likes": 1255,
-          "comments": 140,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 80214,
@@ -7312,6 +7367,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 83512,
+          "likes": 1921,
+          "comments": 234,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7327,7 +7393,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T14:00:23+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7363,17 +7429,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 64986,
-          "likes": 1412,
-          "comments": 157,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 90258,
@@ -7450,6 +7505,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 92797,
+          "likes": 2134,
+          "comments": 260,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7465,7 +7531,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-08T14:45:37+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7490,17 +7556,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 168466,
-          "likes": 3660,
-          "comments": 406,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 233980,
@@ -7577,6 +7632,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 238141,
+          "likes": 5477,
+          "comments": 667,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7592,7 +7658,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-06T18:01:00+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7616,17 +7682,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 157353,
-          "likes": 3418,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 218546,
@@ -7703,6 +7758,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 221947,
+          "likes": 5105,
+          "comments": 621,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7718,7 +7784,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-06T12:00:27+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7741,17 +7807,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 91259,
-          "likes": 1982,
-          "comments": 220,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 126748,
@@ -7828,6 +7883,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 128687,
+          "likes": 2960,
+          "comments": 360,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7843,7 +7909,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-02T14:30:34+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7867,17 +7933,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 229010,
-          "likes": 4975,
-          "comments": 552,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 318070,
@@ -7954,6 +8009,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 321923,
+          "likes": 7404,
+          "comments": 901,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7969,7 +8035,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T15:24:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7992,17 +8058,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 219311,
-          "likes": 4764,
-          "comments": 529,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 304598,
@@ -8079,6 +8134,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 308105,
+          "likes": 7086,
+          "comments": 863,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8094,7 +8160,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T17:24:48+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8120,17 +8186,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 100548,
-          "likes": 2184,
-          "comments": 242,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 139650,
           "likes": 3212,
@@ -8198,6 +8253,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 139650,
+          "likes": 3212,
+          "comments": 391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 139650,
           "likes": 3212,
           "comments": 391,
@@ -8221,7 +8287,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T14:30:05+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8245,17 +8311,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 138046,
-          "likes": 2999,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 191730,
           "likes": 4410,
@@ -8323,6 +8378,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 191730,
+          "likes": 4410,
+          "comments": 537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 191730,
           "likes": 4410,
           "comments": 537,
@@ -8346,7 +8412,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-21T12:00:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -8370,17 +8436,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 63685,
-          "likes": 1383,
-          "comments": 154,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 88452,
           "likes": 2034,
@@ -8448,6 +8503,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 88452,
+          "likes": 2034,
+          "comments": 248,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 88452,
           "likes": 2034,
           "comments": 248,
@@ -8471,7 +8537,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-21T12:00:06+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -8494,17 +8560,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 76205,
-          "likes": 1655,
-          "comments": 184,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 105840,
@@ -8581,6 +8636,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 105840,
+          "likes": 2434,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8596,7 +8662,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-18T14:30:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8621,17 +8687,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 194594,
-          "likes": 4227,
-          "comments": 469,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 270270,
           "likes": 6216,
@@ -8707,6 +8762,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 270270,
+          "likes": 6216,
+          "comments": 757,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8722,7 +8788,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-17T16:30:29+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8747,17 +8813,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 187942,
-          "likes": 4083,
-          "comments": 453,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 261030,
           "likes": 6004,
@@ -8825,6 +8880,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 261030,
+          "likes": 6004,
+          "comments": 731,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 261030,
           "likes": 6004,
           "comments": 731,
@@ -8848,7 +8914,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-15T12:00:34+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8872,17 +8938,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 121716,
-          "likes": 2644,
-          "comments": 293,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 169050,
           "likes": 3888,
@@ -8950,6 +9005,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 169050,
+          "likes": 3888,
+          "comments": 473,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 169050,
           "likes": 3888,
           "comments": 473,
@@ -8973,7 +9039,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-01T18:00:28+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -8996,17 +9062,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 172973,
-          "likes": 3758,
-          "comments": 417,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 240240,
@@ -9083,6 +9138,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 240240,
+          "likes": 5526,
+          "comments": 673,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9098,7 +9164,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T14:30:35+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -9123,17 +9189,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 94591,
-          "likes": 2055,
-          "comments": 228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 131376,
           "likes": 3022,
@@ -9201,6 +9256,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 131376,
+          "likes": 3022,
+          "comments": 368,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 131376,
           "likes": 3022,
           "comments": 368,
@@ -9224,7 +9290,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-17T12:00:09+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -9247,17 +9313,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 74028,
-          "likes": 1608,
-          "comments": 179,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 102816,
@@ -9334,6 +9389,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 102816,
+          "likes": 2365,
+          "comments": 288,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9349,7 +9415,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T14:30:29+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -9375,17 +9441,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 127976,
-          "likes": 2780,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 177744,
           "likes": 4088,
@@ -9461,6 +9516,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 177744,
+          "likes": 4088,
+          "comments": 498,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9476,7 +9542,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-06-30T14:30:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -9501,17 +9567,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 111283,
-          "likes": 2417,
-          "comments": 268,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 154560,
           "likes": 3555,
@@ -9587,6 +9642,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9602,7 +9668,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-06-24T19:11:19+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -9627,17 +9693,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 98764,
-          "likes": 2145,
-          "comments": 238,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 137172,
           "likes": 3155,
@@ -9713,6 +9768,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9728,7 +9794,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T16:31:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -9753,17 +9819,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 61316,
-          "likes": 1332,
-          "comments": 148,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 85161,
@@ -9840,6 +9895,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 122957,
+          "likes": 2828,
+          "comments": 344,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9855,7 +9921,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T04:52:14+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -9879,17 +9945,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 75068,
-          "likes": 1631,
-          "comments": 181,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 104261,
@@ -9966,6 +10021,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 119093,
+          "likes": 2739,
+          "comments": 333,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9981,7 +10047,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T20:34:51+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10005,17 +10071,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 103634,
-          "likes": 2251,
-          "comments": 250,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 143936,
@@ -10092,6 +10147,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 148662,
+          "likes": 3419,
+          "comments": 416,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10107,7 +10173,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T17:42:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10132,17 +10198,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 73480,
-          "likes": 1596,
-          "comments": 177,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 102056,
@@ -10219,6 +10274,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 104978,
+          "likes": 2414,
+          "comments": 294,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10234,7 +10300,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T15:40:00+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -10260,17 +10326,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 106845,
-          "likes": 2321,
-          "comments": 258,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 148396,
@@ -10347,6 +10402,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 160404,
+          "likes": 3689,
+          "comments": 449,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10362,7 +10428,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T12:00:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10386,17 +10452,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 603883,
-          "likes": 13118,
-          "comments": 1456,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 838727,
@@ -10473,6 +10528,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 889511,
+          "likes": 20459,
+          "comments": 2491,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10488,7 +10554,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T04:00:19+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10512,17 +10578,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 631442,
-          "likes": 13716,
-          "comments": 1523,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 877003,
@@ -10599,6 +10654,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 926428,
+          "likes": 21308,
+          "comments": 2594,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10614,7 +10680,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T00:00:24+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10638,17 +10704,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 664468,
-          "likes": 14434,
-          "comments": 1602,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 922872,
@@ -10725,6 +10780,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 973131,
+          "likes": 22382,
+          "comments": 2725,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10740,7 +10806,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T20:00:19+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10764,17 +10830,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 377939,
-          "likes": 8210,
-          "comments": 911,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 524915,
@@ -10851,6 +10906,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 552566,
+          "likes": 12709,
+          "comments": 1547,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10866,7 +10932,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T16:00:22+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -10891,17 +10957,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 584981,
-          "likes": 12707,
-          "comments": 1411,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 812473,
@@ -10978,6 +11033,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 853912,
+          "likes": 19640,
+          "comments": 2391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10993,7 +11059,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T12:00:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -11017,17 +11083,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 612934,
-          "likes": 13314,
-          "comments": 1478,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 851297,
@@ -11104,6 +11159,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 893372,
+          "likes": 20548,
+          "comments": 2501,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11119,7 +11185,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T04:00:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -11144,17 +11210,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 466085,
-          "likes": 10125,
-          "comments": 1124,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 647340,
@@ -11231,6 +11286,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 677460,
+          "likes": 15582,
+          "comments": 1897,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11246,7 +11312,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T00:00:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -11271,17 +11337,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 638041,
-          "likes": 13860,
-          "comments": 1538,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 886168,
@@ -11358,6 +11413,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 926220,
+          "likes": 21303,
+          "comments": 2593,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11373,7 +11439,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T16:00:19+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -11409,17 +11475,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 38442,
-          "likes": 835,
-          "comments": 92,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 53391,
@@ -11496,6 +11551,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 56114,
+          "likes": 1291,
+          "comments": 157,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11511,7 +11577,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-20T17:00:27+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -11547,17 +11613,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.973Z",
-          "views": 78110,
-          "likes": 1697,
-          "comments": 188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 108486,
           "likes": 2495,
@@ -11633,6 +11688,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11648,7 +11714,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-17T15:00:00+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -11684,17 +11750,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.973Z",
-          "views": 78745,
-          "likes": 1710,
-          "comments": 190,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 109368,
           "likes": 2515,
@@ -11770,6 +11825,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 109368,
+          "likes": 2515,
+          "comments": 306,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11785,7 +11851,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T18:10:22+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -11810,17 +11876,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 91491,
-          "likes": 1988,
-          "comments": 221,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 127071,
@@ -11897,6 +11952,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 137670,
+          "likes": 3166,
+          "comments": 385,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11912,7 +11978,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T19:42:58+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -11991,6 +12057,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 96906,
+          "likes": 2229,
+          "comments": 271,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12006,7 +12083,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T16:20:02+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -12094,6 +12171,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 100460,
+          "likes": 2311,
+          "comments": 281,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12109,7 +12197,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T17:25:47+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -12133,17 +12221,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 84279,
-          "likes": 1831,
-          "comments": 203,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 117054,
@@ -12220,6 +12297,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 171898,
+          "likes": 3954,
+          "comments": 481,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12235,7 +12323,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T17:36:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -12258,17 +12346,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 86251,
-          "likes": 1873,
-          "comments": 208,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 119793,
@@ -12345,6 +12422,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 133711,
+          "likes": 3075,
+          "comments": 374,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12360,7 +12448,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T01:42:09+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -12383,17 +12471,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 87228,
-          "likes": 1894,
-          "comments": 210,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 121150,
@@ -12470,6 +12547,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 132277,
+          "likes": 3042,
+          "comments": 370,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12485,7 +12573,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T03:53:54+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -12509,17 +12597,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 97399,
-          "likes": 2115,
-          "comments": 235,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 135276,
@@ -12596,6 +12673,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 142893,
+          "likes": 3287,
+          "comments": 400,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12611,7 +12699,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T00:45:32+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -12647,17 +12735,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 78051,
-          "likes": 1695,
-          "comments": 188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 108404,
@@ -12734,6 +12811,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 112598,
+          "likes": 2590,
+          "comments": 315,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12749,7 +12837,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-15T20:22:04+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -12785,17 +12873,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 48457,
-          "likes": 1053,
-          "comments": 117,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 67301,
@@ -12872,6 +12949,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 69835,
+          "likes": 1606,
+          "comments": 196,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12887,7 +12975,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-15T15:14:01+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -12912,17 +13000,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 160876,
-          "likes": 3495,
-          "comments": 388,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 223439,
@@ -12999,6 +13076,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 231596,
+          "likes": 5327,
+          "comments": 648,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13014,7 +13102,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-08T14:30:03+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13039,17 +13127,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 98155,
-          "likes": 2132,
-          "comments": 237,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 136326,
@@ -13126,6 +13203,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 138748,
+          "likes": 3191,
+          "comments": 388,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13141,7 +13229,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T14:30:10+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13166,17 +13254,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 203092,
-          "likes": 4412,
-          "comments": 490,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 282072,
@@ -13253,6 +13330,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 282072,
+          "likes": 6488,
+          "comments": 790,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13268,7 +13356,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-28T13:30:03+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -13304,17 +13392,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.973Z",
-          "views": 53343,
-          "likes": 1159,
-          "comments": 128,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 74088,
           "likes": 1704,
@@ -13390,6 +13467,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13405,7 +13493,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-23T13:30:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -13441,17 +13529,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.973Z",
-          "views": 44453,
-          "likes": 966,
-          "comments": 107,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 61740,
           "likes": 1420,
@@ -13527,6 +13604,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13542,7 +13630,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-22T15:30:02+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -13578,17 +13666,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.973Z",
-          "views": 67314,
-          "likes": 1462,
-          "comments": 162,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 93492,
           "likes": 2150,
@@ -13664,6 +13741,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13679,7 +13767,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T00:00:15+00:00",
       "discoveredAt": "2026-10-24T11:03:54.622Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -13759,6 +13847,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 202825,
+          "likes": 4665,
+          "comments": 568,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13774,7 +13873,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T20:30:39+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -13854,6 +13953,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 191860,
+          "likes": 4413,
+          "comments": 537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13869,7 +13979,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T20:00:21+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -13960,6 +14070,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 136883,
+          "likes": 3148,
+          "comments": 383,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13975,7 +14096,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:17:33+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -14077,6 +14198,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 223011,
+          "likes": 5129,
+          "comments": 624,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14092,7 +14224,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T15:00:37+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -14183,6 +14315,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 89830,
+          "likes": 2066,
+          "comments": 252,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14198,7 +14341,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T14:00:26+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -14235,17 +14378,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 117942,
-          "likes": 2562,
-          "comments": 285,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 163808,
@@ -14322,6 +14454,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 192172,
+          "likes": 4420,
+          "comments": 538,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14337,7 +14480,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T11:33:47+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -14363,17 +14506,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 111468,
-          "likes": 2421,
-          "comments": 268,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 154816,
@@ -14450,6 +14582,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 171171,
+          "likes": 3937,
+          "comments": 479,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14465,7 +14608,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T21:17:25+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -14490,17 +14633,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 198059,
-          "likes": 4302,
-          "comments": 477,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 275082,
@@ -14577,6 +14709,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 293294,
+          "likes": 6746,
+          "comments": 821,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14592,7 +14735,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T21:00:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -14618,17 +14761,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 72444,
-          "likes": 1574,
-          "comments": 175,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 100616,
@@ -14705,6 +14837,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 107258,
+          "likes": 2467,
+          "comments": 300,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14720,7 +14863,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T20:30:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -14745,17 +14888,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 172032,
-          "likes": 3737,
-          "comments": 415,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 238934,
@@ -14832,6 +14964,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 249468,
+          "likes": 5738,
+          "comments": 699,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14847,7 +14990,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T21:50:12+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -14872,17 +15015,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 176305,
-          "likes": 3830,
-          "comments": 425,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 244868,
@@ -14959,6 +15091,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 252964,
+          "likes": 5818,
+          "comments": 708,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14974,7 +15117,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-09T14:08:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -15011,17 +15154,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 234145,
-          "likes": 5086,
-          "comments": 565,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 325202,
@@ -15098,6 +15230,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 331445,
+          "likes": 7623,
+          "comments": 928,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15113,7 +15256,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-05-18T20:44:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -15151,17 +15294,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 143338,
-          "likes": 3114,
-          "comments": 345,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 199080,
           "likes": 4579,
@@ -15229,6 +15361,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 199080,
           "likes": 4579,
           "comments": 557,
@@ -15252,7 +15395,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-14T16:10:43+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15276,17 +15419,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 173200,
-          "likes": 3762,
-          "comments": 418,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 240555,
           "likes": 5533,
@@ -15354,6 +15486,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 240555,
+          "likes": 5533,
+          "comments": 674,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 240555,
           "likes": 5533,
           "comments": 674,
@@ -15377,7 +15520,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-05-20T16:00:34+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15401,17 +15544,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 184162,
-          "likes": 4000,
-          "comments": 444,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 255780,
           "likes": 5883,
@@ -15479,6 +15611,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         },
         {
           "at": "2026-10-24T18:48:20.121Z",
+          "views": 255780,
+          "likes": 5883,
+          "comments": 716,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
           "views": 255780,
           "likes": 5883,
           "comments": 716,
@@ -15502,7 +15645,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-03-11T16:23:01+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15525,17 +15668,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 210470,
-          "likes": 4572,
-          "comments": 507,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 292320,
@@ -15612,6 +15744,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 292320,
+          "likes": 6723,
+          "comments": 818,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15627,7 +15770,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T21:41:41+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -15652,17 +15795,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 49834,
-          "likes": 1083,
-          "comments": 120,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 69214,
@@ -15739,6 +15871,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 77833,
+          "likes": 1790,
+          "comments": 218,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15754,7 +15897,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T16:00:04+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -15778,17 +15921,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 110206,
-          "likes": 2394,
-          "comments": 266,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 153064,
@@ -15865,6 +15997,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 165499,
+          "likes": 3806,
+          "comments": 463,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -15880,7 +16023,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T16:37:46+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -15904,17 +16047,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 439343,
-          "likes": 9544,
-          "comments": 1060,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 610198,
@@ -15991,6 +16123,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 617241,
+          "likes": 14197,
+          "comments": 1728,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16006,7 +16149,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-09T16:10:39+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -16030,17 +16173,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 406426,
-          "likes": 8828,
-          "comments": 980,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 564480,
@@ -16117,6 +16249,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 564480,
+          "likes": 12983,
+          "comments": 1581,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16132,7 +16275,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T20:05:56+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -16169,17 +16312,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 67397,
-          "likes": 1464,
-          "comments": 162,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 93607,
@@ -16256,6 +16388,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 146157,
+          "likes": 3362,
+          "comments": 409,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16271,7 +16414,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T12:00:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -16294,17 +16437,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 52492,
-          "likes": 1140,
-          "comments": 126,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 72906,
@@ -16381,6 +16513,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 74938,
+          "likes": 1724,
+          "comments": 210,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16396,7 +16539,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T15:16:35+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -16497,6 +16640,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 46175,
+          "likes": 1062,
+          "comments": 129,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16512,7 +16666,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T13:16:43+00:00",
       "discoveredAt": "2026-10-23T13:27:59.277Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -16611,6 +16765,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 79451,
+          "likes": 1827,
+          "comments": 222,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16626,7 +16791,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T08:32:09+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -16662,17 +16827,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 40313,
-          "likes": 876,
-          "comments": 97,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 55990,
@@ -16749,6 +16903,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 55990,
+          "likes": 1288,
+          "comments": 157,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16764,7 +16929,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T23:09:09+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -16787,17 +16952,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 70021,
-          "likes": 1521,
-          "comments": 169,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 97252,
@@ -16874,6 +17028,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 168221,
+          "likes": 3869,
+          "comments": 471,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -16889,7 +17054,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T14:07:22+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -16913,17 +17078,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 93612,
-          "likes": 2033,
-          "comments": 226,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 130017,
@@ -17000,6 +17154,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 144303,
+          "likes": 3319,
+          "comments": 404,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17015,7 +17180,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T14:00:07+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -17040,17 +17205,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 56687,
-          "likes": 1231,
-          "comments": 136,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 78732,
@@ -17127,6 +17281,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 87367,
+          "likes": 2009,
+          "comments": 245,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17142,7 +17307,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T00:19:37+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17179,17 +17344,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 117840,
-          "likes": 2560,
-          "comments": 284,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 163667,
@@ -17266,6 +17420,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 169982,
+          "likes": 3910,
+          "comments": 476,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17281,7 +17446,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T14:21:26+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17383,6 +17548,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 212089,
+          "likes": 4878,
+          "comments": 594,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17398,7 +17574,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T05:53:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -17421,17 +17597,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 10256,
-          "likes": 223,
-          "comments": 25,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 14244,
@@ -17508,6 +17673,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 54024,
+          "likes": 1243,
+          "comments": 151,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17523,7 +17699,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T22:35:38+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -17559,17 +17735,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 57741,
-          "likes": 1255,
-          "comments": 140,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 80196,
@@ -17646,6 +17811,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 82859,
+          "likes": 1906,
+          "comments": 232,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17661,7 +17837,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-02T14:34:55+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -17684,17 +17860,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 110544,
-          "likes": 2401,
-          "comments": 267,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 153533,
@@ -17771,6 +17936,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 155394,
+          "likes": 3574,
+          "comments": 435,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17786,7 +17962,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T20:00:09+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17823,17 +17999,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 85198,
-          "likes": 1851,
-          "comments": 205,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 118331,
@@ -17910,6 +18075,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 142164,
+          "likes": 3270,
+          "comments": 398,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -17925,7 +18101,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T21:01:00+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -17962,17 +18138,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 128151,
-          "likes": 2784,
-          "comments": 309,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 177987,
@@ -18049,6 +18214,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 183845,
+          "likes": 4228,
+          "comments": 515,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18064,7 +18240,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T20:30:22+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18101,17 +18277,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 109666,
-          "likes": 2382,
-          "comments": 264,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 152314,
@@ -18188,6 +18353,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 156734,
+          "likes": 3605,
+          "comments": 439,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18203,7 +18379,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-07T20:00:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18240,17 +18416,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 123436,
-          "likes": 2681,
-          "comments": 298,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 171439,
@@ -18327,6 +18492,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 174317,
+          "likes": 4009,
+          "comments": 488,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18342,7 +18518,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-30T21:15:15+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -18366,17 +18542,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 179675,
-          "likes": 3903,
-          "comments": 433,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 249549,
@@ -18453,6 +18618,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 252314,
+          "likes": 5803,
+          "comments": 706,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18468,7 +18644,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T13:17:47+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18538,6 +18714,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 120556,
+          "likes": 2773,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18553,7 +18740,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T18:31:50+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18590,17 +18777,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 63320,
-          "likes": 1376,
-          "comments": 153,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 87944,
@@ -18677,6 +18853,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 104978,
+          "likes": 2414,
+          "comments": 294,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18692,7 +18879,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T14:06:57+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18761,6 +18948,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 126765,
+          "likes": 2916,
+          "comments": 355,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18776,7 +18974,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T14:00:26+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18845,6 +19043,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 123436,
+          "likes": 2839,
+          "comments": 346,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18860,7 +19069,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T13:29:03+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -18929,6 +19138,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 132878,
+          "likes": 3056,
+          "comments": 372,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -18944,7 +19164,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T12:53:48+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19013,6 +19233,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 159692,
+          "likes": 3673,
+          "comments": 447,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19028,7 +19259,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T12:34:29+00:00",
       "discoveredAt": "2026-10-24T15:58:16.152Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19097,6 +19328,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 160465,
+          "likes": 3691,
+          "comments": 449,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19112,7 +19354,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T21:20:28+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19204,6 +19446,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 154300,
+          "likes": 3549,
+          "comments": 432,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19219,7 +19472,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:30:33+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19310,6 +19563,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 111259,
+          "likes": 2559,
+          "comments": 312,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19325,7 +19589,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T16:00:35+00:00",
       "discoveredAt": "2026-10-23T18:22:47.813Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19427,6 +19691,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 129826,
+          "likes": 2986,
+          "comments": 364,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19442,7 +19717,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T13:39:07+00:00",
       "discoveredAt": "2026-10-23T13:27:59.277Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19555,6 +19830,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 185886,
+          "likes": 4275,
+          "comments": 520,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19570,7 +19856,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T12:00:08+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -19595,17 +19881,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 56185,
-          "likes": 1221,
-          "comments": 135,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 78035,
@@ -19682,6 +19957,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 105451,
+          "likes": 2425,
+          "comments": 295,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19697,7 +19983,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T14:00:06+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19734,17 +20020,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 157005,
-          "likes": 3410,
-          "comments": 379,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 218063,
@@ -19821,6 +20096,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 235364,
+          "likes": 5413,
+          "comments": 659,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19836,7 +20122,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-11T14:00:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -19873,17 +20159,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.972Z",
-          "views": 172670,
-          "likes": 3751,
-          "comments": 416,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 239819,
@@ -19960,6 +20235,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 245303,
+          "likes": 5642,
+          "comments": 687,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -19975,7 +20261,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T14:30:25+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -20000,17 +20286,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 89325,
-          "likes": 1940,
-          "comments": 215,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 124063,
@@ -20087,6 +20362,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 145800,
+          "likes": 3353,
+          "comments": 408,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20102,7 +20388,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T21:35:06+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -20126,17 +20412,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 135183,
-          "likes": 2936,
-          "comments": 326,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 187754,
@@ -20213,6 +20488,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 204097,
+          "likes": 4694,
+          "comments": 571,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20228,7 +20514,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T12:00:21+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20253,17 +20539,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 676675,
-          "likes": 14699,
-          "comments": 1632,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 939827,
@@ -20340,6 +20615,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 966016,
+          "likes": 22218,
+          "comments": 2705,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20355,7 +20641,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T18:30:29+00:00",
       "discoveredAt": "2026-10-24T18:48:20.121Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -20402,6 +20688,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 127523,
+          "likes": 2933,
+          "comments": 357,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20417,7 +20714,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T17:31:40+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -20442,17 +20739,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 95053,
-          "likes": 2064,
-          "comments": 229,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 132018,
@@ -20529,6 +20815,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 156936,
+          "likes": 3610,
+          "comments": 439,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20544,7 +20841,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T14:00:01+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -20569,17 +20866,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 114584,
-          "likes": 2489,
-          "comments": 277,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 159145,
@@ -20656,6 +20942,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 176598,
+          "likes": 4062,
+          "comments": 494,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20671,7 +20968,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T22:05:37+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20749,6 +21046,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 670640,
+          "likes": 15425,
+          "comments": 1878,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20764,7 +21072,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T18:20:02+00:00",
       "discoveredAt": "2026-10-23T23:09:52.988Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20842,6 +21150,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 884371,
+          "likes": 20341,
+          "comments": 2476,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20857,7 +21176,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T22:05:10+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -20881,17 +21200,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.965Z",
-          "views": 450805,
-          "likes": 9793,
-          "comments": 1087,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 626118,
@@ -20968,6 +21276,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 759743,
+          "likes": 17474,
+          "comments": 2127,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -20983,7 +21302,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-08T13:58:27+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -21008,17 +21327,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.966Z",
-          "views": 381024,
-          "likes": 8277,
-          "comments": 919,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 529200,
           "likes": 12172,
@@ -21094,6 +21402,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 529200,
+          "likes": 12172,
+          "comments": 1482,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21109,7 +21428,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-02-27T16:48:52+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -21134,17 +21453,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 238972,
-          "likes": 5191,
-          "comments": 576,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 331905,
           "likes": 7634,
@@ -21220,6 +21528,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 331905,
+          "likes": 7634,
+          "comments": 929,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21235,7 +21554,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-02T05:33:37+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21259,17 +21578,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 141006,
-          "likes": 3063,
-          "comments": 340,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 195841,
@@ -21346,6 +21654,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 198167,
+          "likes": 4558,
+          "comments": 555,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21361,7 +21680,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T22:00:47+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21385,17 +21704,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 124833,
-          "likes": 2712,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 173379,
@@ -21472,6 +21780,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 175404,
+          "likes": 4034,
+          "comments": 491,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21487,7 +21806,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T22:00:18+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21511,17 +21830,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 74281,
-          "likes": 1614,
-          "comments": 179,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 103168,
@@ -21598,6 +21906,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 104373,
+          "likes": 2401,
+          "comments": 292,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21613,7 +21932,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T21:59:48+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21637,17 +21956,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 115548,
-          "likes": 2510,
-          "comments": 278,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 160484,
@@ -21724,6 +22032,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 162358,
+          "likes": 3734,
+          "comments": 455,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21739,7 +22058,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T21:59:19+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -21763,17 +22082,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.967Z",
-          "views": 128961,
-          "likes": 2802,
-          "comments": 311,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 179112,
@@ -21850,6 +22158,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 181204,
+          "likes": 4168,
+          "comments": 507,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21865,7 +22184,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T11:00:20+00:00",
       "discoveredAt": "2026-10-23T13:27:59.277Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -21966,6 +22285,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 86605,
+          "likes": 1992,
+          "comments": 242,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -21981,7 +22311,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T20:56:33+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -22019,17 +22349,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 49729,
-          "likes": 1081,
-          "comments": 120,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 69068,
@@ -22106,6 +22425,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 110456,
+          "likes": 2540,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22121,7 +22451,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T14:00:10+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -22145,17 +22475,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.968Z",
-          "views": 38547,
-          "likes": 837,
-          "comments": 93,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 53538,
@@ -22232,6 +22551,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 74255,
+          "likes": 1708,
+          "comments": 208,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22247,7 +22577,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T11:00:01+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22272,17 +22602,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.969Z",
-          "views": 97088,
-          "likes": 2109,
-          "comments": 234,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 134844,
@@ -22359,6 +22678,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 180129,
+          "likes": 4143,
+          "comments": 504,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22374,7 +22704,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T11:00:13+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22399,17 +22729,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 98340,
-          "likes": 2136,
-          "comments": 237,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 136584,
@@ -22486,6 +22805,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 158668,
+          "likes": 3649,
+          "comments": 444,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22501,7 +22831,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T20:31:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -22539,17 +22869,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         ]
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.971Z",
-          "views": 83020,
-          "likes": 1803,
-          "comments": 200,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 115306,
@@ -22626,6 +22945,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 129376,
+          "likes": 2976,
+          "comments": 362,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22641,7 +22971,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T11:00:23+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22667,17 +22997,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 127622,
-          "likes": 2772,
-          "comments": 308,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 177253,
@@ -22754,6 +23073,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 195821,
+          "likes": 4504,
+          "comments": 548,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22769,7 +23099,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T17:52:03+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -22792,17 +23122,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 61942,
-          "likes": 1346,
-          "comments": 149,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 86030,
@@ -22879,6 +23198,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 93179,
+          "likes": 2143,
+          "comments": 261,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -22894,7 +23224,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T11:00:23+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -22919,17 +23249,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 104140,
-          "likes": 2262,
-          "comments": 251,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 144639,
@@ -23006,6 +23325,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 155725,
+          "likes": 3582,
+          "comments": 436,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23021,7 +23351,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T11:00:32+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23046,17 +23376,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 174551,
-          "likes": 3792,
-          "comments": 421,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 242432,
@@ -23133,6 +23452,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 252451,
+          "likes": 5806,
+          "comments": 707,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23148,7 +23478,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-15T13:25:29+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -23171,17 +23501,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 108932,
-          "likes": 2366,
-          "comments": 263,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 151295,
@@ -23258,6 +23577,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 156759,
+          "likes": 3605,
+          "comments": 439,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23273,7 +23603,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-14T11:00:31+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23298,17 +23628,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 181881,
-          "likes": 3951,
-          "comments": 438,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 252613,
@@ -23385,6 +23704,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 260498,
+          "likes": 5991,
+          "comments": 729,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -23400,7 +23730,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T11:00:20+00:00",
       "discoveredAt": "2026-10-23T07:33:50.359Z",
-      "processedAt": "2026-10-24T18:48:20.121Z",
+      "processedAt": "2026-10-24T22:29:03.995Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -23425,17 +23755,6 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "sourceVerified": true
       },
       "metrics": [
-        {
-          "at": "2026-10-23T01:33:52.970Z",
-          "views": 97628,
-          "likes": 2121,
-          "comments": 236,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
         {
           "at": "2026-10-23T07:33:50.359Z",
           "views": 135595,
@@ -23507,6 +23826,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "views": 139023,
           "likes": 3198,
           "comments": 389,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-10-24T22:29:03.995Z",
+          "views": 139355,
+          "likes": 3205,
+          "comments": 390,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
