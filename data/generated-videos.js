@@ -1,21 +1,21 @@
 window.__ALPHA_RADAR_LIVE_DATA__ = {
-  "generatedAt": "2026-11-05T23:39:00.052Z",
+  "generatedAt": "2026-11-06T15:56:07.559Z",
   "diagnostics": {
     "version": "data-pipeline-v2",
-    "generatedAt": "2026-11-05T23:39:00.052Z",
+    "generatedAt": "2026-11-06T15:56:07.559Z",
     "schedule": "every_2_hours",
     "mode": "youtube_rss_with_estimated_metrics",
     "youtubeApiEnabled": false,
     "sourceCount": 40,
-    "successfulSources": 32,
-    "failedSources": 8,
-    "fetchedVideos": 435,
-    "acceptedVideos": 163,
-    "filteredVideos": 272,
-    "outputVideos": 163,
+    "successfulSources": 34,
+    "failedSources": 6,
+    "fetchedVideos": 465,
+    "acceptedVideos": 181,
+    "filteredVideos": 284,
+    "outputVideos": 181,
     "maxPerSource": 8,
     "apiStatsCount": 0,
-    "directLinks": 163,
+    "directLinks": 181,
     "qualityNote": "当前未配置 YOUTUBE_API_KEY，热度为频道基线估算；标题、发布时间、封面和原视频链接来自 YouTube RSS。"
   },
   "sources": [
@@ -330,12 +330,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
         "OpenAI",
         "Tesla"
       ],
+      "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
       "strict": true,
-      "quality": "error",
-      "fetchedCount": 0,
-      "acceptedCount": 0,
-      "filteredCount": 0,
-      "error": "404 Not Found"
+      "quality": "ok",
+      "fetchedCount": 15,
+      "acceptedCount": 8,
+      "filteredCount": 7,
+      "error": ""
     },
     {
       "platform": "YouTube",
@@ -456,12 +457,13 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "trackedAssets": [
         "AI"
       ],
+      "channelId": "UCxIJaCMEptJjxmmQgGFsnCg",
       "strict": true,
-      "quality": "error",
-      "fetchedCount": 0,
-      "acceptedCount": 0,
-      "filteredCount": 0,
-      "error": "500 Internal Server Error"
+      "quality": "ok",
+      "fetchedCount": 15,
+      "acceptedCount": 8,
+      "filteredCount": 7,
+      "error": ""
     },
     {
       "platform": "YouTube",
@@ -776,8 +778,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 3,
-      "filteredCount": 12,
+      "acceptedCount": 4,
+      "filteredCount": 11,
       "error": ""
     },
     {
@@ -1002,8 +1004,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 3,
-      "filteredCount": 12,
+      "acceptedCount": 4,
+      "filteredCount": 11,
       "error": ""
     },
     {
@@ -1035,8 +1037,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 7,
-      "filteredCount": 8,
+      "acceptedCount": 8,
+      "filteredCount": 7,
       "error": ""
     },
     {
@@ -1068,8 +1070,8 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "strict": true,
       "quality": "ok",
       "fetchedCount": 15,
-      "acceptedCount": 5,
-      "filteredCount": 10,
+      "acceptedCount": 4,
+      "filteredCount": 11,
       "error": ""
     },
     {
@@ -1296,6 +1298,330 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
   ],
   "videos": [
     {
+      "id": "ethereum-foundation-jzEKNeqCo7E",
+      "title": "Oops, Your EOA Has Code Now: How EIP-7702 Broke Ethereum's Old Security Assumptions",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=jzEKNeqCo7E",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T08:17:44+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/jzEKNeqCo7E/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Oops, Your EOA Has Code Now: How EIP-7702 Broke Ethereum's Old Security Assumptions",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 104818,
+          "likes": 2277,
+          "comments": 253,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 145581,
+          "likes": 3348,
+          "comments": 408,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-2IJFsPLH9Zg",
+      "title": "Reimagining the AMM with 1inch Aqua | Vadim Fadeev at ETHGlobal Mumbai 2026",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=2IJFsPLH9Zg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T00:36:04+00:00",
+      "discoveredAt": "2026-11-05T09:30:59.426Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/2IJFsPLH9Zg/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Reimagining the AMM with 1inch Aqua | Vadim Fadeev at ETHGlobal Mumbai 2026",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-05T03:31:02.215Z",
+          "views": 39008,
+          "likes": 847,
+          "comments": 94,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T09:30:59.426Z",
+          "views": 54178,
+          "likes": 1246,
+          "comments": 152,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T18:01:55.634Z",
+          "views": 56522,
+          "likes": 1300,
+          "comments": 158,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T23:39:00.052Z",
+          "views": 57878,
+          "likes": 1331,
+          "comments": 162,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 57878,
+          "likes": 1331,
+          "comments": 162,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-kCvgaZNkd1s",
+      "title": "Building with Anon-RPC and the alt mempool | Andrew Morris, Pierre Daix-Moreux at ETHGlobal Mumbai",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=kCvgaZNkd1s",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-05T23:59:22+00:00",
+      "discoveredAt": "2026-11-05T09:30:59.426Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/kCvgaZNkd1s/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Building with Anon-RPC and the alt mempool | Andrew Morris, Pierre Daix-Moreux at ETHGlobal Mumbai",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-05T03:31:02.215Z",
+          "views": 77500,
+          "likes": 1684,
+          "comments": 187,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T09:30:59.426Z",
+          "views": 107639,
+          "likes": 2476,
+          "comments": 301,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T18:01:55.634Z",
+          "views": 112292,
+          "likes": 2583,
+          "comments": 314,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T23:39:00.052Z",
+          "views": 114986,
+          "likes": 2645,
+          "comments": 322,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 114986,
+          "likes": 2645,
+          "comments": 322,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethglobal-7WpEr8jlqAo",
+      "title": "Build Apps Powered by Smart Contracts with Arc Studio | Corey Cooper at ETHGlobal Mumbai 2026",
+      "person": "Ethereum builders",
+      "investor": "",
+      "sourceId": "ethglobal",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=7WpEr8jlqAo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-05T23:59:07+00:00",
+      "discoveredAt": "2026-11-05T18:01:55.634Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/7WpEr8jlqAo/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 ETHGlobal：Build Apps Powered by Smart Contracts with Arc Studio | Corey Cooper at ETHGlobal Mumbai 2026",
+      "topics": [
+        "Hackathons",
+        "Ethereum Apps",
+        "Protocol"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 92,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-05T12:01:59.663Z",
+          "views": 78160,
+          "likes": 1698,
+          "comments": 188,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T18:01:55.634Z",
+          "views": 108556,
+          "likes": 2497,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T23:39:00.052Z",
+          "views": 111151,
+          "likes": 2556,
+          "comments": 311,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 111151,
+          "likes": 2556,
+          "comments": 311,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
       "id": "ethglobal-ErpcMi1ThYE",
       "title": "How to Navigate the Uniswap Stack | Angela Ocando at ETHGlobal Mumbai 2026",
       "person": "Ethereum builders",
@@ -1307,7 +1633,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T23:26:04+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1362,6 +1688,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 94041,
+          "likes": 2163,
+          "comments": 263,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1377,7 +1714,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T23:06:51+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1432,6 +1769,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 86355,
+          "likes": 1986,
+          "comments": 242,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1447,7 +1795,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T22:45:59+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1492,6 +1840,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 55695,
+          "likes": 1281,
+          "comments": 156,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1507,7 +1866,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T22:23:16+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1552,6 +1911,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 54425,
+          "likes": 1252,
+          "comments": 152,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1567,7 +1937,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T17:06:34+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -1622,211 +1992,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-O_KXSglxoqE",
-      "title": "Tragedy of the Ethereum Security Commons",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=O_KXSglxoqE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T12:01:11+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i4.ytimg.com/vi/O_KXSglxoqE/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Tragedy of the Ethereum Security Commons",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 86676,
-          "likes": 1883,
-          "comments": 209,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 120383,
-          "likes": 2769,
-          "comments": 337,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 156744,
-          "likes": 3605,
-          "comments": 439,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-IKSHdxKRVzM",
-      "title": "Ream: BlackBox Interop Testing Post Quantam Lean Ethereum",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=IKSHdxKRVzM",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T12:00:50+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/IKSHdxKRVzM/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Ream: BlackBox Interop Testing Post Quantam Lean Ethereum",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 46025,
-          "likes": 1000,
-          "comments": 111,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 63923,
-          "likes": 1470,
-          "comments": 179,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 83210,
-          "likes": 1914,
-          "comments": 233,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-F7ija43YX-k",
-      "title": "Beyond Crypto: Only together are we strong",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=F7ija43YX-k",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T11:34:08+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/F7ija43YX-k/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Beyond Crypto: Only together are we strong",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 84632,
-          "likes": 1839,
-          "comments": 204,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 117544,
-          "likes": 2704,
-          "comments": 329,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 150355,
-          "likes": 3458,
-          "comments": 421,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 62709,
+          "likes": 1442,
+          "comments": 176,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -1847,7 +2018,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T02:32:21+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1914,6 +2085,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 1008518,
+          "likes": 23196,
+          "comments": 2824,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -1929,7 +2111,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T17:27:07+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -1997,6 +2179,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 1130022,
+          "likes": 25991,
+          "comments": 3164,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2012,7 +2205,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T18:04:51+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2079,6 +2272,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 831454,
+          "likes": 19123,
+          "comments": 2328,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2094,7 +2298,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T16:46:37+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2162,233 +2366,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-2IJFsPLH9Zg",
-      "title": "Reimagining the AMM with 1inch Aqua | Vadim Fadeev at ETHGlobal Mumbai 2026",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=2IJFsPLH9Zg",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-03T11:31:20+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/2IJFsPLH9Zg/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Reimagining the AMM with 1inch Aqua | Vadim Fadeev at ETHGlobal Mumbai 2026",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.215Z",
-          "views": 39008,
-          "likes": 847,
-          "comments": 94,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 54178,
-          "likes": 1246,
-          "comments": 152,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 56522,
-          "likes": 1300,
-          "comments": 158,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 57878,
-          "likes": 1331,
-          "comments": 162,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-kCvgaZNkd1s",
-      "title": "Building with Anon-RPC and the alt mempool | Andrew Morris, Pierre Daix-Moreux at ETHGlobal Mumbai",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=kCvgaZNkd1s",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-03T11:29:54+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/kCvgaZNkd1s/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Building with Anon-RPC and the alt mempool | Andrew Morris, Pierre Daix-Moreux at ETHGlobal Mumbai",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.215Z",
-          "views": 77500,
-          "likes": 1684,
-          "comments": 187,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 107639,
-          "likes": 2476,
-          "comments": 301,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 112292,
-          "likes": 2583,
-          "comments": 314,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 114986,
-          "likes": 2645,
-          "comments": 322,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethglobal-7WpEr8jlqAo",
-      "title": "Build Apps Powered by Smart Contracts with Arc Studio | Corey Cooper at ETHGlobal Mumbai 2026",
-      "person": "Ethereum builders",
-      "investor": "",
-      "sourceId": "ethglobal",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=7WpEr8jlqAo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-03T11:19:33+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/7WpEr8jlqAo/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 ETHGlobal：Build Apps Powered by Smart Contracts with Arc Studio | Corey Cooper at ETHGlobal Mumbai 2026",
-      "topics": [
-        "Hackathons",
-        "Ethereum Apps",
-        "Protocol"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 92,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 78160,
-          "likes": 1698,
-          "comments": 188,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 108556,
-          "likes": 2497,
-          "comments": 304,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 111151,
-          "likes": 2556,
-          "comments": 311,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 1235123,
+          "likes": 28408,
+          "comments": 3458,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -2409,7 +2392,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-02T14:54:02+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2475,6 +2458,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 103193,
+          "likes": 2373,
+          "comments": 289,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2490,7 +2484,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-31T14:31:34+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2556,6 +2550,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 62911,
+          "likes": 1447,
+          "comments": 176,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2571,7 +2576,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T14:20:28+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2639,6 +2644,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 135316,
+          "likes": 3112,
+          "comments": 379,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2654,7 +2670,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T20:17:12+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -2720,6 +2736,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 86796,
+          "likes": 1996,
+          "comments": 243,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2735,7 +2762,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T16:38:17+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2803,6 +2830,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 365141,
+          "likes": 8398,
+          "comments": 1022,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2818,7 +2856,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T16:38:14+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2886,6 +2924,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 610236,
+          "likes": 14035,
+          "comments": 1709,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2901,7 +2950,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T15:58:20+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -2970,6 +3019,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 695395,
+          "likes": 15994,
+          "comments": 1947,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -2985,7 +3045,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T15:58:17+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -3053,6 +3113,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 625356,
+          "likes": 14383,
+          "comments": 1751,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3068,7 +3139,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-28T14:00:35+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -3147,6 +3218,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 198660,
+          "likes": 4569,
+          "comments": 556,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3162,7 +3244,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-23T15:23:38+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -3230,6 +3312,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 534240,
+          "likes": 12288,
+          "comments": 1496,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3245,7 +3338,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-02T20:50:24+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -3313,6 +3406,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 119521,
+          "likes": 2749,
+          "comments": 335,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3328,7 +3432,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-31T03:41:20+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -3396,6 +3500,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 106712,
+          "likes": 2454,
+          "comments": 299,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3411,7 +3526,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T15:48:44+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -3477,6 +3592,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 165493,
+          "likes": 3806,
+          "comments": 463,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3492,7 +3618,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T19:34:35+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -3560,84 +3686,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "latent-space-MRQTlwcW-aQ",
-      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
-      "person": "AI builders",
-      "investor": "",
-      "sourceId": "latent-space",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=MRQTlwcW-aQ",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-27T18:37:32+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "founderInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/MRQTlwcW-aQ/hqdefault.jpg",
-      "summary": "科技信号，来自 Latent Space：How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
-      "topics": [
-        "AI Engineering",
-        "Agents",
-        "LLM Apps",
-        "Foundation Models"
-      ],
-      "assets": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "relevance": 88,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.214Z",
-          "views": 113012,
-          "likes": 2455,
-          "comments": 272,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 156961,
-          "likes": 3610,
-          "comments": 439,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 158142,
-          "likes": 3637,
-          "comments": 443,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 158895,
-          "likes": 3655,
-          "comments": 445,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 75433,
+          "likes": 1735,
+          "comments": 211,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -3658,7 +3712,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T19:19:17+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -3724,6 +3778,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 170022,
+          "likes": 3911,
+          "comments": 476,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3739,7 +3804,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T14:28:10+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -3806,6 +3871,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 110742,
+          "likes": 2547,
+          "comments": 310,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3821,7 +3897,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T11:00:32+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -3878,6 +3954,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 121531,
+          "likes": 2795,
+          "comments": 340,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3893,7 +3980,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T11:00:35+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -3961,6 +4048,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 142869,
+          "likes": 3286,
+          "comments": 400,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -3976,7 +4074,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T21:34:59+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4044,6 +4142,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 120616,
+          "likes": 2774,
+          "comments": 338,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4059,7 +4168,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T20:05:47+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4127,6 +4236,209 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 197522,
+          "likes": 4543,
+          "comments": 553,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-5_5NqBB4haM",
+      "title": "Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=5_5NqBB4haM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T14:38:13+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/5_5NqBB4haM/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 80,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 40255,
+          "likes": 874,
+          "comments": 97,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 55910,
+          "likes": 1286,
+          "comments": 157,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud-tech-o02SsSISE8o",
+      "title": "New Way Now: Yahoo Mail transforms 350M inboxes with Google Cloud Consulting & AI",
+      "person": "Thomas Kurian",
+      "investor": "",
+      "sourceId": "google-cloud-tech",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=o02SsSISE8o",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T15:10:54+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/o02SsSISE8o/hqdefault.jpg",
+      "summary": "科技信号，来自 Google Cloud Tech：New Way Now: Yahoo Mail transforms 350M inboxes with Google Cloud Consulting & AI",
+      "topics": [
+        "Gemini",
+        "Cloud AI",
+        "Enterprise AI"
+      ],
+      "assets": [
+        "GOOGL",
+        "Gemini"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.827Z",
+          "views": 13182,
+          "likes": 286,
+          "comments": 32,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 18308,
+          "likes": 421,
+          "comments": 51,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-pPeR0bMMKMM",
+      "title": "Domu is AI that Negotiates",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=pPeR0bMMKMM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T15:00:11+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/pPeR0bMMKMM/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Domu is AI that Negotiates",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 19439,
+          "likes": 422,
+          "comments": 47,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 26999,
+          "likes": 621,
+          "comments": 76,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4142,7 +4454,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T17:00:25+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4199,6 +4511,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 90985,
+          "likes": 2093,
+          "comments": 255,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4214,7 +4537,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T05:37:25+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4281,6 +4604,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 153555,
+          "likes": 3532,
+          "comments": 430,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4296,7 +4630,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T18:14:06+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -4363,6 +4697,76 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 81412,
+          "likes": 1872,
+          "comments": 228,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-eN92Oatzzks",
+      "title": "Stop Wasting AI Tokens",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=eN92Oatzzks",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-04T17:00:39+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/eN92Oatzzks/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Stop Wasting AI Tokens",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 102493,
+          "likes": 2226,
+          "comments": 247,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 142352,
+          "likes": 3274,
+          "comments": 399,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4378,7 +4782,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T16:00:22+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4445,6 +4849,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 122146,
+          "likes": 2809,
+          "comments": 342,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4460,7 +4875,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T17:00:05+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4527,6 +4942,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 143834,
+          "likes": 3308,
+          "comments": 403,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4542,7 +4968,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T20:16:48+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4610,6 +5036,76 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 173280,
+          "likes": 3985,
+          "comments": 485,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-5NRNqjlmnKQ",
+      "title": "Building AI for the $650B Home Services Market",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=5NRNqjlmnKQ",
+      "linkStatus": "verified",
+      "publishedAt": "2026-10-29T19:11:34+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/5NRNqjlmnKQ/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Building AI for the $650B Home Services Market",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 143027,
+          "likes": 3107,
+          "comments": 345,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 198648,
+          "likes": 4569,
+          "comments": 556,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4625,7 +5121,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T13:43:51+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4693,6 +5189,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 110392,
+          "likes": 2539,
+          "comments": 309,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4708,7 +5215,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T21:39:36+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4776,36 +5283,46 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 160068,
+          "likes": 3682,
+          "comments": 448,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
     {
-      "id": "google-cloud-tech-DCEdDAx7cg0",
-      "title": "Engage Humans and AI Simultaneously with Ace by Knotch on Google Cloud",
-      "person": "Thomas Kurian",
+      "id": "y-combinator-e1NQKzBXfM8",
+      "title": "The AI Billing Stack for Healthcare",
+      "person": "Garry Tan",
       "investor": "",
-      "sourceId": "google-cloud-tech",
+      "sourceId": "y-combinator",
       "domain": "AI",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=DCEdDAx7cg0",
+      "originalUrl": "https://www.youtube.com/watch?v=e1NQKzBXfM8",
       "linkStatus": "verified",
-      "publishedAt": "2026-10-28T15:46:24+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "publishedAt": "2026-10-27T14:00:11+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/DCEdDAx7cg0/hqdefault.jpg",
-      "summary": "科技信号，来自 Google Cloud Tech：Engage Humans and AI Simultaneously with Ace by Knotch on Google Cloud",
+      "thumbnail": "https://i2.ytimg.com/vi/e1NQKzBXfM8/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：The AI Billing Stack for Healthcare",
       "topics": [
-        "Gemini",
-        "Cloud AI",
-        "Enterprise AI"
+        "AI Startups",
+        "Founders",
+        "Product"
       ],
       "assets": [
-        "GOOGL",
-        "Gemini"
+        "AI"
       ],
       "relevance": 76,
       "quality": {
@@ -4816,10 +5333,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-11-05T03:31:02.214Z",
-          "views": 125728,
-          "likes": 2731,
-          "comments": 303,
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 126942,
+          "likes": 2757,
+          "comments": 306,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -4827,32 +5344,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 174622,
-          "likes": 4016,
-          "comments": 489,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 176111,
-          "likes": 4051,
-          "comments": 493,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 177058,
-          "likes": 4072,
-          "comments": 496,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 176309,
+          "likes": 4055,
+          "comments": 494,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -4873,7 +5368,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-26T20:22:45+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -4941,6 +5436,76 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 246041,
+          "likes": 5659,
+          "comments": 689,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-fioqpxkOV1A",
+      "title": "AI Trade School for Healthcare",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=fioqpxkOV1A",
+      "linkStatus": "verified",
+      "publishedAt": "2026-10-21T17:00:31+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/fioqpxkOV1A/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：AI Trade School for Healthcare",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 109707,
+          "likes": 2383,
+          "comments": 265,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 152371,
+          "likes": 3505,
+          "comments": 427,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -4956,7 +5521,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T12:00:07+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5023,6 +5588,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 175564,
+          "likes": 4038,
+          "comments": 492,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5038,7 +5614,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-19T12:00:20+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -5104,6 +5680,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 70326,
+          "likes": 1617,
+          "comments": 197,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5119,7 +5706,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-06T18:01:00+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5186,6 +5773,136 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 233772,
+          "likes": 5377,
+          "comments": 655,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-kDLji2s7LV4",
+      "title": "Building AI Agents for Everyone",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=kDLji2s7LV4",
+      "linkStatus": "verified",
+      "publishedAt": "2026-10-02T14:30:34+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/kDLji2s7LV4/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：Building AI Agents for Everyone",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product",
+        "AI Agents"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 236174,
+          "likes": 5130,
+          "comments": 569,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 328020,
+          "likes": 7544,
+          "comments": 918,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-0-g2-PRrOdw",
+      "title": "The Training Ground for AI Knowledge Workers",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=0-g2-PRrOdw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-10-01T15:24:13+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/0-g2-PRrOdw/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：The Training Ground for AI Knowledge Workers",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 76,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 224532,
+          "likes": 4878,
+          "comments": 541,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 311850,
+          "likes": 7173,
+          "comments": 873,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5201,7 +5918,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-25T17:24:48+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5269,6 +5986,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 139650,
+          "likes": 3212,
+          "comments": 391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5284,7 +6012,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-21T12:00:20+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -5350,6 +6078,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 88452,
+          "likes": 2034,
+          "comments": 248,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5365,7 +6104,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-21T12:00:06+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -5431,6 +6170,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 105840,
+          "likes": 2434,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5446,7 +6196,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-21T14:30:35+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5513,6 +6263,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 131376,
+          "likes": 3022,
+          "comments": 368,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5528,7 +6289,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-11T14:30:29+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5596,6 +6357,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 177744,
+          "likes": 4088,
+          "comments": 498,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5611,7 +6383,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-06-30T14:30:33+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5678,6 +6450,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 154560,
+          "likes": 3555,
+          "comments": 433,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5693,7 +6476,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-06-24T19:11:19+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -5760,6 +6543,77 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 137172,
+          "likes": 3155,
+          "comments": 384,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "latent-space-3nAV2s4GYbs",
+      "title": "Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich",
+      "person": "AI builders",
+      "investor": "",
+      "sourceId": "latent-space",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=3nAV2s4GYbs",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T15:06:02+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/3nAV2s4GYbs/hqdefault.jpg",
+      "summary": "科技信号，来自 Latent Space：Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich",
+      "topics": [
+        "AI Engineering",
+        "Agents",
+        "LLM Apps"
+      ],
+      "assets": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "relevance": 74,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 13827,
+          "likes": 301,
+          "comments": 33,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 19204,
+          "likes": 442,
+          "comments": 54,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5775,7 +6629,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T10:32:51+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -5842,6 +6696,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 115823,
+          "likes": 2664,
+          "comments": 324,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5857,7 +6722,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-31T16:00:03+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -5924,6 +6789,633 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 149533,
+          "likes": 3439,
+          "comments": 419,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "coindesk-5767G4d1iEg",
+      "title": "Robinhood's Crypto Chain Out-Earned Ethereum in Network Revenue Last Quarter, Exec Says",
+      "person": "Crypto leaders",
+      "investor": "",
+      "sourceId": "coindesk",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=5767G4d1iEg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T14:00:07+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/5767G4d1iEg/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 CoinDesk：Robinhood's Crypto Chain Out-Earned Ethereum in Network Revenue Last Quarter, Exec Says",
+      "topics": [
+        "Crypto Markets",
+        "Regulation",
+        "Institutions",
+        "Ethereum L2"
+      ],
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.830Z",
+          "views": 20838,
+          "likes": 453,
+          "comments": 50,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 28942,
+          "likes": 666,
+          "comments": 81,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-0WZ8zq77RkE",
+      "title": "Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=0WZ8zq77RkE",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T11:38:52+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/0WZ8zq77RkE/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 96,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 91847,
+          "likes": 1995,
+          "comments": 221,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 127565,
+          "likes": 2934,
+          "comments": 357,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-2O6wJnCGNdI",
+      "title": "Navier-Stokes explained by Mathematician | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=2O6wJnCGNdI",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-04T17:00:13+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/2O6wJnCGNdI/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Navier-Stokes explained by Mathematician | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 395191,
+          "likes": 8584,
+          "comments": 953,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 548877,
+          "likes": 12624,
+          "comments": 1537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-QsUeQ7DRS1M",
+      "title": "How AI changes education: Should kids still do homework? | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=QsUeQ7DRS1M",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-04T13:00:12+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/QsUeQ7DRS1M/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：How AI changes education: Should kids still do homework? | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 442540,
+          "likes": 9613,
+          "comments": 1067,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 614639,
+          "likes": 14137,
+          "comments": 1721,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-GvY4x4LOfFU",
+      "title": "The threat of AI to human civilization | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=GvY4x4LOfFU",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-04T05:00:10+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/GvY4x4LOfFU/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：The threat of AI to human civilization | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 422068,
+          "likes": 9168,
+          "comments": 1017,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 586205,
+          "likes": 13483,
+          "comments": 1641,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-Kw7THrfbA5U",
+      "title": "Advice for young people in the age of AI | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=Kw7THrfbA5U",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-04T01:00:10+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/Kw7THrfbA5U/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Advice for young people in the age of AI | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 527667,
+          "likes": 11462,
+          "comments": 1272,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 732871,
+          "likes": 16856,
+          "comments": 2052,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-K1v_POHkQb8",
+      "title": "What Grigori Perelman thinks about AI solving mathematics | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=K1v_POHkQb8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-03T21:00:09+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/K1v_POHkQb8/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：What Grigori Perelman thinks about AI solving mathematics | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 434987,
+          "likes": 9449,
+          "comments": 1049,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 604149,
+          "likes": 13895,
+          "comments": 1692,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-JLSY2_7LaM8",
+      "title": "Why AI works so well? - The unreasonable effectiveness of LLMs | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=JLSY2_7LaM8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-03T17:00:15+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/JLSY2_7LaM8/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Why AI works so well? - The unreasonable effectiveness of LLMs | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics",
+        "Foundation Models"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 440885,
+          "likes": 9577,
+          "comments": 1063,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 612340,
+          "likes": 14084,
+          "comments": 1715,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-3YaE5e4PXOk",
+      "title": "Infinity explained: It broke mathematics | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=3YaE5e4PXOk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-03T13:00:12+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/3YaE5e4PXOk/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：Infinity explained: It broke mathematics | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 317678,
+          "likes": 6901,
+          "comments": 766,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 441219,
+          "likes": 10148,
+          "comments": 1235,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "lex-fridman-dDc2tnHd04Q",
+      "title": "The hardest problems AI can't solve yet - mathematicians explain | Lex Fridman",
+      "person": "Lex Fridman",
+      "investor": "",
+      "sourceId": "lex-fridman",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=dDc2tnHd04Q",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-03T05:00:11+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "founderInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/dDc2tnHd04Q/hqdefault.jpg",
+      "summary": "科技信号，来自 Lex Fridman：The hardest problems AI can't solve yet - mathematicians explain | Lex Fridman",
+      "topics": [
+        "AI Research",
+        "Founders",
+        "Robotics"
+      ],
+      "assets": [
+        "OpenAI",
+        "Tesla"
+      ],
+      "relevance": 72,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.828Z",
+          "views": 395303,
+          "likes": 8587,
+          "comments": 953,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 549032,
+          "likes": 12628,
+          "comments": 1537,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -5939,7 +7431,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T18:01:39+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6018,6 +7510,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 48450,
+          "likes": 1114,
+          "comments": 136,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6033,7 +7536,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T00:10:24+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6112,6 +7615,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 78365,
+          "likes": 1802,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6127,7 +7641,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T17:36:56+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6207,6 +7721,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 102530,
+          "likes": 2358,
+          "comments": 287,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6222,7 +7747,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-17T16:00:19+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6301,6 +7826,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 67062,
+          "likes": 1542,
+          "comments": 188,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6316,7 +7852,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-20T17:00:27+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6394,6 +7930,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 108486,
+          "likes": 2495,
+          "comments": 304,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6409,7 +7956,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-08T14:45:37+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6477,6 +8024,91 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 255360,
+          "likes": 5873,
+          "comments": 715,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-6ON1aohk8hY",
+      "title": "Jobs Report Doesn't Mean Fed Should Hike Rates, Hassett Argues",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=6ON1aohk8hY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T15:16:23+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/6ON1aohk8hY/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Jobs Report Doesn't Mean Fed Should Hike Rates, Hassett Argues",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro",
+        "全球宏观"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 66,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "全球宏观",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 93,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 21992,
+          "likes": 478,
+          "comments": 53,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 30544,
+          "likes": 703,
+          "comments": 86,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6492,7 +8124,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T19:23:06+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6558,6 +8190,325 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 47529,
+          "likes": 1093,
+          "comments": 133,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-09igP-kQXtw",
+      "title": "From Human Demonstrations to Robot Training Data With RLWRLD | Cosmos Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=09igP-kQXtw",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T06:42:05+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "keynote",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/09igP-kQXtw/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：From Human Demonstrations to Robot Training Data With RLWRLD | Cosmos Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "AI Agents"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.827Z",
+          "views": 47932,
+          "likes": 1041,
+          "comments": 115,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 66572,
+          "likes": 1531,
+          "comments": 186,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-NS9bMGAnPG0",
+      "title": "Video Reasoning and Model Fine-Tuning with Roboflow and NVIDIA Cosmos 3 | Cosmos Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=NS9bMGAnPG0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T06:27:41+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i3.ytimg.com/vi/NS9bMGAnPG0/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Video Reasoning and Model Fine-Tuning with Roboflow and NVIDIA Cosmos 3 | Cosmos Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "Compute",
+        "Foundation Models"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.827Z",
+          "views": 50905,
+          "likes": 1106,
+          "comments": 123,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 70701,
+          "likes": 1626,
+          "comments": 198,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-8lNoGg_j8S8",
+      "title": "Train, Simulate, and Serve World Models with NVIDIA Cosmos Framework and NIM | Cosmos Labs",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=8lNoGg_j8S8",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T06:21:34+00:00",
+      "discoveredAt": "2026-11-05T09:30:59.426Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/8lNoGg_j8S8/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Train, Simulate, and Serve World Models with NVIDIA Cosmos Framework and NIM | Cosmos Labs",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "Compute",
+        "Foundation Models"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-05T03:31:02.213Z",
+          "views": 100475,
+          "likes": 2183,
+          "comments": 242,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T09:30:59.426Z",
+          "views": 139548,
+          "likes": 3210,
+          "comments": 391,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T18:01:55.634Z",
+          "views": 140957,
+          "likes": 3242,
+          "comments": 395,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T23:39:00.052Z",
+          "views": 141849,
+          "likes": 3263,
+          "comments": 397,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 141849,
+          "likes": 3263,
+          "comments": 397,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-developer-E1bvY2gAFY0",
+      "title": "Run Polars on a GPU with AWS | Live with cuDF Polars",
+      "person": "Jensen Huang",
+      "investor": "",
+      "sourceId": "nvidia-developer",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=E1bvY2gAFY0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T05:06:18+00:00",
+      "discoveredAt": "2026-11-05T09:30:59.426Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/E1bvY2gAFY0/hqdefault.jpg",
+      "summary": "科技信号，来自 NVIDIA Developer：Run Polars on a GPU with AWS | Live with cuDF Polars",
+      "topics": [
+        "CUDA",
+        "AI Infrastructure",
+        "Robotics",
+        "Compute"
+      ],
+      "assets": [
+        "NVDA"
+      ],
+      "relevance": 62,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-05T03:31:02.213Z",
+          "views": 83145,
+          "likes": 1806,
+          "comments": 200,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T09:30:59.426Z",
+          "views": 115479,
+          "likes": 2656,
+          "comments": 323,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T18:01:55.634Z",
+          "views": 116942,
+          "likes": 2690,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-05T23:39:00.052Z",
+          "views": 117859,
+          "likes": 2711,
+          "comments": 330,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 117859,
+          "likes": 2711,
+          "comments": 330,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6573,7 +8524,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T21:00:10+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -6631,6 +8582,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 101094,
+          "likes": 2325,
+          "comments": 283,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6646,7 +8608,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T16:00:05+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -6701,6 +8663,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 125276,
+          "likes": 2881,
+          "comments": 351,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6716,7 +8689,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T13:30:15+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -6785,6 +8758,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 76919,
+          "likes": 1769,
+          "comments": 215,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -6800,7 +8784,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T21:55:02+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -6879,83 +8863,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-E1bvY2gAFY0",
-      "title": "Run Polars on a GPU with AWS | Live with cuDF Polars",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=E1bvY2gAFY0",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-30T21:19:25+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/E1bvY2gAFY0/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Run Polars on a GPU with AWS | Live with cuDF Polars",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.213Z",
-          "views": 83145,
-          "likes": 1806,
-          "comments": 200,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 115479,
-          "likes": 2656,
-          "comments": 323,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 116942,
-          "likes": 2690,
-          "comments": 327,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 117859,
-          "likes": 2711,
-          "comments": 330,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 50665,
+          "likes": 1165,
+          "comments": 142,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -6976,7 +8889,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T20:39:00+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7055,84 +8968,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-8lNoGg_j8S8",
-      "title": "Train, Simulate, and Serve World Models with NVIDIA Cosmos Framework and NIM | Cosmos Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=8lNoGg_j8S8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-29T16:55:25+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/8lNoGg_j8S8/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Train, Simulate, and Serve World Models with NVIDIA Cosmos Framework and NIM | Cosmos Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "Compute",
-        "Foundation Models"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 62,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.213Z",
-          "views": 100475,
-          "likes": 2183,
-          "comments": 242,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 139548,
-          "likes": 3210,
-          "comments": 391,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 140957,
-          "likes": 3242,
-          "comments": 395,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 141849,
-          "likes": 3263,
-          "comments": 397,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 52990,
+          "likes": 1219,
+          "comments": 148,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -7153,7 +8994,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T15:00:12+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7231,6 +9072,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 86006,
+          "likes": 1978,
+          "comments": 241,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7246,7 +9098,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T10:47:53+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -7314,6 +9166,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 143816,
+          "likes": 3308,
+          "comments": 403,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7329,7 +9192,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-08T14:30:03+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7397,6 +9260,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 148764,
+          "likes": 3422,
+          "comments": 417,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7412,7 +9286,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-08-18T14:30:10+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -7480,6 +9354,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 282072,
+          "likes": 6488,
+          "comments": 790,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7495,7 +9380,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-28T13:30:03+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7573,6 +9458,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 74088,
+          "likes": 1704,
+          "comments": 207,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7588,7 +9484,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-23T13:30:33+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7666,6 +9562,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 61740,
+          "likes": 1420,
+          "comments": 173,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -7681,7 +9588,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-07-22T15:30:02+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -7759,28 +9666,112 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 93492,
+          "likes": 2150,
+          "comments": 262,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
     {
-      "id": "bloomberg-F52GZaYynQE",
-      "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
+      "id": "yahoo-finance-4bnSM5aK0OY",
+      "title": "Investors want return OF capital now, not return ON it | The 8:30",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=4bnSM5aK0OY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T14:32:01+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/4bnSM5aK0OY/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Investors want return OF capital now, not return ON it | The 8:30",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "TSLA",
+        "BRK"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 85,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 29840,
+          "likes": 648,
+          "comments": 72,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 41445,
+          "likes": 953,
+          "comments": 116,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-f4lO3tW-ueQ",
+      "title": "HSBC’s Max Kettner: The AI Trade Hasn’t Fundamentally Changed",
       "person": "Market leaders",
       "investor": "Market leaders",
       "sourceId": "bloomberg",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=F52GZaYynQE",
+      "originalUrl": "https://www.youtube.com/watch?v=f4lO3tW-ueQ",
       "linkStatus": "verified",
-      "publishedAt": "2026-11-05T23:02:22+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "publishedAt": "2026-11-06T11:40:22+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/F52GZaYynQE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Market Selloff, Volatility & Post-Midterm Repositioning",
+      "thumbnail": "https://i3.ytimg.com/vi/f4lO3tW-ueQ/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：HSBC’s Max Kettner: The AI Trade Hasn’t Fundamentally Changed",
       "topics": [
         "Markets",
         "Technology Investing",
@@ -7812,10 +9803,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 21206,
-          "likes": 460,
-          "comments": 51,
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 68376,
+          "likes": 1485,
+          "comments": 165,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -7823,10 +9814,156 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 29453,
-          "likes": 677,
-          "comments": 82,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 94966,
+          "likes": 2184,
+          "comments": 266,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-_M2FofIQFLY",
+      "title": "Tech Selloff Hits Asia After US Market Rout",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=_M2FofIQFLY",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T11:36:14+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i4.ytimg.com/vi/_M2FofIQFLY/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Tech Selloff Hits Asia After US Market Rout",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 85,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 67014,
+          "likes": 1456,
+          "comments": 162,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 93075,
+          "likes": 2141,
+          "comments": 261,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "yahoo-finance-YG1zmLTT4eA",
+      "title": "Is the stock market crashing? What’s behind tech’s worst day since 2020",
+      "person": "Warren Buffett",
+      "investor": "Warren Buffett",
+      "sourceId": "yahoo-finance",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=YG1zmLTT4eA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T00:00:36+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i2.ytimg.com/vi/YG1zmLTT4eA/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Yahoo Finance：Is the stock market crashing? What’s behind tech’s worst day since 2020",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "TSLA",
+        "BRK"
+      ],
+      "relevance": 58,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 85,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 134628,
+          "likes": 2925,
+          "comments": 325,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 186984,
+          "likes": 4301,
+          "comments": 524,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -7847,7 +9984,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T22:00:35+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -7906,158 +10043,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-ATmi0fL1tRE",
-      "title": "AI, Data Center Worries Sink Tech Stocks",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=ATmi0fL1tRE",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T20:03:01+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/ATmi0fL1tRE/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：AI, Data Center Worries Sink Tech Stocks",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 85,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 42082,
-          "likes": 914,
-          "comments": 102,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 58447,
-          "likes": 1344,
-          "comments": 164,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "yahoo-finance-0xVQUL9uKeQ",
-      "title": "Futurum's strategist: The buildout did not change, the range of outcomes did | Market Hang",
-      "person": "Warren Buffett",
-      "investor": "Warren Buffett",
-      "sourceId": "yahoo-finance",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=0xVQUL9uKeQ",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T18:35:10+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i1.ytimg.com/vi/0xVQUL9uKeQ/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Yahoo Finance：Futurum's strategist: The buildout did not change, the range of outcomes did | Market Hang",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "TSLA",
-        "BRK"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 85,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.665Z",
-          "views": 138868,
-          "likes": 3016,
-          "comments": 335,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 192872,
-          "likes": 4436,
-          "comments": 540,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 192872,
-          "likes": 4436,
-          "comments": 540,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 155223,
+          "likes": 3570,
+          "comments": 435,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -8078,7 +10069,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T21:26:37+00:00",
       "discoveredAt": "2026-11-05T00:54:10.317Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -8158,6 +10149,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 78099,
+          "likes": 1796,
+          "comments": 219,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8173,7 +10175,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T17:40:29+00:00",
       "discoveredAt": "2026-11-04T19:46:49.954Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -8263,6 +10265,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 97442,
+          "likes": 2241,
+          "comments": 273,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8278,7 +10291,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-02T15:00:34+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -8358,6 +10371,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 340886,
+          "likes": 7840,
+          "comments": 954,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8373,7 +10397,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-25T14:00:30+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -8453,6 +10477,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 331456,
+          "likes": 7623,
+          "comments": 928,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8468,7 +10503,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T20:30:39+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -8537,96 +10572,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "cnbc-BMdLiG8J7-g",
-      "title": "Why Bonds Are Back On Investors’ Radar",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "cnbc",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=BMdLiG8J7-g",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-21T14:00:26+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/BMdLiG8J7-g/hqdefault.jpg",
-      "summary": "投资观点信号，来自 CNBC Television：Why Bonds Are Back On Investors’ Radar",
-      "topics": [
-        "Markets",
-        "AI Trade",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "TSLA",
-        "BTC"
-      ],
-      "relevance": 58,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 85,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.217Z",
-          "views": 184776,
-          "likes": 4014,
-          "comments": 446,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 256633,
-          "likes": 5903,
-          "comments": 719,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 257664,
-          "likes": 5926,
-          "comments": 721,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 258331,
-          "likes": 5942,
-          "comments": 723,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 338105,
+          "likes": 7776,
+          "comments": 947,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -8647,7 +10598,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-18T21:17:25+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -8715,6 +10666,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 359659,
+          "likes": 8272,
+          "comments": 1007,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8730,7 +10692,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-16T20:30:21+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -8798,6 +10760,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 294063,
+          "likes": 6763,
+          "comments": 823,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8813,7 +10786,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-05-18T20:44:21+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -8893,6 +10866,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 199080,
+          "likes": 4579,
+          "comments": 557,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8908,7 +10892,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T15:49:55+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -8976,6 +10960,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 43960,
+          "likes": 1011,
+          "comments": 123,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -8991,7 +10986,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-31T09:30:06+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -9070,6 +11065,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 107843,
+          "likes": 2480,
+          "comments": 302,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9085,7 +11091,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T11:42:54+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -9164,6 +11170,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 114246,
+          "likes": 2628,
+          "comments": 320,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9179,7 +11196,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T04:00:10+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -9258,6 +11275,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 77989,
+          "likes": 1794,
+          "comments": 218,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9273,7 +11301,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-20T21:41:41+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -9341,6 +11369,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 101894,
+          "likes": 2344,
+          "comments": 285,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9356,7 +11395,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T20:20:08+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -9415,6 +11454,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 55031,
+          "likes": 1266,
+          "comments": 154,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9430,7 +11480,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-26T19:45:10+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -9510,71 +11560,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation--UVRO6RM4ew",
-      "title": "Don't Review the Code: Formal Specs First Smart Contract Development",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=-UVRO6RM4ew",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T12:02:29+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/-UVRO6RM4ew/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Don't Review the Code: Formal Specs First Smart Contract Development",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 50,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 62574,
-          "likes": 1359,
-          "comments": 151,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 86908,
-          "likes": 1999,
-          "comments": 243,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 113262,
-          "likes": 2605,
-          "comments": 317,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 128967,
+          "likes": 2966,
+          "comments": 361,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -9595,7 +11586,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T00:30:28+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "keynote",
       "novelty": 78,
@@ -9661,6 +11652,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 89840,
+          "likes": 2066,
+          "comments": 252,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9676,7 +11678,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T16:37:46+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -9743,6 +11745,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 624960,
+          "likes": 14374,
+          "comments": 1750,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9758,7 +11771,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-09-09T16:10:39+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -9825,6 +11838,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 564480,
+          "likes": 12983,
+          "comments": 1581,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9840,7 +11864,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-27T17:20:06+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -9920,6 +11944,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 126753,
+          "likes": 2915,
+          "comments": 355,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -9935,7 +11970,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-13T12:00:33+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -10001,6 +12036,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 84889,
+          "likes": 1952,
+          "comments": 238,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10014,9 +12060,9 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "platform": "YouTube",
       "originalUrl": "https://www.youtube.com/watch?v=0Ntthwpfd8Q",
       "linkStatus": "verified",
-      "publishedAt": "2026-10-30T23:08:38+00:00",
+      "publishedAt": "2026-11-06T05:15:11+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -10082,6 +12128,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 138140,
+          "likes": 3177,
+          "comments": 387,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10097,7 +12154,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T13:16:43+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -10163,6 +12220,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 131081,
+          "likes": 3015,
+          "comments": 367,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10178,7 +12246,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T14:00:03+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -10235,6 +12303,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 118650,
+          "likes": 2729,
+          "comments": 332,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10250,7 +12329,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T23:18:32+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -10316,6 +12395,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 59671,
+          "likes": 1372,
+          "comments": 167,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10331,7 +12421,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-23T05:53:33+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -10397,6 +12487,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 84769,
+          "likes": 1950,
+          "comments": 237,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10412,7 +12513,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T21:00:26+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -10492,6 +12593,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 155172,
+          "likes": 3569,
+          "comments": 434,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10507,7 +12619,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T14:00:05+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 70,
@@ -10585,6 +12697,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 46548,
+          "likes": 1071,
+          "comments": 130,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10600,7 +12723,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T20:00:30+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -10681,6 +12804,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 237710,
+          "likes": 5467,
+          "comments": 666,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10696,7 +12830,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T20:00:09+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -10776,6 +12910,150 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 195386,
+          "likes": 4494,
+          "comments": 547,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "y-combinator-T6hVGJ4gepk",
+      "title": "The Startup Industrial Base: Building for the Next 250 — Washington, D.C.",
+      "person": "Garry Tan",
+      "investor": "",
+      "sourceId": "y-combinator",
+      "domain": "AI",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=T6hVGJ4gepk",
+      "linkStatus": "verified",
+      "publishedAt": "2026-09-30T21:15:15+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/T6hVGJ4gepk/hqdefault.jpg",
+      "summary": "科技信号，来自 Y Combinator：The Startup Industrial Base: Building for the Next 250 — Washington, D.C.",
+      "topics": [
+        "AI Startups",
+        "Founders",
+        "Product",
+        "创业与科技"
+      ],
+      "assets": [
+        "AI"
+      ],
+      "relevance": 40,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 182952,
+          "likes": 3974,
+          "comments": 441,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 254100,
+          "likes": 5844,
+          "comments": 711,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-lre_r1SIMwA",
+      "title": "Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
+      "person": "Market leaders",
+      "investor": "Market leaders",
+      "sourceId": "bloomberg",
+      "domain": "Investing",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=lre_r1SIMwA",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T12:45:31+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "investorInterview",
+      "novelty": 78,
+      "editorBoost": 3,
+      "thumbnail": "https://i1.ytimg.com/vi/lre_r1SIMwA/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
+      "topics": [
+        "Markets",
+        "Technology Investing",
+        "Macro"
+      ],
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "BTC"
+      ],
+      "relevance": 38,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "investment": {
+        "direction": "科技成长",
+        "stance": "公开观点",
+        "horizon": "长期跟踪",
+        "conviction": 65,
+        "riskTone": "热度为估算，需接 YouTube API 校准",
+        "thesis": [
+          "已通过主题相关性过滤",
+          "保留原视频直达链接",
+          "适合作为今日情报入口"
+        ]
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 64804,
+          "likes": 1408,
+          "comments": 156,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 90005,
+          "likes": 2070,
+          "comments": 252,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -10791,7 +13069,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T18:31:50+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -10871,28 +13149,39 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 143729,
+          "likes": 3306,
+          "comments": 402,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
     {
-      "id": "bloomberg-AbaaThgpc0c",
-      "title": "Allen Says AI Buildout Already Underway Will Continue",
+      "id": "bloomberg-aXhpDL6ibBI",
+      "title": "Sell Off Turns to Uncertainty",
       "person": "Market leaders",
       "investor": "Market leaders",
       "sourceId": "bloomberg",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=AbaaThgpc0c",
+      "originalUrl": "https://www.youtube.com/watch?v=aXhpDL6ibBI",
       "linkStatus": "verified",
-      "publishedAt": "2026-11-05T23:22:26+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "publishedAt": "2026-11-06T12:04:28+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/AbaaThgpc0c/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Allen Says AI Buildout Already Underway Will Continue",
+      "thumbnail": "https://i2.ytimg.com/vi/aXhpDL6ibBI/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Sell Off Turns to Uncertainty",
       "topics": [
         "Markets",
         "Technology Investing",
@@ -10924,10 +13213,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 36129,
-          "likes": 785,
-          "comments": 87,
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 55550,
+          "likes": 1207,
+          "comments": 134,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -10935,84 +13224,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 50179,
-          "likes": 1154,
-          "comments": 141,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-50V2BcYo3ew",
-      "title": "Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=50V2BcYo3ew",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T21:32:42+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/50V2BcYo3ew/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro",
-        "Compute"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 45804,
-          "likes": 995,
-          "comments": 110,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 63617,
-          "likes": 1463,
-          "comments": 178,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 77153,
+          "likes": 1775,
+          "comments": 216,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -11033,7 +13248,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T21:30:11+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -11091,147 +13306,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-1h8CXfzgrS8",
-      "title": "Expedia CEO on Full-Year Forecast, Travel Demand and AI",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=1h8CXfzgrS8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T21:03:20+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/1h8CXfzgrS8/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Expedia CEO on Full-Year Forecast, Travel Demand and AI",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 36734,
-          "likes": 798,
-          "comments": 89,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 51020,
-          "likes": 1173,
-          "comments": 143,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-fNfpiLSJ0Lk",
-      "title": "AI Fears Rattle Wall St., Safe Havens",
-      "person": "Market leaders",
-      "investor": "Market leaders",
-      "sourceId": "bloomberg",
-      "domain": "Investing",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=fNfpiLSJ0Lk",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T19:34:11+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "investorInterview",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i3.ytimg.com/vi/fNfpiLSJ0Lk/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：AI Fears Rattle Wall St., Safe Havens",
-      "topics": [
-        "Markets",
-        "Technology Investing",
-        "Macro"
-      ],
-      "assets": [
-        "NVDA",
-        "MSFT",
-        "BTC"
-      ],
-      "relevance": 36,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "investment": {
-        "direction": "科技成长",
-        "stance": "公开观点",
-        "horizon": "长期跟踪",
-        "conviction": 63,
-        "riskTone": "热度为估算，需接 YouTube API 校准",
-        "thesis": [
-          "已通过主题相关性过滤",
-          "保留原视频直达链接",
-          "适合作为今日情报入口"
-        ]
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 65697,
-          "likes": 1427,
-          "comments": 158,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 91246,
-          "likes": 2099,
-          "comments": 255,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 159342,
+          "likes": 3665,
+          "comments": 446,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -11252,7 +13332,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-01T15:00:27+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -11332,6 +13412,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 212611,
+          "likes": 4890,
+          "comments": 595,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11347,7 +13438,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T14:00:26+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -11427,6 +13518,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 315719,
+          "likes": 7262,
+          "comments": 884,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11442,7 +13544,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T13:00:07+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -11487,165 +13589,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-7HTRAsVX10E",
-      "title": "Inside Hermes Agent Traces with NeMo Relay | Nemotron Labs",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=7HTRAsVX10E",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-04T07:46:07+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/7HTRAsVX10E/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：Inside Hermes Agent Traces with NeMo Relay | Nemotron Labs",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "AI Agents"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.213Z",
-          "views": 78901,
-          "likes": 1714,
-          "comments": 190,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 109585,
-          "likes": 2520,
-          "comments": 307,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 118802,
-          "likes": 2732,
-          "comments": 333,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 123731,
-          "likes": 2846,
-          "comments": 346,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-developer-mW1LWZWkojo",
-      "title": "How to Maximize Memory Efficiency and Reduce Costs on NVIDIA Jetson",
-      "person": "Jensen Huang",
-      "investor": "",
-      "sourceId": "nvidia-developer",
-      "domain": "AI",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=mW1LWZWkojo",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-30T07:21:18+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 78,
-      "editorBoost": 3,
-      "thumbnail": "https://i2.ytimg.com/vi/mW1LWZWkojo/hqdefault.jpg",
-      "summary": "科技信号，来自 NVIDIA Developer：How to Maximize Memory Efficiency and Reduce Costs on NVIDIA Jetson",
-      "topics": [
-        "CUDA",
-        "AI Infrastructure",
-        "Robotics",
-        "Compute"
-      ],
-      "assets": [
-        "NVDA"
-      ],
-      "relevance": 34,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.213Z",
-          "views": 125139,
-          "likes": 2718,
-          "comments": 302,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 173804,
-          "likes": 3997,
-          "comments": 487,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 175762,
-          "likes": 4043,
-          "comments": 492,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 176997,
-          "likes": 4071,
-          "comments": 496,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 70309,
+          "likes": 1617,
+          "comments": 197,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -11666,7 +13615,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-27T12:00:08+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "marketRoundtable",
       "novelty": 70,
@@ -11733,6 +13682,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 88304,
+          "likes": 2031,
+          "comments": 247,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11748,7 +13708,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-21T14:30:25+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -11816,6 +13776,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 197654,
+          "likes": 4546,
+          "comments": 553,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -11831,7 +13802,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T11:12:44+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -11897,33 +13868,44 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 100613,
+          "likes": 2314,
+          "comments": 282,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
     {
-      "id": "bloomberg-SH0xfqwlA0c",
-      "title": "Stocks Dip on Massive Chip Selloff",
+      "id": "bloomberg-ozd5ySBPLO8",
+      "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
       "person": "Market leaders",
       "investor": "Market leaders",
       "sourceId": "bloomberg",
       "domain": "Investing",
       "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=SH0xfqwlA0c",
+      "originalUrl": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
       "linkStatus": "verified",
-      "publishedAt": "2026-11-05T22:43:21+00:00",
-      "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "publishedAt": "2026-11-06T15:41:44+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
       "editorBoost": 3,
-      "thumbnail": "https://i4.ytimg.com/vi/SH0xfqwlA0c/hqdefault.jpg",
-      "summary": "投资观点信号，来自 Bloomberg Television：Stocks Dip on Massive Chip Selloff",
+      "thumbnail": "https://i4.ytimg.com/vi/ozd5ySBPLO8/hqdefault.jpg",
+      "summary": "投资观点信号，来自 Bloomberg Television：Anthropic IPO Valuation Under Pressure After Tech Rout",
       "topics": [
         "Markets",
         "Technology Investing",
         "Macro",
-        "Compute"
+        "Foundation Models"
       ],
       "assets": [
         "NVDA",
@@ -11951,10 +13933,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       },
       "metrics": [
         {
-          "at": "2026-11-05T17:39:03.967Z",
-          "views": 19635,
-          "likes": 426,
-          "comments": 47,
+          "at": "2026-11-06T09:56:10.831Z",
+          "views": 31155,
+          "likes": 677,
+          "comments": 75,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -11962,10 +13944,10 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 27271,
-          "likes": 627,
-          "comments": 76,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 43271,
+          "likes": 995,
+          "comments": 121,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -11986,7 +13968,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-26T19:48:49+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -12055,6 +14037,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 378054,
+          "likes": 8695,
+          "comments": 1059,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12070,7 +14063,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-25T19:07:52+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -12139,6 +14132,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 408202,
+          "likes": 9389,
+          "comments": 1143,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12154,7 +14158,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-24T18:30:29+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 86,
@@ -12223,6 +14227,431 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 455932,
+          "likes": 10486,
+          "comments": 1277,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-RRcEnJBdxWc",
+      "title": "From Event Data to Social Campaigns: Automating Event Promotion with Eventyay",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=RRcEnJBdxWc",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T12:01:05+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/RRcEnJBdxWc/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：From Event Data to Social Campaigns: Automating Event Promotion with Eventyay",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 44711,
+          "likes": 971,
+          "comments": 108,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 62099,
+          "likes": 1428,
+          "comments": 174,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-bTjr1fzDQ9g",
+      "title": "Measuring Community Vitality: Navigating Multi-Stakeholder Governance in Open Source",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=bTjr1fzDQ9g",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T12:00:48+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/bTjr1fzDQ9g/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Measuring Community Vitality: Navigating Multi-Stakeholder Governance in Open Source",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 69836,
+          "likes": 1517,
+          "comments": 169,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 96994,
+          "likes": 2231,
+          "comments": 272,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-V5H1u_EdUh0",
+      "title": "GrapheneOS Workshop: Secure by Design, Private by Default",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=V5H1u_EdUh0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T10:30:45+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i3.ytimg.com/vi/V5H1u_EdUh0/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：GrapheneOS Workshop: Secure by Design, Private by Default",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 90408,
+          "likes": 1964,
+          "comments": 218,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 125566,
+          "likes": 2888,
+          "comments": 352,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-ShsncV6VBgM",
+      "title": "India DeepTech",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=ShsncV6VBgM",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T08:18:50+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i4.ytimg.com/vi/ShsncV6VBgM/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：India DeepTech",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 62682,
+          "likes": 1361,
+          "comments": 151,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 87058,
+          "likes": 2002,
+          "comments": 244,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-4SfEQhh1CUg",
+      "title": "Security Through Clearing: The Timelock Model",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=4SfEQhh1CUg",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T08:18:33+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/4SfEQhh1CUg/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Security Through Clearing: The Timelock Model",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability",
+        "Foundation Models"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 93678,
+          "likes": 2035,
+          "comments": 226,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 130108,
+          "likes": 2992,
+          "comments": 364,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-EHU2mXIWgeo",
+      "title": "Goodbye YOLO Signing",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=EHU2mXIWgeo",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T08:18:17+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i2.ytimg.com/vi/EHU2mXIWgeo/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Goodbye YOLO Signing",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 84108,
+          "likes": 1827,
+          "comments": 203,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 116817,
+          "likes": 2687,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "ethereum-foundation-0z0EEWi13b0",
+      "title": "Glamsterdam Hard Fork: Out of gas, still running",
+      "person": "Vitalik Buterin",
+      "investor": "",
+      "sourceId": "ethereum-foundation",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=0z0EEWi13b0",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T08:18:00+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "officialLaunch",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/0z0EEWi13b0/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Ethereum Foundation：Glamsterdam Hard Fork: Out of gas, still running",
+      "topics": [
+        "Ethereum L2",
+        "Account Abstraction",
+        "Interoperability"
+      ],
+      "assets": [
+        "ETH"
+      ],
+      "relevance": 28,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.829Z",
+          "views": 84130,
+          "likes": 1827,
+          "comments": 203,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 116847,
+          "likes": 2687,
+          "comments": 327,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12238,7 +14667,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T17:14:11+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -12294,281 +14723,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-AMCuJ8SkCGg",
-      "title": "Opening music",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=AMCuJ8SkCGg",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T16:18:27+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/AMCuJ8SkCGg/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Opening music",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 28,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 25742,
-          "likes": 559,
-          "comments": 62,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 35753,
-          "likes": 822,
-          "comments": 100,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 75643,
-          "likes": 1740,
-          "comments": 212,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-UyYDDFi_5o8",
-      "title": "Implementing EIP-8025 Optional Execution Proofs in Grandine",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=UyYDDFi_5o8",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T11:34:41+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i2.ytimg.com/vi/UyYDDFi_5o8/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：Implementing EIP-8025 Optional Execution Proofs in Grandine",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 28,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 72202,
-          "likes": 1568,
-          "comments": 174,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 100281,
-          "likes": 2306,
-          "comments": 281,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 128317,
-          "likes": 2951,
-          "comments": 359,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-FY7I81XBc60",
-      "title": "The Future of Privacy and How to Stop it",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=FY7I81XBc60",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T11:34:25+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/FY7I81XBc60/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：The Future of Privacy and How to Stop it",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 28,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 101113,
-          "likes": 2196,
-          "comments": 244,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 140435,
-          "likes": 3230,
-          "comments": 393,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 179667,
-          "likes": 4132,
-          "comments": 503,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "ethereum-foundation-HIdMyRL2XmU",
-      "title": "An update on Local Mixing (iO)",
-      "person": "Vitalik Buterin",
-      "investor": "",
-      "sourceId": "ethereum-foundation",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=HIdMyRL2XmU",
-      "linkStatus": "verified",
-      "publishedAt": "2026-11-05T11:33:50+00:00",
-      "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "officialLaunch",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i1.ytimg.com/vi/HIdMyRL2XmU/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Ethereum Foundation：An update on Local Mixing (iO)",
-      "topics": [
-        "Ethereum L2",
-        "Account Abstraction",
-        "Interoperability"
-      ],
-      "assets": [
-        "ETH"
-      ],
-      "relevance": 28,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T12:01:59.663Z",
-          "views": 94296,
-          "likes": 2048,
-          "comments": 228,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 130966,
-          "likes": 3012,
-          "comments": 367,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 167494,
-          "likes": 3852,
-          "comments": 469,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 514779,
+          "likes": 11840,
+          "comments": 1441,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -12589,7 +14749,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T23:42:40+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -12656,6 +14816,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 612363,
+          "likes": 14084,
+          "comments": 1715,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12671,7 +14842,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T18:30:30+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -12738,6 +14909,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 1003247,
+          "likes": 23075,
+          "comments": 2809,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12753,7 +14935,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T18:11:23+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -12820,6 +15002,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 952364,
+          "likes": 21904,
+          "comments": 2667,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12835,7 +15028,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-27T16:00:41+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 86,
@@ -12902,6 +15095,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 315043,
+          "likes": 7246,
+          "comments": 882,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -12915,9 +15119,9 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "platform": "YouTube",
       "originalUrl": "https://www.youtube.com/watch?v=BtCqoPmt8rs",
       "linkStatus": "verified",
-      "publishedAt": "2026-10-30T11:04:15+00:00",
+      "publishedAt": "2026-11-06T08:15:54+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -12985,6 +15189,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 165734,
+          "likes": 3812,
+          "comments": 464,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13000,7 +15215,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-02T05:33:37+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13067,6 +15282,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 201390,
+          "likes": 4632,
+          "comments": 564,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13082,7 +15308,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T22:00:47+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13149,6 +15375,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 177870,
+          "likes": 4091,
+          "comments": 498,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13164,7 +15401,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T22:00:18+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13231,6 +15468,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 105840,
+          "likes": 2434,
+          "comments": 296,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13246,7 +15494,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T21:59:48+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13313,6 +15561,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 164640,
+          "likes": 3787,
+          "comments": 461,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13328,7 +15587,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-01T21:59:19+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "officialLaunch",
       "novelty": 78,
@@ -13395,6 +15654,78 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 183750,
+          "likes": 4226,
+          "comments": 515,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        }
+      ]
+    },
+    {
+      "id": "bankless-DgDbw8cLJbU",
+      "title": "The AI Crash Makes No Sense",
+      "person": "Bankless hosts",
+      "investor": "",
+      "sourceId": "bankless",
+      "domain": "Crypto",
+      "platform": "YouTube",
+      "originalUrl": "https://www.youtube.com/watch?v=DgDbw8cLJbU",
+      "linkStatus": "verified",
+      "publishedAt": "2026-11-06T12:00:12+00:00",
+      "discoveredAt": "2026-11-06T15:56:07.559Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
+      "durationMin": 0,
+      "contentType": "podcast",
+      "novelty": 86,
+      "editorBoost": 5,
+      "thumbnail": "https://i1.ytimg.com/vi/DgDbw8cLJbU/hqdefault.jpg",
+      "summary": "链上与加密信号，来自 Bankless：The AI Crash Makes No Sense",
+      "topics": [
+        "Stablecoin",
+        "Regulation",
+        "Payments"
+      ],
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "relevance": 24,
+      "quality": {
+        "metrics": "estimated",
+        "transcript": "not_connected",
+        "summary": "title_based",
+        "sourceVerified": true
+      },
+      "metrics": [
+        {
+          "at": "2026-11-06T09:56:10.830Z",
+          "views": 36620,
+          "likes": 796,
+          "comments": 88,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 50861,
+          "likes": 1170,
+          "comments": 142,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13410,7 +15741,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T20:17:47+00:00",
       "discoveredAt": "2026-11-05T23:39:00.052Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -13469,6 +15800,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 86747,
+          "likes": 1995,
+          "comments": 243,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13484,7 +15826,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T15:10:45+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -13540,6 +15882,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 46387,
+          "likes": 1067,
+          "comments": 130,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13555,7 +15908,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-05T12:00:25+00:00",
       "discoveredAt": "2026-11-05T18:01:55.634Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -13612,6 +15965,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 131064,
+          "likes": 3014,
+          "comments": 367,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13627,7 +15991,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-04T12:00:10+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -13695,6 +16059,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 150381,
+          "likes": 3459,
+          "comments": 421,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13710,7 +16085,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T20:16:25+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "founderInterview",
       "novelty": 78,
@@ -13777,6 +16152,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 74808,
+          "likes": 1721,
+          "comments": 209,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13792,7 +16178,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-03T12:00:09+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -13861,6 +16247,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 130716,
+          "likes": 3006,
+          "comments": 366,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13876,7 +16273,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-11-02T12:00:34+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -13944,6 +16341,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 227119,
+          "likes": 5224,
+          "comments": 636,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -13959,7 +16367,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-30T11:00:24+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -14027,6 +16435,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 195454,
+          "likes": 4495,
+          "comments": 547,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14042,7 +16461,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T11:00:30+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -14111,6 +16530,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 131071,
+          "likes": 3015,
+          "comments": 367,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14126,7 +16556,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-29T05:38:56+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -14192,6 +16622,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 146370,
+          "likes": 3367,
+          "comments": 410,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14207,7 +16648,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-28T11:00:30+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 86,
@@ -14275,6 +16716,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 130082,
+          "likes": 2992,
+          "comments": 364,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14290,7 +16742,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-27T20:19:16+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -14370,6 +16822,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 121229,
+          "likes": 2788,
+          "comments": 339,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14385,7 +16848,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-27T13:16:42+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -14451,85 +16914,12 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
-        }
-      ]
-    },
-    {
-      "id": "bankless-6JujAGXBLgg",
-      "title": "I Was Wrong About the Anthropic IPO",
-      "person": "Bankless hosts",
-      "investor": "",
-      "sourceId": "bankless",
-      "domain": "Crypto",
-      "platform": "YouTube",
-      "originalUrl": "https://www.youtube.com/watch?v=6JujAGXBLgg",
-      "linkStatus": "verified",
-      "publishedAt": "2026-10-27T11:00:21+00:00",
-      "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
-      "durationMin": 0,
-      "contentType": "podcast",
-      "novelty": 86,
-      "editorBoost": 5,
-      "thumbnail": "https://i3.ytimg.com/vi/6JujAGXBLgg/hqdefault.jpg",
-      "summary": "链上与加密信号，来自 Bankless：I Was Wrong About the Anthropic IPO",
-      "topics": [
-        "Stablecoin",
-        "Regulation",
-        "Payments",
-        "Foundation Models"
-      ],
-      "assets": [
-        "ETH",
-        "BTC",
-        "SOL"
-      ],
-      "relevance": 24,
-      "quality": {
-        "metrics": "estimated",
-        "transcript": "not_connected",
-        "summary": "title_based",
-        "sourceVerified": true
-      },
-      "metrics": [
-        {
-          "at": "2026-11-05T03:31:02.215Z",
-          "views": 138355,
-          "likes": 3006,
-          "comments": 334,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
         },
         {
-          "at": "2026-11-05T09:30:59.426Z",
-          "views": 192160,
-          "likes": 4420,
-          "comments": 538,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T18:01:55.634Z",
-          "views": 193546,
-          "likes": 4452,
-          "comments": 542,
-          "xReposts": 0,
-          "xQuotes": 0,
-          "xBookmarks": 0,
-          "xImpressions": 0,
-          "source": "estimated_baseline"
-        },
-        {
-          "at": "2026-11-05T23:39:00.052Z",
-          "views": 194432,
-          "likes": 4472,
-          "comments": 544,
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 148836,
+          "likes": 3423,
+          "comments": 417,
           "xReposts": 0,
           "xQuotes": 0,
           "xBookmarks": 0,
@@ -14550,7 +16940,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-26T14:39:56+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "podcast",
       "novelty": 78,
@@ -14616,6 +17006,17 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 171747,
+          "likes": 3950,
+          "comments": 481,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     },
@@ -14631,7 +17032,7 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
       "linkStatus": "verified",
       "publishedAt": "2026-10-22T20:56:33+00:00",
       "discoveredAt": "2026-11-05T09:30:59.426Z",
-      "processedAt": "2026-11-05T23:39:00.052Z",
+      "processedAt": "2026-11-06T15:56:07.559Z",
       "durationMin": 0,
       "contentType": "investorInterview",
       "novelty": 78,
@@ -14712,77 +17113,27 @@ window.__ALPHA_RADAR_LIVE_DATA__ = {
           "xBookmarks": 0,
           "xImpressions": 0,
           "source": "estimated_baseline"
+        },
+        {
+          "at": "2026-11-06T15:56:07.559Z",
+          "views": 165422,
+          "likes": 3805,
+          "comments": 463,
+          "xReposts": 0,
+          "xQuotes": 0,
+          "xBookmarks": 0,
+          "xImpressions": 0,
+          "source": "estimated_baseline"
         }
       ]
     }
   ],
   "errors": [
     "anthropic: 404 Not Found",
-    "lex-fridman: 404 Not Found",
-    "y-combinator: 500 Internal Server Error",
     "messari: 404 Not Found",
     "bridgewater: 404 Not Found",
     "invest-like-best: 404 Not Found",
     "investor-podcast: 404 Not Found",
-    "value-investing-legends: 404 Not Found",
-    "openai: 404 Not Found",
-    "anthropic: 404 Not Found",
-    "google-deepmind: 404 Not Found",
-    "nvidia: 404 Not Found",
-    "nvidia-developer: 404 Not Found",
-    "microsoft-developer: 404 Not Found",
-    "google-cloud-tech: 404 Not Found",
-    "meta-developers: 404 Not Found",
-    "dwarkesh: 404 Not Found",
-    "lex-fridman: 404 Not Found",
-    "latent-space: 404 Not Found",
-    "a16z: 404 Not Found",
-    "sequoia-capital: 404 Not Found",
-    "y-combinator: 404 Not Found",
-    "mit-csail: 404 Not Found",
-    "ethereum-foundation: 404 Not Found",
-    "ethglobal: 404 Not Found",
-    "bankless: 404 Not Found",
-    "a16z-crypto: 404 Not Found",
-    "coinbase: 404 Not Found",
-    "chainlink: 404 Not Found",
-    "bitcoin-magazine: 404 Not Found",
-    "coindesk: 404 Not Found",
-    "messari: 404 Not Found",
-    "uniswap: 404 Not Found",
-    "ark-invest: 404 Not Found",
-    "altimeter: 404 Not Found",
-    "principles-dalio: 404 Not Found",
-    "bridgewater: 404 Not Found",
-    "yahoo-finance: 404 Not Found",
-    "bloomberg: 404 Not Found",
-    "cnbc: 404 Not Found",
-    "acquired: 404 Not Found",
-    "invest-like-best: 404 Not Found",
-    "investor-podcast: 404 Not Found",
-    "value-investing-legends: 404 Not Found",
-    "milken: 404 Not Found",
-    "goldman-sachs: 404 Not Found",
-    "vanguard: 404 Not Found",
-    "Latest fetch returned no videos; kept previous data."
-  ],
-  "lastAttemptAt": "2026-11-06T06:50:08.510Z",
-  "lastAttemptDiagnostics": {
-    "version": "data-pipeline-v2",
-    "generatedAt": "2026-11-06T06:50:08.510Z",
-    "schedule": "every_2_hours",
-    "mode": "youtube_rss_with_estimated_metrics",
-    "youtubeApiEnabled": false,
-    "sourceCount": 40,
-    "successfulSources": 1,
-    "failedSources": 39,
-    "fetchedVideos": 0,
-    "acceptedVideos": 0,
-    "filteredVideos": 0,
-    "outputVideos": 163,
-    "maxPerSource": 8,
-    "apiStatsCount": 0,
-    "directLinks": 0,
-    "qualityNote": "当前未配置 YOUTUBE_API_KEY，热度为频道基线估算；标题、发布时间、封面和原视频链接来自 YouTube RSS。 本次采集没有拿到新视频，已保留上一次成功数据。"
-  }
+    "value-investing-legends: 404 Not Found"
+  ]
 };
